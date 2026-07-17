@@ -450,5 +450,57 @@ def main():
     print(f"总仓库: {s['total_repos']} | 活跃: {s['active_repos']} | Issue: {s['total_issues']} | PR: {s['total_prs']} | AI Log: {s['ai_log_repos']}", file=sys.stderr)
 
 
+def push_to_github():
+    """Push updated stats to the GitHub repo."""
+    import subprocess
+
+    repo_dir = "/tmp/openvela-contest-stats"
+    remote_url = f"https://TangMeng12:{TOKEN}@github.com/TangMeng12/openvela-contest-stats.git" if TOKEN else "https://github.com/TangMeng12/openvela-contest-stats.git"
+
+    # Clone or pull
+    if not os.path.exists(repo_dir):
+        subprocess.run(["git", "clone", remote_url, repo_dir],
+                      capture_output=True, text=True)
+    else:
+        subprocess.run(["git", "-C", repo_dir, "pull", "origin", "main"],
+                      capture_output=True, text=True)
+
+    # Copy updated files
+    import shutil
+    for fname in ["REPORT.md", "history.json"]:
+        src = os.path.join(SCRIPT_DIR, fname)
+        if os.path.exists(src):
+            shutil.copy2(src, os.path.join(repo_dir, fname))
+
+    charts_dest = os.path.join(repo_dir, "charts")
+    os.makedirs(charts_dest, exist_ok=True)
+    charts_src = CHARTS_DIR
+    if os.path.exists(charts_src):
+        for f in os.listdir(charts_src):
+            shutil.copy2(os.path.join(charts_src, f), os.path.join(charts_dest, f))
+
+    # Git add, commit, push
+    subprocess.run(["git", "-C", repo_dir, "add", "-A"], capture_output=True)
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    result = subprocess.run(
+        ["git", "-C", repo_dir, "commit", "-m", f"stats: 每日更新 ({today})"],
+        capture_output=True, text=True
+    )
+
+    if result.returncode == 0:
+        push_result = subprocess.run(
+            ["git", "-C", repo_dir, "push", "origin", "main"],
+            capture_output=True, text=True
+        )
+        if push_result.returncode == 0:
+            print("✅ 已推送到 GitHub: https://github.com/TangMeng12/openvela-contest-stats", file=sys.stderr)
+        else:
+            print(f"❌ 推送失败: {push_result.stderr}", file=sys.stderr)
+    else:
+        print("ℹ️ 无变更需要提交", file=sys.stderr)
+
+
 if __name__ == "__main__":
     main()
+    push_to_github()
