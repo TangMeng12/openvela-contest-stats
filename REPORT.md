@@ -1,23 +1,23 @@
 # openvela 大赛仓库统计报告
 
-> 最后更新时间: 2026-07-22T14:46:14.857285
+> 最后更新时间: 2026-07-23T14:32:59.900889
 
 ## 📊 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总仓库数 | **251** |
+| 总仓库数 | **252** |
 | 有活跃 Issue/PR 的仓库 | **33** |
 | 总 Issue 数（纯 issue，不含 PR） | **41** |
-| 总 PR 数 | **158** |
+| 总 PR 数 | **161** |
 | 提交了 AI Log 的仓库 | **13** |
 
 ## 🏆 有活跃 PR/Issue 的仓库明细
 
 | # | 仓库 | Issue | PR | AI Log |
 |---|------|-------|----|--------|
-| 1 | [contest2026_062_PharosTech](https://github.com/open-vela/contest2026_062_PharosTech) | 3 | 38 | ❌ |
-| 2 | [contest2026_137_CtrlFuture](https://github.com/open-vela/contest2026_137_CtrlFuture) | 38 | 27 | ❌ |
+| 1 | [contest2026_062_PharosTech](https://github.com/open-vela/contest2026_062_PharosTech) | 3 | 39 | ❌ |
+| 2 | [contest2026_137_CtrlFuture](https://github.com/open-vela/contest2026_137_CtrlFuture) | 38 | 28 | ❌ |
 | 3 | [contest2026_011_ladelamuStudio](https://github.com/open-vela/contest2026_011_ladelamuStudio) | 0 | 10 | ✅ |
 | 4 | [contest2026_151_mianbao](https://github.com/open-vela/contest2026_151_mianbao) | 0 | 9 | ✅ |
 | 5 | [contest2026_141_QiDiAi](https://github.com/open-vela/contest2026_141_QiDiAi) | 0 | 8 | ✅ |
@@ -30,9 +30,9 @@
 | 12 | [contest2026_223_hepingdechengshi](https://github.com/open-vela/contest2026_223_hepingdechengshi) | 0 | 4 | ❌ |
 | 13 | [contest2026_052_xinfanzhichuang](https://github.com/open-vela/contest2026_052_xinfanzhichuang) | 0 | 3 | ❌ |
 | 14 | [contest2026_094_andy](https://github.com/open-vela/contest2026_094_andy) | 0 | 3 | ❌ |
-| 15 | [contest2026_030_PI](https://github.com/open-vela/contest2026_030_PI) | 0 | 2 | ❌ |
-| 16 | [contest2026_092_NAILTEAM](https://github.com/open-vela/contest2026_092_NAILTEAM) | 0 | 2 | ❌ |
-| 17 | [contest2026_148_langyongyunji](https://github.com/open-vela/contest2026_148_langyongyunji) | 0 | 2 | ❌ |
+| 15 | [contest2026_148_langyongyunji](https://github.com/open-vela/contest2026_148_langyongyunji) | 0 | 3 | ❌ |
+| 16 | [contest2026_030_PI](https://github.com/open-vela/contest2026_030_PI) | 0 | 2 | ❌ |
+| 17 | [contest2026_092_NAILTEAM](https://github.com/open-vela/contest2026_092_NAILTEAM) | 0 | 2 | ❌ |
 | 18 | [contest2026_004_TeamFalcons](https://github.com/open-vela/contest2026_004_TeamFalcons) | 0 | 1 | ❌ |
 | 19 | [contest2026_007_Flux](https://github.com/open-vela/contest2026_007_Flux) | 0 | 1 | ✅ |
 | 20 | [contest2026_012_lizhudongtian](https://github.com/open-vela/contest2026_012_lizhudongtian) | 0 | 1 | ❌ |
@@ -74,10 +74,11 @@
 | 2026-07-20 | 238 | 32 | 41 | 153 | 12 |
 | 2026-07-21 | 247 | 33 | 41 | 155 | 13 |
 | 2026-07-22 | 251 | 33 | 41 | 158 | 13 |
+| 2026-07-23 | 252 | 33 | 41 | 161 | 13 |
 
 ### 较上次变化
 
-- 总仓库: +4
+- 总仓库: +1
 - PR: +3
 
 ### PR 数量趋势
@@ -85,8 +86,9 @@
 ```
 2026-07-17 | ██████████████████████████████ 122
 2026-07-20 | ██████████████████████████████████████ 153
-2026-07-21 | ███████████████████████████████████████ 155
-2026-07-22 | ████████████████████████████████████████ 158
+2026-07-21 | ██████████████████████████████████████ 155
+2026-07-22 | ███████████████████████████████████████ 158
+2026-07-23 | ████████████████████████████████████████ 161
 ```
 
 ### AI Log 提交仓库趋势
@@ -96,15 +98,16 @@
 2026-07-20 | ████████████████████████████████████ 12
 2026-07-21 | ████████████████████████████████████████ 13
 2026-07-22 | ████████████████████████████████████████ 13
+2026-07-23 | ████████████████████████████████████████ 13
 ```
 
 ## 🏅 仓库 PR 排行榜
 
 ```
-062_PharosTech                           | ██████████████████████████████ 38
-137_CtrlFuture                           | █████████████████████ 27
+062_PharosTech                           | ██████████████████████████████ 39
+137_CtrlFuture                           | █████████████████████ 28
 011_ladelamuStudio                       | ███████ 10 📝
-151_mianbao                              | ███████ 9 📝
+151_mianbao                              | ██████ 9 📝
 141_QiDiAi                               | ██████ 8 📝
 000_openvela                             | █████ 7
 059_0error                               | ████ 6 📝
@@ -115,7 +118,7 @@
 223_hepingdechengshi                     | ███ 4
 052_xinfanzhichuang                      | ██ 3
 094_andy                                 | ██ 3
-030_PI                                   | █ 2
+148_langyongyunji                        | ██ 3
 ```
 
 ---
