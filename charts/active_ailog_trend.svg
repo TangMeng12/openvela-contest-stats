@@ -4,42 +4,47 @@
 <line x1="60" y1="320.0" x2="650" y2="320.0" stroke="#e5e7eb" stroke-width="1"/>
 <text x="50" y="324.0" text-anchor="end" font-size="11" fill="#6b7280">0</text>
 <line x1="60" y1="252.5" x2="650" y2="252.5" stroke="#e5e7eb" stroke-width="1"/>
-<text x="50" y="256.5" text-anchor="end" font-size="11" fill="#6b7280">8</text>
+<text x="50" y="256.5" text-anchor="end" font-size="11" fill="#6b7280">9</text>
 <line x1="60" y1="185.0" x2="650" y2="185.0" stroke="#e5e7eb" stroke-width="1"/>
-<text x="50" y="189.0" text-anchor="end" font-size="11" fill="#6b7280">16</text>
+<text x="50" y="189.0" text-anchor="end" font-size="11" fill="#6b7280">18</text>
 <line x1="60" y1="117.5" x2="650" y2="117.5" stroke="#e5e7eb" stroke-width="1"/>
-<text x="50" y="121.5" text-anchor="end" font-size="11" fill="#6b7280">24</text>
+<text x="50" y="121.5" text-anchor="end" font-size="11" fill="#6b7280">27</text>
 <line x1="60" y1="50.0" x2="650" y2="50.0" stroke="#e5e7eb" stroke-width="1"/>
-<text x="50" y="54.0" text-anchor="end" font-size="11" fill="#6b7280">33</text>
+<text x="50" y="54.0" text-anchor="end" font-size="11" fill="#6b7280">37</text>
 <text x="60.0" y="340" text-anchor="middle" font-size="10" fill="#6b7280" transform="rotate(-45 60.0 340)">2026-07-17</text>
-<text x="207.5" y="340" text-anchor="middle" font-size="10" fill="#6b7280" transform="rotate(-45 207.5 340)">2026-07-20</text>
-<text x="355.0" y="340" text-anchor="middle" font-size="10" fill="#6b7280" transform="rotate(-45 355.0 340)">2026-07-21</text>
-<text x="502.5" y="340" text-anchor="middle" font-size="10" fill="#6b7280" transform="rotate(-45 502.5 340)">2026-07-22</text>
-<text x="650.0" y="340" text-anchor="middle" font-size="10" fill="#6b7280" transform="rotate(-45 650.0 340)">2026-07-23</text>
-<polyline points="60.0,107.27272727272728 207.5,58.18181818181819 355.0,50.0 502.5,50.0 650.0,50.0" fill="none" stroke="#2563eb" stroke-width="2"/>
-<circle cx="60.0" cy="107.27272727272728" r="4" fill="#2563eb"/>
-<text x="60.0" y="99.27272727272728" text-anchor="middle" font-size="9" fill="#2563eb">26</text>
-<circle cx="207.5" cy="58.18181818181819" r="4" fill="#2563eb"/>
-<text x="207.5" y="50.18181818181819" text-anchor="middle" font-size="9" fill="#2563eb">32</text>
-<circle cx="355.0" cy="50.0" r="4" fill="#2563eb"/>
-<text x="355.0" y="42.0" text-anchor="middle" font-size="9" fill="#2563eb">33</text>
-<circle cx="502.5" cy="50.0" r="4" fill="#2563eb"/>
-<text x="502.5" y="42.0" text-anchor="middle" font-size="9" fill="#2563eb">33</text>
+<text x="178.0" y="340" text-anchor="middle" font-size="10" fill="#6b7280" transform="rotate(-45 178.0 340)">2026-07-20</text>
+<text x="296.0" y="340" text-anchor="middle" font-size="10" fill="#6b7280" transform="rotate(-45 296.0 340)">2026-07-21</text>
+<text x="414.0" y="340" text-anchor="middle" font-size="10" fill="#6b7280" transform="rotate(-45 414.0 340)">2026-07-22</text>
+<text x="532.0" y="340" text-anchor="middle" font-size="10" fill="#6b7280" transform="rotate(-45 532.0 340)">2026-07-23</text>
+<text x="650.0" y="340" text-anchor="middle" font-size="10" fill="#6b7280" transform="rotate(-45 650.0 340)">2026-07-27</text>
+<polyline points="60.0,130.27027027027026 178.0,86.48648648648648 296.0,79.1891891891892 414.0,79.1891891891892 532.0,79.1891891891892 650.0,50.0" fill="none" stroke="#2563eb" stroke-width="2"/>
+<circle cx="60.0" cy="130.27027027027026" r="4" fill="#2563eb"/>
+<text x="60.0" y="122.27027027027026" text-anchor="middle" font-size="9" fill="#2563eb">26</text>
+<circle cx="178.0" cy="86.48648648648648" r="4" fill="#2563eb"/>
+<text x="178.0" y="78.48648648648648" text-anchor="middle" font-size="9" fill="#2563eb">32</text>
+<circle cx="296.0" cy="79.1891891891892" r="4" fill="#2563eb"/>
+<text x="296.0" y="71.1891891891892" text-anchor="middle" font-size="9" fill="#2563eb">33</text>
+<circle cx="414.0" cy="79.1891891891892" r="4" fill="#2563eb"/>
+<text x="414.0" y="71.1891891891892" text-anchor="middle" font-size="9" fill="#2563eb">33</text>
+<circle cx="532.0" cy="79.1891891891892" r="4" fill="#2563eb"/>
+<text x="532.0" y="71.1891891891892" text-anchor="middle" font-size="9" fill="#2563eb">33</text>
 <circle cx="650.0" cy="50.0" r="4" fill="#2563eb"/>
-<text x="650.0" y="42.0" text-anchor="middle" font-size="9" fill="#2563eb">33</text>
+<text x="650.0" y="42.0" text-anchor="middle" font-size="9" fill="#2563eb">37</text>
 <line x1="670" y1="70" x2="690" y2="70" stroke="#2563eb" stroke-width="2"/>
 <text x="695" y="74" font-size="11" fill="#2563eb">活跃仓库</text>
-<polyline points="60.0,238.1818181818182 207.5,221.8181818181818 355.0,213.63636363636363 502.5,213.63636363636363 650.0,213.63636363636363" fill="none" stroke="#dc2626" stroke-width="2"/>
-<circle cx="60.0" cy="238.1818181818182" r="4" fill="#dc2626"/>
-<text x="60.0" y="230.1818181818182" text-anchor="middle" font-size="9" fill="#dc2626">10</text>
-<circle cx="207.5" cy="221.8181818181818" r="4" fill="#dc2626"/>
-<text x="207.5" y="213.8181818181818" text-anchor="middle" font-size="9" fill="#dc2626">12</text>
-<circle cx="355.0" cy="213.63636363636363" r="4" fill="#dc2626"/>
-<text x="355.0" y="205.63636363636363" text-anchor="middle" font-size="9" fill="#dc2626">13</text>
-<circle cx="502.5" cy="213.63636363636363" r="4" fill="#dc2626"/>
-<text x="502.5" y="205.63636363636363" text-anchor="middle" font-size="9" fill="#dc2626">13</text>
-<circle cx="650.0" cy="213.63636363636363" r="4" fill="#dc2626"/>
-<text x="650.0" y="205.63636363636363" text-anchor="middle" font-size="9" fill="#dc2626">13</text>
+<polyline points="60.0,247.02702702702703 178.0,232.43243243243242 296.0,225.13513513513513 414.0,225.13513513513513 532.0,225.13513513513513 650.0,195.94594594594594" fill="none" stroke="#dc2626" stroke-width="2"/>
+<circle cx="60.0" cy="247.02702702702703" r="4" fill="#dc2626"/>
+<text x="60.0" y="239.02702702702703" text-anchor="middle" font-size="9" fill="#dc2626">10</text>
+<circle cx="178.0" cy="232.43243243243242" r="4" fill="#dc2626"/>
+<text x="178.0" y="224.43243243243242" text-anchor="middle" font-size="9" fill="#dc2626">12</text>
+<circle cx="296.0" cy="225.13513513513513" r="4" fill="#dc2626"/>
+<text x="296.0" y="217.13513513513513" text-anchor="middle" font-size="9" fill="#dc2626">13</text>
+<circle cx="414.0" cy="225.13513513513513" r="4" fill="#dc2626"/>
+<text x="414.0" y="217.13513513513513" text-anchor="middle" font-size="9" fill="#dc2626">13</text>
+<circle cx="532.0" cy="225.13513513513513" r="4" fill="#dc2626"/>
+<text x="532.0" y="217.13513513513513" text-anchor="middle" font-size="9" fill="#dc2626">13</text>
+<circle cx="650.0" cy="195.94594594594594" r="4" fill="#dc2626"/>
+<text x="650.0" y="187.94594594594594" text-anchor="middle" font-size="9" fill="#dc2626">17</text>
 <line x1="670" y1="90" x2="690" y2="90" stroke="#dc2626" stroke-width="2"/>
 <text x="695" y="94" font-size="11" fill="#dc2626">AI Log仓库</text>
 </svg>
