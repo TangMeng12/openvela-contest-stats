@@ -467,7 +467,7 @@ def push_to_github():
 
     # Copy updated files
     import shutil
-    for fname in ["REPORT.md", "history.json"]:
+    for fname in ["REPORT.md", "history.json", "PUBLIC_BRANCH_REPORT.md", "public_branch_history.json"]:
         src = os.path.join(SCRIPT_DIR, fname)
         if os.path.exists(src):
             shutil.copy2(src, os.path.join(repo_dir, fname))
@@ -501,6 +501,210 @@ def push_to_github():
         print("ℹ️ 无变更需要提交", file=sys.stderr)
 
 
+
+
+# ============================================================
+# Public Branch (dev-ai-contest-2026) PR Statistics
+# ============================================================
+
+PUBLIC_BRANCH = "dev-ai-contest-2026"
+PUBLIC_BRANCH_HISTORY_FILE = os.path.join(SCRIPT_DIR, "public_branch_history.json")
+PUBLIC_BRANCH_REPORT_FILE = os.path.join(SCRIPT_DIR, "PUBLIC_BRANCH_REPORT.md")
+
+
+def query_public_branch_prs():
+    """Query all PRs targeting dev-ai-contest-2026 branch in public (non-contest2026) repos."""
+    print("
+查询公共仓库 dev-ai-contest-2026 分支 PR...", file=sys.stderr)
+
+    all_prs = []
+    page = 1
+    while True:
+        url = f"{BASE_URL}/search/issues?q=org:{ORG}+is:pr+base:{PUBLIC_BRANCH}+-repo:{ORG}/contest2026&per_page=100&page={page}"
+        data, _ = fetch_json(url)
+        if not data or data == "RATE_LIMITED" or "items" not in data:
+            break
+        items = data["items"]
+        if not items:
+            break
+        all_prs.extend(items)
+        print(f"  Page {page}: {len(items)} PRs (total: {len(all_prs)})", file=sys.stderr)
+        if len(items) < 100:
+            break
+        page += 1
+        time.sleep(1)
+
+    # Categorize
+    merged = []
+    open_prs = []
+    closed_not_merged = []
+
+    for pr in all_prs:
+        repo_url = pr["repository_url"]
+        repo_name = repo_url.split("/")[-1]
+        if "contest2026" in repo_name:
+            continue
+
+        pr_info = {
+            "repo": repo_name,
+            "number": pr["number"],
+            "title": pr["title"],
+            "state": pr["state"],
+            "user": pr["user"]["login"],
+            "url": pr["html_url"],
+            "created_at": pr["created_at"][:10],
+        }
+
+        if pr["state"] == "open":
+            open_prs.append(pr_info)
+        elif pr.get("pull_request", {}).get("merged_at"):
+            merged.append(pr_info)
+        else:
+            closed_not_merged.append(pr_info)
+
+    # Check merge status for closed PRs
+    actually_merged = []
+    actually_closed = []
+    for pr_info in closed_not_merged:
+        url = f"{BASE_URL}/repos/{ORG}/{pr_info["repo"]}/pulls/{pr_info["number"]}"
+        data, _ = fetch_json(url)
+        if data and data != "RATE_LIMITED" and data.get("merged_at"):
+            pr_info["merged_at"] = data["merged_at"][:10]
+            actually_merged.append(pr_info)
+        else:
+            actually_closed.append(pr_info)
+        time.sleep(0.1)
+
+    merged.extend(actually_merged)
+
+    print(f"  公共仓库 PR: merged={len(merged)}, open={len(open_prs)}, closed={len(actually_closed)}", file=sys.stderr)
+
+    return {
+        "summary": {
+            "total_prs": len(merged) + len(open_prs) + len(actually_closed),
+            "merged": len(merged),
+            "open": len(open_prs),
+            "closed_not_merged": len(actually_closed),
+        },
+        "merged_prs": sorted(merged, key=lambda x: x["repo"]),
+        "open_prs": sorted(open_prs, key=lambda x: x["repo"]),
+        "closed_not_merged_prs": sorted(actually_closed, key=lambda x: x["repo"]),
+    }
+
+
+def save_public_branch_history(result):
+    """Save public branch query result to history."""
+    try:
+        with open(PUBLIC_BRANCH_HISTORY_FILE, "r", encoding="utf-8") as f:
+            history = json.load(f)
+    except:
+        history = []
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    repo_merged = {}
+    for pr in result["merged_prs"]:
+        repo_merged.setdefault(pr["repo"], 0)
+        repo_merged[pr["repo"]] += 1
+
+    entry = {
+        "date": today,
+        "timestamp": datetime.now().isoformat(),
+        "summary": result["summary"],
+        "merged_repos": repo_merged,
+        "open_prs": [{"repo": p["repo"], "number": p["number"], "title": p["title"],
+                      "user": p["user"], "url": p["url"]} for p in result["open_prs"]],
+    }
+
+    existing_idx = next((i for i, h in enumerate(history) if h["date"] == today), None)
+    if existing_idx is not None:
+        history[existing_idx] = entry
+    else:
+        history.append(entry)
+
+    with open(PUBLIC_BRANCH_HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(history, f, ensure_ascii=False, indent=2)
+
+    return history
+
+
+def generate_public_branch_report(result):
+    """Generate Markdown report for public branch PRs."""
+    s = result["summary"]
+    merged = result["merged_prs"]
+    open_prs = result["open_prs"]
+    closed = result["closed_not_merged_prs"]
+
+    lines = []
+    lines.append("# openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计")
+    lines.append("")
+    lines.append(f"> 最后更新时间: {datetime.now().isoformat()}")
+    lines.append("")
+
+    lines.append("## 📊 总体统计")
+    lines.append("")
+    lines.append("| 指标 | 数量 |")
+    lines.append("|------|------|")
+    lines.append(f"| 总 PR 数 | **{s["total_prs"]}** |")
+    lines.append(f"| 已合入 (Merged) | **{s["merged"]}** |")
+    lines.append(f"| 待合入 (Open) | **{s["open"]}** |")
+    lines.append(f"| 已关闭未合入 | **{s["closed_not_merged"]}** |")
+    lines.append("")
+
+    # Merged by repo
+    lines.append("## ✅ 已合入 PR 分布（按仓库）")
+    lines.append("")
+    lines.append("| 仓库 | 合入 PR 数 |")
+    lines.append("|------|-----------|" )
+    repo_merged = {}
+    for pr in merged:
+        repo_merged.setdefault(pr["repo"], []).append(pr)
+    for repo, prs in sorted(repo_merged.items(), key=lambda x: -len(x[1])):
+        lines.append(f"| [{repo}](https://github.com/{ORG}/{repo}) | {len(prs)} |")
+    lines.append(f"| **合计** | **{len(merged)}** |")
+    lines.append("")
+
+    # Open PRs
+    lines.append("## ⏳ 待合入 PR（需关注）")
+    lines.append("")
+    lines.append("| # | 仓库 | PR | 标题 | 作者 | 创建时间 | 链接 |")
+    lines.append("|---|------|-----|------|------|----------|------|")
+    for i, pr in enumerate(open_prs, 1):
+        title = pr["title"][:60] + ("..." if len(pr["title"]) > 60 else "")
+        lines.append(f"| {i} | {pr["repo"]} | #{pr["number"]} | {title} | {pr["user"]} | {pr["created_at"]} | [查看]({pr["url"]}) |")
+    lines.append("")
+
+    # Closed not merged
+    lines.append("## ❌ 已关闭未合入 PR")
+    lines.append("")
+    lines.append("| # | 仓库 | PR | 标题 | 作者 | 创建时间 | 链接 |")
+    lines.append("|---|------|-----|------|------|----------|------|")
+    for i, pr in enumerate(closed, 1):
+        title = pr["title"][:60] + ("..." if len(pr["title"]) > 60 else "")
+        lines.append(f"| {i} | {pr["repo"]} | #{pr["number"]} | {title} | {pr["user"]} | {pr["created_at"]} | [查看]({pr["url"]}) |")
+    lines.append("")
+
+    lines.append("---")
+    lines.append("")
+    lines.append("*本报告由 query_and_record.py 自动生成*")
+    lines.append("*数据来源: GitHub API (https://github.com/open-vela)*")
+
+    with open(PUBLIC_BRANCH_REPORT_FILE, "w", encoding="utf-8") as f:
+        f.write("
+".join(lines))
+
+    print(f"公共仓库报告已生成: {PUBLIC_BRANCH_REPORT_FILE}", file=sys.stderr)
+
+
+
 if __name__ == "__main__":
     main()
+    # Query public branch PRs
+    try:
+        pb_result = query_public_branch_prs()
+        save_public_branch_history(pb_result)
+        generate_public_branch_report(pb_result)
+        pb_s = pb_result["summary"]
+        print(f"公共仓库 PR: total={pb_s['total_prs']} | merged={pb_s['merged']} | open={pb_s['open']} | closed={pb_s['closed_not_merged']}", file=sys.stderr)
+    except Exception as e:
+        print(f"公共仓库查询失败: {e}", file=sys.stderr)
     push_to_github()

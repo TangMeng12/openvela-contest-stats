@@ -1,0 +1,162 @@
+[
+  {
+    "date": "2026-07-27",
+    "timestamp": "2026-07-27T14:25:07.490956",
+    "summary": {
+      "total_prs": 197,
+      "merged": 163,
+      "open": 17,
+      "closed_not_merged": 17
+    },
+    "merged_repos": {
+      ".claude": 24,
+      "apps_graphics_lvgl": 1,
+      "build": 1,
+      "docs": 63,
+      "frameworks_runtimes_feature": 2,
+      "frameworks_runtimes_quickapp": 1,
+      "libs_openvela_vela": 1,
+      "manifests": 8,
+      "nuttx": 5,
+      "nuttx-apps": 2,
+      "packages": 1,
+      "packages_ai_agent": 7,
+      "packages_apps": 2,
+      "packages_demos": 1,
+      "packages_fe_examples": 1,
+      "test-manifest-self-ref": 2,
+      "vendor": 2,
+      "vendor_SpacemiT": 1,
+      "vendor_allwinnertech": 9,
+      "vendor_artinchip": 2,
+      "vendor_bes": 2,
+      "vendor_espressif": 1,
+      "vendor_gigadevice": 3,
+      "vendor_openvela": 2,
+      "vendor_rockchip": 1,
+      "vendor_sifli": 15,
+      "vendor_st": 3
+    },
+    "open_prs": [
+      {
+        "repo": ".claude",
+        "number": 37,
+        "title": "feat(collector): consent prompt before uploading session logs",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/.claude/pull/37"
+      },
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 39,
+        "title": "draw/sifli: add EPIC hardware acceleration",
+        "user": "yunlonguu",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/39"
+      },
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 37,
+        "title": "cherry-pick: add ArtInChip GE2D GPU accelerator, MPP decoder and v8-v9 API macros",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/37"
+      },
+      {
+        "repo": "apps_interpreters_quickjs",
+        "number": 1,
+        "title": "build: fix qjsc host build on macOS (Apple Silicon)",
+        "user": "onecer",
+        "url": "https://github.com/open-vela/apps_interpreters_quickjs/pull/1"
+      },
+      {
+        "repo": "docs",
+        "number": 626,
+        "title": "docs: add macOS (Apple Silicon) quick start guide",
+        "user": "onecer",
+        "url": "https://github.com/open-vela/docs/pull/626"
+      },
+      {
+        "repo": "nuttx",
+        "number": 323,
+        "title": "fix: monitor STM32H7 Ethernet carrier",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/323"
+      },
+      {
+        "repo": "nuttx",
+        "number": 322,
+        "title": "feat(arch/boards): add ESP32-P4 RISC-V platform support",
+        "user": "Joneyao",
+        "url": "https://github.com/open-vela/nuttx/pull/322"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 113,
+        "title": "graphics/lvgl: link SiFli EPIC HAL",
+        "user": "yunlonguu",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/113"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 112,
+        "title": "fix: reacquire IPv4 after carrier changes",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/112"
+      },
+      {
+        "repo": "test-manifest-self-ref",
+        "number": 3,
+        "title": "demos/cla_check_demo: add minimal demo to verify CLA workflow",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/test-manifest-self-ref/pull/3"
+      },
+      {
+        "repo": "vendor_SpacemiT",
+        "number": 2,
+        "title": "docs: trim reference table to official SpacemiT resources only",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/vendor_SpacemiT/pull/2"
+      },
+      {
+        "repo": "vendor_allwinnertech",
+        "number": 15,
+        "title": "[PATCH] add usb host driver (cherry-pick to dev-ai-contest-2026)",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/15"
+      },
+      {
+        "repo": "vendor_artinchip",
+        "number": 5,
+        "title": "cherry-pick: ArtInChip GE/VE driver, MPP base library, LVGL demo and PSRAM/IRQ fix",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/vendor_artinchip/pull/5"
+      },
+      {
+        "repo": "vendor_espressif",
+        "number": 6,
+        "title": "boards/esp32s3-eye: drop branch-dependency note and known-limitations section",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/vendor_espressif/pull/6"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 28,
+        "title": "sf32lb52: add accelerated LCD display support",
+        "user": "yunlonguu",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/28"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 27,
+        "title": "sf32lb52_devkit_lcd: add an lvgl board configuration",
+        "user": "onecer",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/27"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 26,
+        "title": "audio: add SF32LB52 on-chip AUDCODEC DAC playback driver",
+        "user": "onecer",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/26"
+      }
+    ]
+  }
+]
