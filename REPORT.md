@@ -1,34 +1,34 @@
 # openvela 大赛仓库统计报告
 
-> 最后更新时间: 2026-07-28T15:13:06.616792
+> 最后更新时间: 2026-07-29T16:03:49.912363
 
 ## 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总仓库数 | **286** |
-| 有活跃 Issue/PR 的仓库 | **38** |
+| 总仓库数 | **299** |
+| 有活跃 Issue/PR 的仓库 | **39** |
 | 总 Issue 数 | **43** |
-| 总 PR 数 | **185** |
+| 总 PR 数 | **191** |
 | 提交了 AI Log 的仓库 | **17** |
 
 ## 有活跃 PR/Issue 的仓库明细
 
 | # | 仓库 | Issue | PR | AI Log |
 |---|------|-------|----|--------|
-| 1 | [contest2026_062_PharosTech](https://github.com/open-vela/contest2026_062_PharosTech) | 4 | 42 | ❌ |
+| 1 | [contest2026_062_PharosTech](https://github.com/open-vela/contest2026_062_PharosTech) | 4 | 44 | ❌ |
 | 2 | [contest2026_137_CtrlFuture](https://github.com/open-vela/contest2026_137_CtrlFuture) | 39 | 31 | ❌ |
 | 3 | [contest2026_011_ladelamuStudio](https://github.com/open-vela/contest2026_011_ladelamuStudio) | 0 | 11 | ✅ |
 | 4 | [contest2026_151_mianbao](https://github.com/open-vela/contest2026_151_mianbao) | 0 | 11 | ✅ |
 | 5 | [contest2026_141_QiDiAi](https://github.com/open-vela/contest2026_141_QiDiAi) | 0 | 8 | ✅ |
 | 6 | [contest2026_000_openvela](https://github.com/open-vela/contest2026_000_openvela) | 0 | 7 | ❌ |
-| 7 | [contest2026_037_TensorFishSpecialActivityDivison](https://github.com/open-vela/contest2026_037_TensorFishSpecialActivityDivison) | 0 | 6 | ✅ |
-| 8 | [contest2026_059_0error](https://github.com/open-vela/contest2026_059_0error) | 0 | 6 | ✅ |
-| 9 | [contest2026_106_VelaGoGoGo](https://github.com/open-vela/contest2026_106_VelaGoGoGo) | 0 | 6 | ❌ |
-| 10 | [contest2026_201_chaojizhuzhuxia](https://github.com/open-vela/contest2026_201_chaojizhuzhuxia) | 0 | 6 | ✅ |
-| 11 | [contest2026_039_weilaxinghe](https://github.com/open-vela/contest2026_039_weilaxinghe) | 0 | 5 | ✅ |
-| 12 | [contest2026_118_ganfanbuxiangpaidui](https://github.com/open-vela/contest2026_118_ganfanbuxiangpaidui) | 0 | 4 | ✅ |
-| 13 | [contest2026_135_yongwangzhiqian](https://github.com/open-vela/contest2026_135_yongwangzhiqian) | 0 | 4 | ✅ |
+| 7 | [contest2026_135_yongwangzhiqian](https://github.com/open-vela/contest2026_135_yongwangzhiqian) | 0 | 7 | ✅ |
+| 8 | [contest2026_037_TensorFishSpecialActivityDivison](https://github.com/open-vela/contest2026_037_TensorFishSpecialActivityDivison) | 0 | 6 | ✅ |
+| 9 | [contest2026_059_0error](https://github.com/open-vela/contest2026_059_0error) | 0 | 6 | ✅ |
+| 10 | [contest2026_106_VelaGoGoGo](https://github.com/open-vela/contest2026_106_VelaGoGoGo) | 0 | 6 | ❌ |
+| 11 | [contest2026_201_chaojizhuzhuxia](https://github.com/open-vela/contest2026_201_chaojizhuzhuxia) | 0 | 6 | ✅ |
+| 12 | [contest2026_039_weilaxinghe](https://github.com/open-vela/contest2026_039_weilaxinghe) | 0 | 5 | ✅ |
+| 13 | [contest2026_118_ganfanbuxiangpaidui](https://github.com/open-vela/contest2026_118_ganfanbuxiangpaidui) | 0 | 4 | ✅ |
 | 14 | [contest2026_148_langyongyunji](https://github.com/open-vela/contest2026_148_langyongyunji) | 0 | 4 | ✅ |
 | 15 | [contest2026_223_hepingdechengshi](https://github.com/open-vela/contest2026_223_hepingdechengshi) | 0 | 4 | ❌ |
 | 16 | [contest2026_052_xinfanzhichuang](https://github.com/open-vela/contest2026_052_xinfanzhichuang) | 0 | 3 | ❌ |
@@ -53,7 +53,8 @@
 | 35 | [contest2026_174_lvmoushouhuzhe](https://github.com/open-vela/contest2026_174_lvmoushouhuzhe) | 0 | 1 | ❌ |
 | 36 | [contest2026_181_womenshayebuhuidui](https://github.com/open-vela/contest2026_181_womenshayebuhuidui) | 0 | 1 | ❌ |
 | 37 | [contest2026_185_xiaoxiaocaiji](https://github.com/open-vela/contest2026_185_xiaoxiaocaiji) | 0 | 1 | ❌ |
-| 38 | [contest2026_283_yuwokuxiu](https://github.com/open-vela/contest2026_283_yuwokuxiu) | 0 | 1 | ❌ |
+| 38 | [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) | 0 | 1 | ❌ |
+| 39 | [contest2026_283_yuwokuxiu](https://github.com/open-vela/contest2026_283_yuwokuxiu) | 0 | 1 | ❌ |
 
 ## 提交了 AI Log 的仓库
 
@@ -68,7 +69,7 @@
 9. [contest2026_118_ganfanbuxiangpaidui](https://github.com/open-vela/contest2026_118_ganfanbuxiangpaidui) (PR: 4, Issue: 0)
 10. [contest2026_130_xingshuangrenran](https://github.com/open-vela/contest2026_130_xingshuangrenran) (PR: 1, Issue: 0)
 11. [contest2026_132_yexiaoyanfazhongxin](https://github.com/open-vela/contest2026_132_yexiaoyanfazhongxin) (PR: 1, Issue: 0)
-12. [contest2026_135_yongwangzhiqian](https://github.com/open-vela/contest2026_135_yongwangzhiqian) (PR: 4, Issue: 0)
+12. [contest2026_135_yongwangzhiqian](https://github.com/open-vela/contest2026_135_yongwangzhiqian) (PR: 7, Issue: 0)
 13. [contest2026_141_QiDiAi](https://github.com/open-vela/contest2026_141_QiDiAi) (PR: 8, Issue: 0)
 14. [contest2026_148_langyongyunji](https://github.com/open-vela/contest2026_148_langyongyunji) (PR: 4, Issue: 0)
 15. [contest2026_151_mianbao](https://github.com/open-vela/contest2026_151_mianbao) (PR: 11, Issue: 0)
@@ -86,6 +87,7 @@
 | 2026-07-23 | 252 | 33 | 41 | 161 | 13 |
 | 2026-07-27 | 259 | 37 | 43 | 178 | 17 |
 | 2026-07-28 | 286 | 38 | 43 | 185 | 17 |
+| 2026-07-29 | 299 | 39 | 43 | 191 | 17 |
 
 ---
 
