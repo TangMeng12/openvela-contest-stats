@@ -1532,30 +1532,41 @@
   },
   {
     "date": "2026-08-11",
-    "timestamp": "2026-08-11T16:26:54.821931",
+    "timestamp": "2026-08-11T16:28:39.688551",
     "summary": {
-      "total_prs": 108,
-      "merged": 76,
-      "open": 22,
-      "closed_not_merged": 10
+      "total_prs": 219,
+      "merged": 173,
+      "open": 23,
+      "closed_not_merged": 23
     },
     "merged_repos": {
-      ".claude": 15,
+      ".claude": 29,
       "apps_graphics_lvgl": 1,
-      "docs": 32,
-      "manifests": 2,
-      "nuttx": 2,
-      "nuttx-apps": 1,
-      "packages_ai_agent": 2,
-      "packages_apps": 1,
-      "packages_demos": 1,
+      "build": 1,
+      "docs": 66,
+      "frameworks_runtimes_feature": 2,
+      "frameworks_runtimes_quickapp": 1,
+      "libs_openvela_vela": 1,
+      "manifests": 8,
+      "nuttx": 5,
+      "nuttx-apps": 2,
+      "packages": 1,
+      "packages_ai_agent": 7,
+      "packages_apps": 2,
+      "packages_demos": 2,
+      "packages_fe_examples": 1,
+      "test-manifest-self-ref": 2,
+      "vendor": 2,
       "vendor_SpacemiT": 1,
-      "vendor_allwinnertech": 7,
+      "vendor_allwinnertech": 10,
       "vendor_artinchip": 2,
       "vendor_bes": 2,
+      "vendor_espressif": 1,
+      "vendor_gigadevice": 3,
+      "vendor_openvela": 2,
       "vendor_rockchip": 1,
-      "vendor_sifli": 5,
-      "vendor_st": 1
+      "vendor_sifli": 15,
+      "vendor_st": 3
     },
     "open_prs": [
       {
@@ -1655,6 +1666,13 @@
         "title": "graphics/lvgl: link SiFli EPIC HAL",
         "user": "yunlonguu",
         "url": "https://github.com/open-vela/nuttx-apps/pull/113"
+      },
+      {
+        "repo": "test-manifest-self-ref",
+        "number": 3,
+        "title": "demos/cla_check_demo: add minimal demo to verify CLA workflow",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/test-manifest-self-ref/pull/3"
       },
       {
         "repo": "vendor_SpacemiT",
