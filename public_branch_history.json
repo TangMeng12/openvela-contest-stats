@@ -1529,5 +1529,189 @@
         "url": "https://github.com/open-vela/vendor_sifli/pull/26"
       }
     ]
+  },
+  {
+    "date": "2026-08-11",
+    "timestamp": "2026-08-11T16:26:54.821931",
+    "summary": {
+      "total_prs": 108,
+      "merged": 76,
+      "open": 22,
+      "closed_not_merged": 10
+    },
+    "merged_repos": {
+      ".claude": 15,
+      "apps_graphics_lvgl": 1,
+      "docs": 32,
+      "manifests": 2,
+      "nuttx": 2,
+      "nuttx-apps": 1,
+      "packages_ai_agent": 2,
+      "packages_apps": 1,
+      "packages_demos": 1,
+      "vendor_SpacemiT": 1,
+      "vendor_allwinnertech": 7,
+      "vendor_artinchip": 2,
+      "vendor_bes": 2,
+      "vendor_rockchip": 1,
+      "vendor_sifli": 5,
+      "vendor_st": 1
+    },
+    "open_prs": [
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 39,
+        "title": "draw/sifli: add EPIC hardware acceleration",
+        "user": "yunlonguu",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/39"
+      },
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 37,
+        "title": "cherry-pick: add ArtInChip GE2D GPU accelerator, MPP decoder and v8-v9 API macros",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/37"
+      },
+      {
+        "repo": "apps_interpreters_quickjs",
+        "number": 1,
+        "title": "build: fix qjsc host build on macOS (Apple Silicon)",
+        "user": "onecer",
+        "url": "https://github.com/open-vela/apps_interpreters_quickjs/pull/1"
+      },
+      {
+        "repo": "docs",
+        "number": 641,
+        "title": "docs(contest): remove consent yes/no explanation (opt-in via workspace)",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/docs/pull/641"
+      },
+      {
+        "repo": "docs",
+        "number": 626,
+        "title": "docs: add macOS (Apple Silicon) quick start guide",
+        "user": "onecer",
+        "url": "https://github.com/open-vela/docs/pull/626"
+      },
+      {
+        "repo": "nuttx",
+        "number": 340,
+        "title": "risc-v: add initial ESP32-P4 SoC support",
+        "user": "uleemos",
+        "url": "https://github.com/open-vela/nuttx/pull/340"
+      },
+      {
+        "repo": "nuttx",
+        "number": 338,
+        "title": "drivers/audio: es8388: do not reset stream config in es8388_reset",
+        "user": "yunline",
+        "url": "https://github.com/open-vela/nuttx/pull/338"
+      },
+      {
+        "repo": "nuttx",
+        "number": 337,
+        "title": "drivers/audio/es8388: fix ES8388 register read length",
+        "user": "yunline",
+        "url": "https://github.com/open-vela/nuttx/pull/337"
+      },
+      {
+        "repo": "nuttx",
+        "number": 336,
+        "title": "drivers/audio/es8388: use left level for ES8388 left volume",
+        "user": "yunline",
+        "url": "https://github.com/open-vela/nuttx/pull/336"
+      },
+      {
+        "repo": "nuttx",
+        "number": 332,
+        "title": "arch/arm/bk7258: add Beken BK7258 SoC support (NSH on CPU0/UART0)",
+        "user": "yz471686525-eng",
+        "url": "https://github.com/open-vela/nuttx/pull/332"
+      },
+      {
+        "repo": "nuttx",
+        "number": 331,
+        "title": "fix(boards/stm32h750b-dk): invert user LED polarity for active-low hardware",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/331"
+      },
+      {
+        "repo": "nuttx",
+        "number": 322,
+        "title": "feat(arch/boards): add ESP32-P4 RISC-V platform support",
+        "user": "Joneyao",
+        "url": "https://github.com/open-vela/nuttx/pull/322"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 114,
+        "title": "fix: prefix --defsym with -Wl, when LD is gcc driver (LTO)",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/114"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 113,
+        "title": "graphics/lvgl: link SiFli EPIC HAL",
+        "user": "yunlonguu",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/113"
+      },
+      {
+        "repo": "vendor_SpacemiT",
+        "number": 2,
+        "title": "docs: trim reference table to official SpacemiT resources only",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/vendor_SpacemiT/pull/2"
+      },
+      {
+        "repo": "vendor_allwinnertech",
+        "number": 18,
+        "title": "configs/r528s3-gemini-s1: package CA cert bundle into /etc romfs",
+        "user": "yangkun27",
+        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/18"
+      },
+      {
+        "repo": "vendor_allwinnertech",
+        "number": 15,
+        "title": "[PATCH] add usb host driver (cherry-pick to dev-ai-contest-2026)",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/15"
+      },
+      {
+        "repo": "vendor_artinchip",
+        "number": 5,
+        "title": "cherry-pick: ArtInChip GE/VE driver, MPP base library, LVGL demo and PSRAM/IRQ fix",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/vendor_artinchip/pull/5"
+      },
+      {
+        "repo": "vendor_espressif",
+        "number": 6,
+        "title": "boards/esp32s3-eye: drop branch-dependency note and known-limitations section",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/vendor_espressif/pull/6"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 28,
+        "title": "sf32lb52: add accelerated LCD display support",
+        "user": "yunlonguu",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/28"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 27,
+        "title": "sf32lb52_devkit_lcd: add an lvgl board configuration",
+        "user": "onecer",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/27"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 26,
+        "title": "audio: add SF32LB52 on-chip AUDCODEC DAC playback driver",
+        "user": "onecer",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/26"
+      }
+    ]
   }
 ]
