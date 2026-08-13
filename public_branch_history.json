@@ -1947,5 +1947,17 @@
         "url": "https://github.com/open-vela/vendor_sifli/pull/26"
       }
     ]
+  },
+  {
+    "date": "2026-08-13",
+    "timestamp": "2026-08-13T15:08:18.731647",
+    "summary": {
+      "total_prs": 0,
+      "merged": 0,
+      "open": 0,
+      "closed_not_merged": 0
+    },
+    "merged_repos": {},
+    "open_prs": []
   }
 ]
