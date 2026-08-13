@@ -1950,14 +1950,81 @@
   },
   {
     "date": "2026-08-13",
-    "timestamp": "2026-08-13T15:08:18.731647",
+    "timestamp": "2026-08-13T15:19:03.620283",
     "summary": {
-      "total_prs": 0,
-      "merged": 0,
-      "open": 0,
-      "closed_not_merged": 0
+      "total_prs": 12,
+      "merged": 2,
+      "open": 9,
+      "closed_not_merged": 1
     },
-    "merged_repos": {},
-    "open_prs": []
+    "merged_repos": {
+      "docs": 1,
+      "packages_demos": 1
+    },
+    "open_prs": [
+      {
+        "repo": "docs",
+        "number": 644,
+        "title": "docs(contest2026): add --git-lfs flag to repo init command in contest docs",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/docs/pull/644"
+      },
+      {
+        "repo": "docs",
+        "number": 641,
+        "title": "docs(contest): remove consent yes/no explanation (opt-in via workspace)",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/docs/pull/641"
+      },
+      {
+        "repo": "nuttx",
+        "number": 342,
+        "title": "arch/boards: Add ESP32-P4 support (Function-EV-Board bring-up verified on hardware)",
+        "user": "caoshengdong",
+        "url": "https://github.com/open-vela/nuttx/pull/342"
+      },
+      {
+        "repo": "nuttx",
+        "number": 340,
+        "title": "risc-v: add initial ESP32-P4 SoC support",
+        "user": "uleemos",
+        "url": "https://github.com/open-vela/nuttx/pull/340"
+      },
+      {
+        "repo": "nuttx",
+        "number": 338,
+        "title": "drivers/audio: es8388: do not reset stream config in es8388_reset",
+        "user": "yunline",
+        "url": "https://github.com/open-vela/nuttx/pull/338"
+      },
+      {
+        "repo": "nuttx",
+        "number": 337,
+        "title": "drivers/audio/es8388: fix ES8388 register read length",
+        "user": "yunline",
+        "url": "https://github.com/open-vela/nuttx/pull/337"
+      },
+      {
+        "repo": "nuttx",
+        "number": 336,
+        "title": "drivers/audio/es8388: use left level for ES8388 left volume",
+        "user": "yunline",
+        "url": "https://github.com/open-vela/nuttx/pull/336"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 115,
+        "title": "graphics/lvgl: Fix build on case-insensitive filesystems",
+        "user": "caoshengdong",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/115"
+      },
+      {
+        "repo": "vendor_allwinnertech",
+        "number": 18,
+        "title": "configs/r528s3-gemini-s1: package CA cert bundle into /etc romfs",
+        "user": "yangkun27",
+        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/18"
+      }
+    ]
   }
 ]
