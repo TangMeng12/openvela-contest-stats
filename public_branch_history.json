@@ -2252,11 +2252,11 @@
   },
   {
     "date": "2026-08-17",
-    "timestamp": "2026-08-17T14:19:01.985228",
+    "timestamp": "2026-08-17T16:33:11.084048",
     "summary": {
-      "total_prs": 227,
+      "total_prs": 229,
       "merged": 174,
-      "open": 30,
+      "open": 32,
       "closed_not_merged": 23
     },
     "merged_repos": {
@@ -2289,6 +2289,13 @@
       "vendor_st": 3
     },
     "open_prs": [
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 40,
+        "title": "drivers/nuttx: fbdev refresh without vsync queue; touchscreen coordinate fixes",
+        "user": "caoshengdong",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/40"
+      },
       {
         "repo": "apps_graphics_lvgl",
         "number": 39,
@@ -2470,6 +2477,13 @@
         "title": "boards/bk7258: add bk7258-devkit board + porting journal",
         "user": "yz471686525-eng",
         "url": "https://github.com/open-vela/vendor_beken/pull/2"
+      },
+      {
+        "repo": "vendor_bes",
+        "number": 15,
+        "title": "disable CONFIG_MEDIA_SERVER for best1700_ep",
+        "user": "masc2008",
+        "url": "https://github.com/open-vela/vendor_bes/pull/15"
       },
       {
         "repo": "vendor_espressif",
