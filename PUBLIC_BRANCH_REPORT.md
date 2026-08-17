@@ -1,14 +1,14 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-08-14T16:24:28.838860
+> 最后更新时间: 2026-08-17T14:13:39.487740
 
 ## 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总 PR 数 | **223** |
+| 总 PR 数 | **227** |
 | 已合入 (Merged) | **174** |
-| 待合入 (Open) | **26** |
+| 待合入 (Open) | **30** |
 | 已关闭未合入 | **23** |
 
 ## 已合入 PR 分布（按仓库）
@@ -54,26 +54,30 @@
 | 4 | docs | #644 | docs(contest2026): add --git-lfs flag to repo init command i... | yanxingyu17 | 2026-08-12 | [查看](https://github.com/open-vela/docs/pull/644) |
 | 5 | docs | #641 | docs(contest): remove consent yes/no explanation (opt-in via... | yanxingyu17 | 2026-08-04 | [查看](https://github.com/open-vela/docs/pull/641) |
 | 6 | docs | #626 | docs: add macOS (Apple Silicon) quick start guide | onecer | 2026-07-13 | [查看](https://github.com/open-vela/docs/pull/626) |
-| 7 | nuttx | #342 | arch/boards: Add ESP32-P4 support (Function-EV-Board bring-u... | caoshengdong | 2026-08-12 | [查看](https://github.com/open-vela/nuttx/pull/342) |
-| 8 | nuttx | #340 | risc-v: add initial ESP32-P4 SoC support | uleemos | 2026-08-10 | [查看](https://github.com/open-vela/nuttx/pull/340) |
-| 9 | nuttx | #338 | drivers/audio: es8388: do not reset stream config in es8388_... | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/338) |
-| 10 | nuttx | #337 | drivers/audio/es8388: fix ES8388 register read length | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/337) |
-| 11 | nuttx | #336 | drivers/audio/es8388: use left level for ES8388 left volume | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/336) |
-| 12 | nuttx | #332 | arch/arm/bk7258: add Beken BK7258 SoC support (NSH on CPU0/U... | yz471686525-eng | 2026-08-01 | [查看](https://github.com/open-vela/nuttx/pull/332) |
-| 13 | nuttx | #331 | fix(boards/stm32h750b-dk): invert user LED polarity for acti... | FoLeaf | 2026-08-01 | [查看](https://github.com/open-vela/nuttx/pull/331) |
-| 14 | nuttx | #322 | feat(arch/boards): add ESP32-P4 RISC-V platform support | Joneyao | 2026-07-18 | [查看](https://github.com/open-vela/nuttx/pull/322) |
-| 15 | nuttx-apps | #115 | graphics/lvgl: Fix build on case-insensitive filesystems | caoshengdong | 2026-08-12 | [查看](https://github.com/open-vela/nuttx-apps/pull/115) |
-| 16 | nuttx-apps | #114 | fix: prefix --defsym with -Wl, when LD is gcc driver (LTO) | yanxingyu17 | 2026-08-03 | [查看](https://github.com/open-vela/nuttx-apps/pull/114) |
-| 17 | nuttx-apps | #113 | graphics/lvgl: link SiFli EPIC HAL | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/nuttx-apps/pull/113) |
-| 18 | test-manifest-self-ref | #3 | demos/cla_check_demo: add minimal demo to verify CLA workflo... | yanxingyu17 | 2026-06-12 | [查看](https://github.com/open-vela/test-manifest-self-ref/pull/3) |
-| 19 | vendor_SpacemiT | #2 | docs: trim reference table to official SpacemiT resources on... | yanxingyu17 | 2026-07-20 | [查看](https://github.com/open-vela/vendor_SpacemiT/pull/2) |
-| 20 | vendor_allwinnertech | #18 | configs/r528s3-gemini-s1: package CA cert bundle into /etc r... | yangkun27 | 2026-08-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/18) |
-| 21 | vendor_allwinnertech | #15 | [PATCH] add usb host driver (cherry-pick to dev-ai-contest-2... | yanxingyu17 | 2026-07-24 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/15) |
-| 22 | vendor_artinchip | #5 | cherry-pick: ArtInChip GE/VE driver, MPP base library, LVGL ... | yanxingyu17 | 2026-07-14 | [查看](https://github.com/open-vela/vendor_artinchip/pull/5) |
-| 23 | vendor_espressif | #6 | boards/esp32s3-eye: drop branch-dependency note and known-li... | yanxingyu17 | 2026-06-18 | [查看](https://github.com/open-vela/vendor_espressif/pull/6) |
-| 24 | vendor_sifli | #28 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/vendor_sifli/pull/28) |
-| 25 | vendor_sifli | #27 | sf32lb52_devkit_lcd: add an lvgl board configuration | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/27) |
-| 26 | vendor_sifli | #26 | audio: add SF32LB52 on-chip AUDCODEC DAC playback driver | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/26) |
+| 7 | nuttx | #345 | fix: esp32s3-eye QMA7981 bringup on I2C1 (GPIO4/5) + chip id... | wakunkun | 2026-08-16 | [查看](https://github.com/open-vela/nuttx/pull/345) |
+| 8 | nuttx | #344 | arch/arm/bk7258: Beken BK7258 support + PSRAM driver + SysTi... | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/nuttx/pull/344) |
+| 9 | nuttx | #342 | arch/boards: Add ESP32-P4 support (Function-EV-Board bring-u... | caoshengdong | 2026-08-12 | [查看](https://github.com/open-vela/nuttx/pull/342) |
+| 10 | nuttx | #340 | risc-v: add initial ESP32-P4 SoC support | uleemos | 2026-08-10 | [查看](https://github.com/open-vela/nuttx/pull/340) |
+| 11 | nuttx | #338 | drivers/audio: es8388: do not reset stream config in es8388_... | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/338) |
+| 12 | nuttx | #337 | drivers/audio/es8388: fix ES8388 register read length | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/337) |
+| 13 | nuttx | #336 | drivers/audio/es8388: use left level for ES8388 left volume | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/336) |
+| 14 | nuttx | #332 | arch/arm/bk7258: add Beken BK7258 SoC support (NSH on CPU0/U... | yz471686525-eng | 2026-08-01 | [查看](https://github.com/open-vela/nuttx/pull/332) |
+| 15 | nuttx | #331 | fix(boards/stm32h750b-dk): invert user LED polarity for acti... | FoLeaf | 2026-08-01 | [查看](https://github.com/open-vela/nuttx/pull/331) |
+| 16 | nuttx | #322 | feat(arch/boards): add ESP32-P4 RISC-V platform support | Joneyao | 2026-07-18 | [查看](https://github.com/open-vela/nuttx/pull/322) |
+| 17 | nuttx-apps | #116 | examples/psram: BK7258 PSRAM test/heap/memalign commands | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/nuttx-apps/pull/116) |
+| 18 | nuttx-apps | #115 | graphics/lvgl: Fix build on case-insensitive filesystems | caoshengdong | 2026-08-12 | [查看](https://github.com/open-vela/nuttx-apps/pull/115) |
+| 19 | nuttx-apps | #114 | fix: prefix --defsym with -Wl, when LD is gcc driver (LTO) | yanxingyu17 | 2026-08-03 | [查看](https://github.com/open-vela/nuttx-apps/pull/114) |
+| 20 | nuttx-apps | #113 | graphics/lvgl: link SiFli EPIC HAL | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/nuttx-apps/pull/113) |
+| 21 | test-manifest-self-ref | #3 | demos/cla_check_demo: add minimal demo to verify CLA workflo... | yanxingyu17 | 2026-06-12 | [查看](https://github.com/open-vela/test-manifest-self-ref/pull/3) |
+| 22 | vendor_SpacemiT | #2 | docs: trim reference table to official SpacemiT resources on... | yanxingyu17 | 2026-07-20 | [查看](https://github.com/open-vela/vendor_SpacemiT/pull/2) |
+| 23 | vendor_allwinnertech | #18 | configs/r528s3-gemini-s1: package CA cert bundle into /etc r... | yangkun27 | 2026-08-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/18) |
+| 24 | vendor_allwinnertech | #15 | [PATCH] add usb host driver (cherry-pick to dev-ai-contest-2... | yanxingyu17 | 2026-07-24 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/15) |
+| 25 | vendor_artinchip | #5 | cherry-pick: ArtInChip GE/VE driver, MPP base library, LVGL ... | yanxingyu17 | 2026-07-14 | [查看](https://github.com/open-vela/vendor_artinchip/pull/5) |
+| 26 | vendor_beken | #2 | boards/bk7258: add bk7258-devkit board + porting journal | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/vendor_beken/pull/2) |
+| 27 | vendor_espressif | #6 | boards/esp32s3-eye: drop branch-dependency note and known-li... | yanxingyu17 | 2026-06-18 | [查看](https://github.com/open-vela/vendor_espressif/pull/6) |
+| 28 | vendor_sifli | #28 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/vendor_sifli/pull/28) |
+| 29 | vendor_sifli | #27 | sf32lb52_devkit_lcd: add an lvgl board configuration | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/27) |
+| 30 | vendor_sifli | #26 | audio: add SF32LB52 on-chip AUDCODEC DAC playback driver | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/26) |
 
 ## 已关闭未合入 PR
 
