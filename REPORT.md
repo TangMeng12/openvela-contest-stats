@@ -1,6 +1,6 @@
 # openvela 大赛仓库统计报告
 
-> 最后更新时间: 2026-08-17T14:12:33.205102
+> 最后更新时间: 2026-08-17T14:17:53.296989
 
 ## 总体统计
 
@@ -9,7 +9,7 @@
 | 总仓库数 | **389** |
 | 有活跃 Issue/PR 的仓库 | **65** |
 | 总 Issue 数 | **45** |
-| 总 PR 数 | **411** |
+| 总 PR 数 | **412** |
 | 提交了 AI Log 的仓库 | **34** |
 
 ## 有活跃 PR/Issue 的仓库明细
@@ -19,7 +19,7 @@
 | 1 | [contest2026_135_yongwangzhiqian](https://github.com/open-vela/contest2026_135_yongwangzhiqian) | 0 | 59 | ✅ |
 | 2 | [contest2026_062_PharosTech](https://github.com/open-vela/contest2026_062_PharosTech) | 6 | 58 | ❌ |
 | 3 | [contest2026_137_CtrlFuture](https://github.com/open-vela/contest2026_137_CtrlFuture) | 39 | 40 | ❌ |
-| 4 | [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) | 0 | 26 | ✅ |
+| 4 | [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) | 0 | 27 | ✅ |
 | 5 | [contest2026_132_yexiaoyanfazhongxin](https://github.com/open-vela/contest2026_132_yexiaoyanfazhongxin) | 0 | 13 | ✅ |
 | 6 | [contest2026_346_demaxiyazhili](https://github.com/open-vela/contest2026_346_demaxiyazhili) | 0 | 13 | ✅ |
 | 7 | [contest2026_011_ladelamuStudio](https://github.com/open-vela/contest2026_011_ladelamuStudio) | 0 | 12 | ✅ |
@@ -109,7 +109,7 @@
 23. [contest2026_182_wumoqingyin](https://github.com/open-vela/contest2026_182_wumoqingyin) (PR: 4, Issue: 0)
 24. [contest2026_201_chaojizhuzhuxia](https://github.com/open-vela/contest2026_201_chaojizhuzhuxia) (PR: 6, Issue: 0)
 25. [contest2026_253_bolilingmengsaigao](https://github.com/open-vela/contest2026_253_bolilingmengsaigao) (PR: 1, Issue: 0)
-26. [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) (PR: 26, Issue: 0)
+26. [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) (PR: 27, Issue: 0)
 27. [contest2026_272_tokenwujixian](https://github.com/open-vela/contest2026_272_tokenwujixian) (PR: 6, Issue: 0)
 28. [contest2026_288_Bugyindudadui](https://github.com/open-vela/contest2026_288_Bugyindudadui) (PR: 5, Issue: 0)
 29. [contest2026_309_MingchengNetworkStudio](https://github.com/open-vela/contest2026_309_MingchengNetworkStudio) (PR: 1, Issue: 0)
@@ -141,7 +141,7 @@
 | 2026-08-12 | 383 | 59 | 45 | 313 | 28 |
 | 2026-08-13 | 386 | 61 | 45 | 324 | 30 |
 | 2026-08-14 | 389 | 61 | 45 | 346 | 30 |
-| 2026-08-17 | 389 | 65 | 45 | 411 | 34 |
+| 2026-08-17 | 389 | 65 | 45 | 412 | 34 |
 
 ---
 
