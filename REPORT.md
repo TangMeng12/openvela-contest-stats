@@ -1,15 +1,15 @@
 # openvela 大赛仓库统计报告
 
-> 最后更新时间: 2026-08-18T16:33:51.690822
+> 最后更新时间: 2026-08-18T16:38:46.805666
 
 ## 总体统计
 
 | 指标 | 数量 |
 |------|------|
 | 总仓库数 | **396** |
-| 有活跃 Issue/PR 的仓库 | **69** |
+| 有活跃 Issue/PR 的仓库 | **70** |
 | 总 Issue 数 | **45** |
-| 总 PR 数 | **428** |
+| 总 PR 数 | **429** |
 | 提交了 AI Log 的仓库 | **35** |
 
 ## 有活跃 PR/Issue 的仓库明细
@@ -84,7 +84,8 @@
 | 66 | [contest2026_309_MingchengNetworkStudio](https://github.com/open-vela/contest2026_309_MingchengNetworkStudio) | 0 | 1 | ✅ |
 | 67 | [contest2026_313_bianyuanxingzhe](https://github.com/open-vela/contest2026_313_bianyuanxingzhe) | 0 | 1 | ❌ |
 | 68 | [contest2026_338_xigoukeji](https://github.com/open-vela/contest2026_338_xigoukeji) | 0 | 1 | ❌ |
-| 69 | [contest2026_358_WSLC](https://github.com/open-vela/contest2026_358_WSLC) | 0 | 1 | ✅ |
+| 69 | [contest2026_355_P4niuniu](https://github.com/open-vela/contest2026_355_P4niuniu) | 0 | 1 | ❌ |
+| 70 | [contest2026_358_WSLC](https://github.com/open-vela/contest2026_358_WSLC) | 0 | 1 | ✅ |
 
 ## 提交了 AI Log 的仓库
 
@@ -147,7 +148,7 @@
 | 2026-08-13 | 386 | 61 | 45 | 324 | 30 |
 | 2026-08-14 | 389 | 61 | 45 | 346 | 30 |
 | 2026-08-17 | 395 | 65 | 45 | 414 | 34 |
-| 2026-08-18 | 396 | 69 | 45 | 428 | 35 |
+| 2026-08-18 | 396 | 70 | 45 | 429 | 35 |
 
 ---
 
