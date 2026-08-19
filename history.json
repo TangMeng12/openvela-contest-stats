@@ -38568,5 +38568,2412 @@
         "ai_log": false
       }
     ]
+  },
+  {
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T15:20:09.289190",
+    "summary": {
+      "total_repos": 399,
+      "active_repos": 70,
+      "total_issues": 45,
+      "total_prs": 445,
+      "ai_log_repos": 37
+    },
+    "repos": [
+      {
+        "repo": "contest2026_000_openvela",
+        "issues": 0,
+        "prs": 7,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_001_DefateStar",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_002_FATEX",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_003_SeedSoft",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_004_TeamFalcons",
+        "issues": 0,
+        "prs": 4,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_005_codecreativebrothers",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_006_iKun",
+        "issues": 0,
+        "prs": 2,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_007_Flux",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_008_chixiaodou",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_009_chuanfangongfang",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_010_hajimi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_011_ladelamuStudio",
+        "issues": 0,
+        "prs": 13,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_012_lizhudongtian",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_013_mashangqiuzhi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_014_makahu",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_015_woyaokaiyuan",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_016_zhuanzhujizhikoubeikuai",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_017_Pico",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_018_Liekkas",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_019_chaonengluzhandui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_020_wadaenne",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_021_kmiit",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_022_buxiangshangke",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_023_0xS3",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_024_BPshenjingwangluoyongdongji",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_025_chongdedui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_026_dami",
+        "issues": 0,
+        "prs": 2,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_027_hangsukeji",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_028_xiaodaoyouliuhua",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_029_sudo",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_030_PI",
+        "issues": 0,
+        "prs": 2,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_031_niudanxianqianchong",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_032_shangnengdui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_033_wushi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_034_ISoftStoneSmartFashionPI",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_035_miebo",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_036_benyue",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_037_TensorFishSpecialActivityDivison",
+        "issues": 0,
+        "prs": 6,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_038_guijixinshiYYDS",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_039_weilaxinghe",
+        "issues": 0,
+        "prs": 5,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_040_shijigongfang",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_041_ArcherMindTechnologyWearableSolutionsTeam",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_042_VelaX",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_043_CircuitForge",
+        "issues": 0,
+        "prs": 6,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_044_EsperantoR",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_045_Eluxiangbei",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_046_FirmNova",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_047_chuangxindui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_048_dijiugexiaxianyue",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_049_aduidui",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_050_liangshanshan",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_051_lingxin",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_052_xinfanzhichuang",
+        "issues": 0,
+        "prs": 3,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_053_yelvtizhineng",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_054_ahahah",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_055_laiyang",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_056_xinghesixudui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_057_xiaoxingxing",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_058_shuzhi666",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_059_0error",
+        "issues": 0,
+        "prs": 6,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_060_Breezystudio",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_061_GGBond",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_062_PharosTech",
+        "issues": 6,
+        "prs": 58,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_063_triangle",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_064_gongzuobiao",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_065_linshicoushuwurenzu",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_066_jidianjuzhen",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_067_diaochabingtuan",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_068_wuciyouci",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_069_xinghesixudui",
+        "issues": 0,
+        "prs": 8,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_070_arc",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_071_ceshi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_072_gagadilaxia",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_073_zuorilaixin",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_074_Cc",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_075_OpenNexus",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_076_VelaMotion",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_077_liguangminzhen",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_078_lvboxingzhe",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_079_ningmengfengwei",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_080_qixiuerban",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_081_shanxingduzhou",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_082_xiaokele",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_083_duideduidedui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_084_AAAmengchongpifa",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_085_RunMelos",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_086_ditiekouyegoulianmeng",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_087_gaiduimingyizhanyongdui",
+        "issues": 0,
+        "prs": 9,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_088_hebeiruanjiandui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_089_laizhangemingci",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_090_CiRCLE",
+        "issues": 0,
+        "prs": 2,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_091_ForveverYoung",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_092_NAILTEAM",
+        "issues": 0,
+        "prs": 2,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_093_Victory",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_094_andy",
+        "issues": 0,
+        "prs": 4,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_095_hehaohanBI4MIB",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_096_nanzhiruyindui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_097_woaifaming",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_098_zhanshangxingguang",
+        "issues": 0,
+        "prs": 9,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_099_CAXX",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_100_xiaohankeji",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_101_AIvela",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_102_AIleAIle",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_103_BitForge",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_104_LongWay",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_105_MoodAnchor",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_106_VelaGoGoGo",
+        "issues": 0,
+        "prs": 8,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_107_VoicePlan",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_108_aaabuchixiangcai",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_109_emozhongjiezhexiaodui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_110_hahaha",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_111_mimi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_112_syutung",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_113_veladuxingke",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_114_aduiduidui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_115_chuangxin1dui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_116_chuangzaozhong",
+        "issues": 0,
+        "prs": 2,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_117_duiduidui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_118_ganfanbuxiangpaidui",
+        "issues": 0,
+        "prs": 4,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_119_guobaotegong",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_120_haohaoxuexitiantianxiangshang",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_121_jieyoukeneng",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_122_luoshanjihuarendui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_123_momohuhuhuluobudui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_124_shenyiyangdelaoshi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_125_suiyong",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_126_tiantianxiangshang",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_127_wuyindeguangmao",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_128_xiaolidianzishiyanshi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_129_xingchendahai",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_130_xingshuangrenran",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_131_xunishijian",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_132_yexiaoyanfazhongxin",
+        "issues": 0,
+        "prs": 13,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_133_yigetuandui",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_134_yinheweishi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_135_yongwangzhiqian",
+        "issues": 0,
+        "prs": 60,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_136_dishanqian",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_137_CtrlFuture",
+        "issues": 39,
+        "prs": 40,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_138_HomeMind",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_139_INNOLAB",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_140_MatchCore",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_141_QiDiAi",
+        "issues": 0,
+        "prs": 8,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_142_winterwin",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_143_chushoukeji",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_144_dingdongji",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_145_huaernayanghong",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_146_huanwuzhineng",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_147_jidianji",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_148_langyongyunji",
+        "issues": 0,
+        "prs": 5,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_149_luobuyu",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_150_manongxiashan",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_151_mianbao",
+        "issues": 0,
+        "prs": 11,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_152_nishuodebudui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_153_nishuodedoudui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_154_nulidui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_155_qianfan",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_156_shanzhaweishutiao",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_157_tianting",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_158_tingchenfeng",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_159_weishizhixing",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_160_xiangyonghusuoxiangdui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_161_xiaoxiaozhihuijia",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_162_yaotepai",
+        "issues": 0,
+        "prs": 3,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_163_Charks",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_164_CowHorse",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_165_archer",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_166_openvelabisaisandui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_167_banxiazhinengyanfaxiaozu",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_168_buxingyedeixing",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_169_daochewei",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_170_dianlisongshu",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_171_jizhisheji",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_172_jishupingquanzu",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_173_juwo",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_174_lvmoushouhuzhe",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_175_mengxiangjinxiaomi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_176_nipaobuguowonixinme",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_177_ningmengyangleduo",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_178_qitifangdian",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_179_shikongzhixu",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_180_wojiuzheyang",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_181_womenshayebuhuidui",
+        "issues": 0,
+        "prs": 3,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_182_wumoqingyin",
+        "issues": 0,
+        "prs": 4,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_183_wuhanjiaotongzhiyexueyuanwulianwangtiantuan",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_184_xiaopengpengzhenwudi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_185_xiaoxiaocaiji",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_186_yanyu",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_187_yidingdui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_188_youboVela",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_189_zaicuiwojiubai",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_190_wuqiubotuandui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_191_AItansuoju",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_192_DX",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_193_FirstNext",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_194_MATRIXFIVESTUDIO",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_195_NoError",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_196_OKlelaotie",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_197_Q1KOqinkong",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_198_VWStudio",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_199_VelaHacker",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_200_changsuaianuo",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_201_chaojizhuzhuxia",
+        "issues": 0,
+        "prs": 6,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_202_dianliangdianrong",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_203_ganzhishiliandui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_204_guangnianzhandui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_205_heiheiha",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_206_lantianshangbaiyun",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_207_laoxiaohai",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_208_moxinzhixue",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_209_wangxiangtianshi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_210_weiguangshijie",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_211_wufuyian",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_212_zhijianzhirongdui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_213_LogicalV",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_214_mimov999promaxultra",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_215_miwise",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_216_ershi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_217_jinitaimei",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_218_mutumuzi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_219_MMhuhu",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_220_VelaForge",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_221_buchongfeng",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_222_hzymtech",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_223_hepingdechengshi",
+        "issues": 0,
+        "prs": 5,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_224_quanyuanzhirendui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_225_wadaenne",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_226_xinghan",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_227_MCW",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_228_lingbao",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_229_wanwujiekeHack",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_230_xiaozhi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_231_zhiqiAI",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_232_Q",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_233_daimazenmepaibudui",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_234_liuyuedeyu",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_235_shushudui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_236_wuxianshanyaoqiji",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_237_xinghe",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_238_JUGGERNAUT",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_239_Jxyz",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_240_velaxiaopacai",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_241_HiOS",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_242_maketu",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_243_qiqimiaomiao",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_244_suanfapoxiaodui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_245_wudigaoyangdui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_246_xiaodangjia",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_247_challo",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_248_duobaanzhizaoju",
+        "issues": 0,
+        "prs": 3,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_249_wunianzhongshimifentuan",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_250_yunlingxiaofeidui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_251_keyisuibiaodouxing",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_252_EPG",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_253_bolilingmengsaigao",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_254_jiafangdui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_255_suoyiaihuixiaoshiduibudui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_256_xianxuexianmaidui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_257_xiaoxinchaorendui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_258_zhinengshebeiyinpinchuangxin",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_259_123tuandui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_260_MagicLink",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_261_PYxuexibiji",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_262_VIOFusion",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_263_VelaCore",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_264_VelaSightsuixingAIzhinengyanjing",
+        "issues": 0,
+        "prs": 40,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_265_Velashouhuzhe",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_266_WENGdui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_267_ZeroShot",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_268_openmygo",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_270_openvelaGoGoGo",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_271_rose",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_272_tokenwujixian",
+        "issues": 0,
+        "prs": 9,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_273_bangbanglangbangbang",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_274_Dogking",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_275_jiguang",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_276_JerryelbowsTom",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_277_laoxiaohai",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_278_lingjiuzhizao",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_279_MingchengNetworkStudio",
+        "issues": 0,
+        "prs": 4,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_280_niusasa",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_281_qianjingongzuoshi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_282_renzhendexue",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_283_yuwokuxiu",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_284_zhuanqianmaibanzi",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_285_ziyoudefeng",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_286_hajiminanbeilvdou",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_287_Agenter",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_288_Bugyindudadui",
+        "issues": 0,
+        "prs": 6,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_289_DDLqudong",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_290_dairoot",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_291_pidaxing",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_292_jingzhuihuweidui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_293_kanjiabushoufei",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_294_shiqian",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_295_suanliheidong",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_296_weihedui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_297_xiaoxiaoguai",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_298_yinghetansuo",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_299_zhongguoxiangheyingmaokegong",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_300_laladui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_301_tianxuanzhizidui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_302_xinxinxiangrong",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_303_AIzhichuangweilai",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_304_OpenVelaGaze",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_305_Zerv",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_306_enjoy",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_307_justdoit",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_308_yuaner",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_309_MingchengNetworkStudio",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_310_bangbangdui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_311_kaifatuandui1",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_312_zheyangpaiduibudui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_313_bianyuanxingzhe",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_314_AlgoRhythm",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_315_Corelink",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_316_famous",
+        "issues": 0,
+        "prs": 2,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_317_chaojiwubibaozhaolong",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_318_jiechidanao",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_319_jinsechuanshuo",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_320_kuangyegouzaoxiaodui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_321_maidanglaobiezhangjiale",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_322_naobukeji",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_323_shouquzhinenghua",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_324_xiaoqiaoliushui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_325_junweiyanjiuyuan",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_326_Skrerzhi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_327_jiny",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_328_mRain_AI",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_329_dela",
+        "issues": 0,
+        "prs": 4,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_330_neiheyoumuzhe",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_331_qianrushi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_332_sanzhixiaocaibi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_333_wudiniuwa",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_334_xiangpengpengdeyoupomian",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_335_baiyouyinli",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_336_hanyu",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_337_weitengkeji",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_338_xigoukeji",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_339_xuexixueixizaixuexi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_340_Horsion",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_341_VelaHome",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_342_ezdezhandui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_343_chaogezhineng",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_344_chenxing",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_345_daxueshiyoushigeiyincangsinianwoquehunranbuzhi",
+        "issues": 0,
+        "prs": 4,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_346_demaxiyazhili",
+        "issues": 0,
+        "prs": 14,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_347_feitian",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_348_kaifazhedui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_349_FedoraVForce",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_350_RDG",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_351_swin",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_352_yimingjingren",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_353_AIDAY",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_354_FPH",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_355_P4niuniu",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_356_TXCNSTUDIO",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_357_Velatrix",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_358_WSLC",
+        "issues": 0,
+        "prs": 1,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_359_dengfengzaojidecuipidaxuesheng",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_360_duiduidui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_361_gagade",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_362_ganjiuwanle",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_363_gangmang",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_364_jingmojiaming",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_365_lidakangdui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_366_mingluoyingjian",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_367_tengtengbiancheng",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_369_yifeichongtiandui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_370_BelieveinOpenSource",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_371_CWSL",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_372_OrPud",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_373_Simple",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_374_ZK",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_375_benniaoxianfei",
+        "issues": 0,
+        "prs": 11,
+        "ai_log": true
+      },
+      {
+        "repo": "contest2026_376_haoxiangwanyuanshenaa",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_377_moyumanbo",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_378_zhijudui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_379_Velasuixing",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_380_chuangaojiyuan",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_381_kuzi",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_382_wangwangdui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_383_weixinkeji",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_384_xiangzhexingchenyushenyuan",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_385_Tikpal",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_386_aJoe",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_387_shiguang",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_388_ajiejie",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_389_lingdiandaima",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_390_tiantiandui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_391_Beyond",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_392_dachuangwanlian",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_393_jizhipai",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_394_lingxijingling",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_395_yingjianxiaonengshou",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_396_yuchendui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_397_qiuyelandui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_398_Standby",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_399_fudebao",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_400_qingyuanzhizao",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      }
+    ]
   }
 ]

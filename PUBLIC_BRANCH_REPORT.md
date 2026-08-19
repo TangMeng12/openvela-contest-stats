@@ -1,13 +1,13 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-08-18T16:39:45.916894
+> 最后更新时间: 2026-08-19T15:21:10.108449
 
 ## 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总 PR 数 | **229** |
-| 已合入 (Merged) | **174** |
+| 总 PR 数 | **230** |
+| 已合入 (Merged) | **175** |
 | 待合入 (Open) | **32** |
 | 已关闭未合入 | **23** |
 
@@ -22,6 +22,7 @@
 | [manifests](https://github.com/open-vela/manifests) | 8 |
 | [packages_ai_agent](https://github.com/open-vela/packages_ai_agent) | 7 |
 | [nuttx](https://github.com/open-vela/nuttx) | 5 |
+| [vendor_bes](https://github.com/open-vela/vendor_bes) | 3 |
 | [vendor_gigadevice](https://github.com/open-vela/vendor_gigadevice) | 3 |
 | [vendor_st](https://github.com/open-vela/vendor_st) | 3 |
 | [frameworks_runtimes_feature](https://github.com/open-vela/frameworks_runtimes_feature) | 2 |
@@ -31,7 +32,6 @@
 | [test-manifest-self-ref](https://github.com/open-vela/test-manifest-self-ref) | 2 |
 | [vendor](https://github.com/open-vela/vendor) | 2 |
 | [vendor_artinchip](https://github.com/open-vela/vendor_artinchip) | 2 |
-| [vendor_bes](https://github.com/open-vela/vendor_bes) | 2 |
 | [vendor_openvela](https://github.com/open-vela/vendor_openvela) | 2 |
 | [apps_graphics_lvgl](https://github.com/open-vela/apps_graphics_lvgl) | 1 |
 | [build](https://github.com/open-vela/build) | 1 |
@@ -42,7 +42,7 @@
 | [vendor_SpacemiT](https://github.com/open-vela/vendor_SpacemiT) | 1 |
 | [vendor_espressif](https://github.com/open-vela/vendor_espressif) | 1 |
 | [vendor_rockchip](https://github.com/open-vela/vendor_rockchip) | 1 |
-| **合计** | **174** |
+| **合计** | **175** |
 
 ## 待合入 PR（需关注）
 
@@ -69,13 +69,13 @@
 | 19 | nuttx-apps | #115 | graphics/lvgl: Fix build on case-insensitive filesystems | caoshengdong | 2026-08-12 | [查看](https://github.com/open-vela/nuttx-apps/pull/115) |
 | 20 | nuttx-apps | #114 | fix: prefix --defsym with -Wl, when LD is gcc driver (LTO) | yanxingyu17 | 2026-08-03 | [查看](https://github.com/open-vela/nuttx-apps/pull/114) |
 | 21 | nuttx-apps | #113 | graphics/lvgl: link SiFli EPIC HAL | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/nuttx-apps/pull/113) |
-| 22 | test-manifest-self-ref | #3 | demos/cla_check_demo: add minimal demo to verify CLA workflo... | yanxingyu17 | 2026-06-12 | [查看](https://github.com/open-vela/test-manifest-self-ref/pull/3) |
-| 23 | vendor_SpacemiT | #2 | docs: trim reference table to official SpacemiT resources on... | yanxingyu17 | 2026-07-20 | [查看](https://github.com/open-vela/vendor_SpacemiT/pull/2) |
-| 24 | vendor_allwinnertech | #18 | configs/r528s3-gemini-s1: package CA cert bundle into /etc r... | yangkun27 | 2026-08-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/18) |
-| 25 | vendor_allwinnertech | #15 | [PATCH] add usb host driver (cherry-pick to dev-ai-contest-2... | yanxingyu17 | 2026-07-24 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/15) |
-| 26 | vendor_artinchip | #5 | cherry-pick: ArtInChip GE/VE driver, MPP base library, LVGL ... | yanxingyu17 | 2026-07-14 | [查看](https://github.com/open-vela/vendor_artinchip/pull/5) |
-| 27 | vendor_beken | #2 | boards/bk7258: add bk7258-devkit board + porting journal | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/vendor_beken/pull/2) |
-| 28 | vendor_bes | #15 | disable CONFIG_MEDIA_SERVER for best1700_ep | masc2008 | 2026-08-17 | [查看](https://github.com/open-vela/vendor_bes/pull/15) |
+| 22 | packages_ai_agent | #27 | fix: stop chunked response read at terminator block | xiaoduss | 2026-08-18 | [查看](https://github.com/open-vela/packages_ai_agent/pull/27) |
+| 23 | test-manifest-self-ref | #3 | demos/cla_check_demo: add minimal demo to verify CLA workflo... | yanxingyu17 | 2026-06-12 | [查看](https://github.com/open-vela/test-manifest-self-ref/pull/3) |
+| 24 | vendor_SpacemiT | #2 | docs: trim reference table to official SpacemiT resources on... | yanxingyu17 | 2026-07-20 | [查看](https://github.com/open-vela/vendor_SpacemiT/pull/2) |
+| 25 | vendor_allwinnertech | #18 | configs/r528s3-gemini-s1: package CA cert bundle into /etc r... | yangkun27 | 2026-08-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/18) |
+| 26 | vendor_allwinnertech | #15 | [PATCH] add usb host driver (cherry-pick to dev-ai-contest-2... | yanxingyu17 | 2026-07-24 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/15) |
+| 27 | vendor_artinchip | #5 | cherry-pick: ArtInChip GE/VE driver, MPP base library, LVGL ... | yanxingyu17 | 2026-07-14 | [查看](https://github.com/open-vela/vendor_artinchip/pull/5) |
+| 28 | vendor_beken | #2 | boards/bk7258: add bk7258-devkit board + porting journal | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/vendor_beken/pull/2) |
 | 29 | vendor_espressif | #6 | boards/esp32s3-eye: drop branch-dependency note and known-li... | yanxingyu17 | 2026-06-18 | [查看](https://github.com/open-vela/vendor_espressif/pull/6) |
 | 30 | vendor_sifli | #28 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/vendor_sifli/pull/28) |
 | 31 | vendor_sifli | #27 | sf32lb52_devkit_lcd: add an lvgl board configuration | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/27) |
