@@ -46272,13 +46272,13 @@
   },
   {
     "date": "2026-08-25",
-    "timestamp": "2026-08-25T15:27:48.837011",
+    "timestamp": "2026-08-25T15:33:36.361907",
     "summary": {
       "total_repos": 455,
       "active_repos": 87,
       "total_issues": 45,
-      "total_prs": 568,
-      "ai_log_repos": 45
+      "total_prs": 569,
+      "ai_log_repos": 46
     },
     "repos": [
       {
@@ -47706,8 +47706,8 @@
       {
         "repo": "contest2026_237_xinghe",
         "issues": 0,
-        "prs": 1,
-        "ai_log": false
+        "prs": 2,
+        "ai_log": true
       },
       {
         "repo": "contest2026_238_JUGGERNAUT",
