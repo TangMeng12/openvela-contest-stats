@@ -1,13 +1,13 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-08-25T15:34:46.954159
+> 最后更新时间: 2026-08-26T16:02:13.113327
 
 ## 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总 PR 数 | **237** |
-| 已合入 (Merged) | **175** |
+| 总 PR 数 | **238** |
+| 已合入 (Merged) | **176** |
 | 待合入 (Open) | **35** |
 | 已关闭未合入 | **27** |
 
@@ -19,7 +19,7 @@
 | [.claude](https://github.com/open-vela/.claude) | 29 |
 | [vendor_sifli](https://github.com/open-vela/vendor_sifli) | 15 |
 | [vendor_allwinnertech](https://github.com/open-vela/vendor_allwinnertech) | 10 |
-| [manifests](https://github.com/open-vela/manifests) | 8 |
+| [manifests](https://github.com/open-vela/manifests) | 9 |
 | [packages_ai_agent](https://github.com/open-vela/packages_ai_agent) | 7 |
 | [nuttx](https://github.com/open-vela/nuttx) | 5 |
 | [vendor_bes](https://github.com/open-vela/vendor_bes) | 3 |
@@ -42,7 +42,7 @@
 | [vendor_SpacemiT](https://github.com/open-vela/vendor_SpacemiT) | 1 |
 | [vendor_espressif](https://github.com/open-vela/vendor_espressif) | 1 |
 | [vendor_rockchip](https://github.com/open-vela/vendor_rockchip) | 1 |
-| **合计** | **175** |
+| **合计** | **176** |
 
 ## 待合入 PR（需关注）
 
