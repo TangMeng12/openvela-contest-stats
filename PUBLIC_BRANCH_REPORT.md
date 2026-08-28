@@ -1,15 +1,15 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-08-26T16:07:00.964220
+> 最后更新时间: 2026-08-28T14:36:40.157324
 
 ## 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总 PR 数 | **238** |
+| 总 PR 数 | **239** |
 | 已合入 (Merged) | **176** |
-| 待合入 (Open) | **35** |
-| 已关闭未合入 | **27** |
+| 待合入 (Open) | **34** |
+| 已关闭未合入 | **29** |
 
 ## 已合入 PR 分布（按仓库）
 
@@ -74,15 +74,14 @@
 | 24 | nuttx-apps | #113 | graphics/lvgl: link SiFli EPIC HAL | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/nuttx-apps/pull/113) |
 | 25 | packages_ai_agent | #27 | fix: stop chunked response read at terminator block | xiaoduss | 2026-08-18 | [查看](https://github.com/open-vela/packages_ai_agent/pull/27) |
 | 26 | test-manifest-self-ref | #3 | demos/cla_check_demo: add minimal demo to verify CLA workflo... | yanxingyu17 | 2026-06-12 | [查看](https://github.com/open-vela/test-manifest-self-ref/pull/3) |
-| 27 | vendor_SpacemiT | #2 | docs: trim reference table to official SpacemiT resources on... | yanxingyu17 | 2026-07-20 | [查看](https://github.com/open-vela/vendor_SpacemiT/pull/2) |
-| 28 | vendor_allwinnertech | #18 | configs/r528s3-gemini-s1: package CA cert bundle into /etc r... | yangkun27 | 2026-08-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/18) |
-| 29 | vendor_allwinnertech | #15 | [PATCH] add usb host driver (cherry-pick to dev-ai-contest-2... | yanxingyu17 | 2026-07-24 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/15) |
-| 30 | vendor_beken | #2 | boards/bk7258: add bk7258-devkit board + porting journal | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/vendor_beken/pull/2) |
-| 31 | vendor_espressif | #6 | boards/esp32s3-eye: drop branch-dependency note and known-li... | yanxingyu17 | 2026-06-18 | [查看](https://github.com/open-vela/vendor_espressif/pull/6) |
+| 27 | vendor_allwinnertech | #18 | configs/r528s3-gemini-s1: package CA cert bundle into /etc r... | yangkun27 | 2026-08-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/18) |
+| 28 | vendor_allwinnertech | #15 | [PATCH] add usb host driver (cherry-pick to dev-ai-contest-2... | yanxingyu17 | 2026-07-24 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/15) |
+| 29 | vendor_beken | #2 | boards/bk7258: add bk7258-devkit board + porting journal | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/vendor_beken/pull/2) |
+| 30 | vendor_espressif | #6 | boards/esp32s3-eye: drop branch-dependency note and known-li... | yanxingyu17 | 2026-06-18 | [查看](https://github.com/open-vela/vendor_espressif/pull/6) |
+| 31 | vendor_sifli | #30 | boards/lckfb_huangshan_pi: register prebuilt system.router/s... | yangkun27 | 2026-08-27 | [查看](https://github.com/open-vela/vendor_sifli/pull/30) |
 | 32 | vendor_sifli | #29 | sf32lb52: fix BT mailbox ring writes and keep the heap off t... | Sen70s | 2026-08-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/29) |
 | 33 | vendor_sifli | #28 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/vendor_sifli/pull/28) |
 | 34 | vendor_sifli | #27 | sf32lb52_devkit_lcd: add an lvgl board configuration | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/27) |
-| 35 | vendor_sifli | #26 | audio: add SF32LB52 on-chip AUDCODEC DAC playback driver | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/26) |
 
 ## 已关闭未合入 PR
 
@@ -107,14 +106,16 @@
 | 17 | nuttx | #293 | ci: build.yml: skip dangerous symbolic links on MSVC Extract... | yanxingyu17 | 2026-05-20 | [查看](https://github.com/open-vela/nuttx/pull/293) |
 | 18 | nuttx-apps | #112 | fix: reacquire IPv4 after carrier changes | FoLeaf | 2026-07-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/112) |
 | 19 | nuttx-apps | #107 | ci: check.yml: checkout open-vela repos instead of apache/nu... | yanxingyu17 | 2026-05-21 | [查看](https://github.com/open-vela/nuttx-apps/pull/107) |
-| 20 | vendor_artinchip | #6 | Contest/d13x hengshan pi | lladlam | 2026-07-27 | [查看](https://github.com/open-vela/vendor_artinchip/pull/6) |
-| 21 | vendor_artinchip | #5 | cherry-pick: ArtInChip GE/VE driver, MPP base library, LVGL ... | yanxingyu17 | 2026-07-14 | [查看](https://github.com/open-vela/vendor_artinchip/pull/5) |
-| 22 | vendor_artinchip | #4 | boards/d12x: update tools , update license info | yanxingyu17 | 2026-06-17 | [查看](https://github.com/open-vela/vendor_artinchip/pull/4) |
-| 23 | vendor_artinchip | #1 | boards/d12x: add initial SDK for D12X demo68-nor board | yanxingyu17 | 2026-06-16 | [查看](https://github.com/open-vela/vendor_artinchip/pull/1) |
-| 24 | vendor_openvela | #56 | Create test-ci | TangMeng12 | 2026-05-12 | [查看](https://github.com/open-vela/vendor_openvela/pull/56) |
-| 25 | vendor_openvela | #55 | Create test ci | TangMeng12 | 2026-05-11 | [查看](https://github.com/open-vela/vendor_openvela/pull/55) |
-| 26 | vendor_sifli | #18 | Feature/sf32lb52 audio codec | chain01 | 2026-06-05 | [查看](https://github.com/open-vela/vendor_sifli/pull/18) |
-| 27 | vendor_sifli | #11 | docs: add README for the LCKFB Huangshan Pi (SF32LB52) board | tanghao-xiaomi | 2026-06-03 | [查看](https://github.com/open-vela/vendor_sifli/pull/11) |
+| 20 | vendor_SpacemiT | #2 | docs: trim reference table to official SpacemiT resources on... | yanxingyu17 | 2026-07-20 | [查看](https://github.com/open-vela/vendor_SpacemiT/pull/2) |
+| 21 | vendor_artinchip | #6 | Contest/d13x hengshan pi | lladlam | 2026-07-27 | [查看](https://github.com/open-vela/vendor_artinchip/pull/6) |
+| 22 | vendor_artinchip | #5 | cherry-pick: ArtInChip GE/VE driver, MPP base library, LVGL ... | yanxingyu17 | 2026-07-14 | [查看](https://github.com/open-vela/vendor_artinchip/pull/5) |
+| 23 | vendor_artinchip | #4 | boards/d12x: update tools , update license info | yanxingyu17 | 2026-06-17 | [查看](https://github.com/open-vela/vendor_artinchip/pull/4) |
+| 24 | vendor_artinchip | #1 | boards/d12x: add initial SDK for D12X demo68-nor board | yanxingyu17 | 2026-06-16 | [查看](https://github.com/open-vela/vendor_artinchip/pull/1) |
+| 25 | vendor_openvela | #56 | Create test-ci | TangMeng12 | 2026-05-12 | [查看](https://github.com/open-vela/vendor_openvela/pull/56) |
+| 26 | vendor_openvela | #55 | Create test ci | TangMeng12 | 2026-05-11 | [查看](https://github.com/open-vela/vendor_openvela/pull/55) |
+| 27 | vendor_sifli | #26 | audio: add SF32LB52 on-chip AUDCODEC DAC playback driver | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/26) |
+| 28 | vendor_sifli | #18 | Feature/sf32lb52 audio codec | chain01 | 2026-06-05 | [查看](https://github.com/open-vela/vendor_sifli/pull/18) |
+| 29 | vendor_sifli | #11 | docs: add README for the LCKFB Huangshan Pi (SF32LB52) board | tanghao-xiaomi | 2026-06-03 | [查看](https://github.com/open-vela/vendor_sifli/pull/11) |
 
 ---
 
