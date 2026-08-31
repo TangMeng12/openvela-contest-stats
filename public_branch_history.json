@@ -4439,5 +4439,312 @@
         "url": "https://github.com/open-vela/vendor_sifli/pull/27"
       }
     ]
+  },
+  {
+    "date": "2026-08-31",
+    "timestamp": "2026-08-31T16:09:55.403390",
+    "summary": {
+      "total_prs": 247,
+      "merged": 176,
+      "open": 38,
+      "closed_not_merged": 33
+    },
+    "merged_repos": {
+      ".claude": 29,
+      "apps_graphics_lvgl": 1,
+      "build": 1,
+      "docs": 67,
+      "frameworks_runtimes_feature": 2,
+      "frameworks_runtimes_quickapp": 1,
+      "libs_openvela_vela": 1,
+      "manifests": 9,
+      "nuttx": 5,
+      "nuttx-apps": 2,
+      "packages": 1,
+      "packages_ai_agent": 7,
+      "packages_apps": 2,
+      "packages_demos": 2,
+      "packages_fe_examples": 1,
+      "test-manifest-self-ref": 2,
+      "vendor": 2,
+      "vendor_SpacemiT": 1,
+      "vendor_allwinnertech": 10,
+      "vendor_artinchip": 2,
+      "vendor_bes": 3,
+      "vendor_espressif": 1,
+      "vendor_gigadevice": 3,
+      "vendor_openvela": 2,
+      "vendor_rockchip": 1,
+      "vendor_sifli": 15,
+      "vendor_st": 3
+    },
+    "open_prs": [
+      {
+        "repo": ".claude",
+        "number": 44,
+        "title": "feat(collector): add Cursor IDE backfill support",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/.claude/pull/44"
+      },
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 40,
+        "title": "drivers/nuttx: fbdev refresh without vsync queue; touchscreen coordinate fixes",
+        "user": "caoshengdong",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/40"
+      },
+      {
+        "repo": "apps_interpreters_quickjs",
+        "number": 1,
+        "title": "build: fix qjsc host build on macOS (Apple Silicon)",
+        "user": "onecer",
+        "url": "https://github.com/open-vela/apps_interpreters_quickjs/pull/1"
+      },
+      {
+        "repo": "apps_netutils_mqttc_MQTT-C",
+        "number": 1,
+        "title": "mqtt_pal: add weak hooks for tagged LESP send/recv",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/apps_netutils_mqttc_MQTT-C/pull/1"
+      },
+      {
+        "repo": "docs",
+        "number": 647,
+        "title": "docs(contest): add Cursor backfill support to Q9 and Q11",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/docs/pull/647"
+      },
+      {
+        "repo": "docs",
+        "number": 644,
+        "title": "docs(contest2026): add --git-lfs flag to repo init command in contest docs",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/docs/pull/644"
+      },
+      {
+        "repo": "docs",
+        "number": 641,
+        "title": "docs(contest): remove consent yes/no explanation (opt-in via workspace)",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/docs/pull/641"
+      },
+      {
+        "repo": "external_zblue",
+        "number": 231,
+        "title": "port: register SAL net_buf pools in _net_buf_pool_list[]",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/external_zblue/pull/231"
+      },
+      {
+        "repo": "frameworks_bluetooth",
+        "number": 591,
+        "title": "PAN/BNEP over BR/EDR: bring-up, TX pool sizing and boot auto-connect",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/frameworks_bluetooth/pull/591"
+      },
+      {
+        "repo": "nuttx",
+        "number": 354,
+        "title": "drivers/input: improve ft5x06 touch polling performance",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/354"
+      },
+      {
+        "repo": "nuttx",
+        "number": 353,
+        "title": "arch/stm32h7: LTDC display acceleration for STM32H750B-DK",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/353"
+      },
+      {
+        "repo": "nuttx",
+        "number": 352,
+        "title": "stm32h750b-dk: VelaGuard net/eMMC/RS485/Ethernet bring-up",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/352"
+      },
+      {
+        "repo": "nuttx",
+        "number": 351,
+        "title": "boards/stm32h750b-dk: add VelaGuard extension board and defconfigs",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/351"
+      },
+      {
+        "repo": "nuttx",
+        "number": 350,
+        "title": "boards/stm32h750b-dk: add QSPI XIP boot support",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/350"
+      },
+      {
+        "repo": "nuttx",
+        "number": 347,
+        "title": "feat(esp32p4): ESP32-P4-Function-EV-Board board support with display/audio/camera drivers",
+        "user": "IsXiaoXiaoZhou",
+        "url": "https://github.com/open-vela/nuttx/pull/347"
+      },
+      {
+        "repo": "nuttx",
+        "number": 345,
+        "title": "fix: esp32s3-eye QMA7981 bringup on I2C1 (GPIO4/5) + chip id 0x90 + reset timing",
+        "user": "wakunkun",
+        "url": "https://github.com/open-vela/nuttx/pull/345"
+      },
+      {
+        "repo": "nuttx",
+        "number": 344,
+        "title": "arch/arm/bk7258: Beken BK7258 support + PSRAM driver + SysTick fix",
+        "user": "yz471686525-eng",
+        "url": "https://github.com/open-vela/nuttx/pull/344"
+      },
+      {
+        "repo": "nuttx",
+        "number": 342,
+        "title": "arch/boards: Add ESP32-P4 support (Function-EV-Board bring-up verified on hardware)",
+        "user": "caoshengdong",
+        "url": "https://github.com/open-vela/nuttx/pull/342"
+      },
+      {
+        "repo": "nuttx",
+        "number": 340,
+        "title": "risc-v: add initial ESP32-P4 SoC support",
+        "user": "uleemos",
+        "url": "https://github.com/open-vela/nuttx/pull/340"
+      },
+      {
+        "repo": "nuttx",
+        "number": 338,
+        "title": "drivers/audio: es8388: do not reset stream config in es8388_reset",
+        "user": "yunline",
+        "url": "https://github.com/open-vela/nuttx/pull/338"
+      },
+      {
+        "repo": "nuttx",
+        "number": 337,
+        "title": "drivers/audio/es8388: fix ES8388 register read length",
+        "user": "yunline",
+        "url": "https://github.com/open-vela/nuttx/pull/337"
+      },
+      {
+        "repo": "nuttx",
+        "number": 336,
+        "title": "drivers/audio/es8388: use left level for ES8388 left volume",
+        "user": "yunline",
+        "url": "https://github.com/open-vela/nuttx/pull/336"
+      },
+      {
+        "repo": "nuttx",
+        "number": 332,
+        "title": "arch/arm/bk7258: add Beken BK7258 SoC support (NSH on CPU0/UART0)",
+        "user": "yz471686525-eng",
+        "url": "https://github.com/open-vela/nuttx/pull/332"
+      },
+      {
+        "repo": "nuttx",
+        "number": 331,
+        "title": "fix(boards/stm32h750b-dk): invert user LED polarity for active-low hardware",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/331"
+      },
+      {
+        "repo": "nuttx",
+        "number": 322,
+        "title": "feat(arch/boards): add ESP32-P4 RISC-V platform support",
+        "user": "Joneyao",
+        "url": "https://github.com/open-vela/nuttx/pull/322"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 119,
+        "title": "netutils: carrier poll DHCP renew and ESP8266 LESP compat",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/119"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 116,
+        "title": "examples/psram: BK7258 PSRAM test/heap/memalign commands",
+        "user": "yz471686525-eng",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/116"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 115,
+        "title": "graphics/lvgl: Fix build on case-insensitive filesystems",
+        "user": "caoshengdong",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/115"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 114,
+        "title": "fix: prefix --defsym with -Wl, when LD is gcc driver (LTO)",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/114"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 29,
+        "title": "fix(ai_agent): VelaGuard board daemon attach and tool reliability",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/29"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 27,
+        "title": "fix: stop chunked response read at terminator block",
+        "user": "xiaoduss",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/27"
+      },
+      {
+        "repo": "test-manifest-self-ref",
+        "number": 3,
+        "title": "demos/cla_check_demo: add minimal demo to verify CLA workflow",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/test-manifest-self-ref/pull/3"
+      },
+      {
+        "repo": "vendor_allwinnertech",
+        "number": 18,
+        "title": "configs/r528s3-gemini-s1: package CA cert bundle into /etc romfs",
+        "user": "yangkun27",
+        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/18"
+      },
+      {
+        "repo": "vendor_allwinnertech",
+        "number": 15,
+        "title": "[PATCH] add usb host driver (cherry-pick to dev-ai-contest-2026)",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/15"
+      },
+      {
+        "repo": "vendor_beken",
+        "number": 2,
+        "title": "boards/bk7258: add bk7258-devkit board + porting journal",
+        "user": "yz471686525-eng",
+        "url": "https://github.com/open-vela/vendor_beken/pull/2"
+      },
+      {
+        "repo": "vendor_espressif",
+        "number": 6,
+        "title": "boards/esp32s3-eye: drop branch-dependency note and known-limitations section",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/vendor_espressif/pull/6"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 30,
+        "title": "boards/lckfb_huangshan_pi: register prebuilt system.router/system.app",
+        "user": "yangkun27",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/30"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 29,
+        "title": "sf32lb52: fix BT mailbox ring writes and keep the heap off the mailbox",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/29"
+      }
+    ]
   }
 ]
