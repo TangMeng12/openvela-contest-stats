@@ -1,14 +1,14 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-08-31T16:10:11.469295
+> 最后更新时间: 2026-09-01T16:09:01.659787
 
 ## 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总 PR 数 | **247** |
+| 总 PR 数 | **251** |
 | 已合入 (Merged) | **176** |
-| 待合入 (Open) | **38** |
+| 待合入 (Open) | **42** |
 | 已关闭未合入 | **33** |
 
 ## 已合入 PR 分布（按仓库）
@@ -49,43 +49,47 @@
 | # | 仓库 | PR | 标题 | 作者 | 创建时间 | 链接 |
 |---|------|-----|------|------|----------|------|
 | 1 | .claude | #44 | feat(collector): add Cursor IDE backfill support | yanxingyu17 | 2026-08-24 | [查看](https://github.com/open-vela/.claude/pull/44) |
-| 2 | apps_graphics_lvgl | #40 | drivers/nuttx: fbdev refresh without vsync queue; touchscree... | caoshengdong | 2026-08-17 | [查看](https://github.com/open-vela/apps_graphics_lvgl/pull/40) |
-| 3 | apps_interpreters_quickjs | #1 | build: fix qjsc host build on macOS (Apple Silicon) | onecer | 2026-07-14 | [查看](https://github.com/open-vela/apps_interpreters_quickjs/pull/1) |
-| 4 | apps_netutils_mqttc_MQTT-C | #1 | mqtt_pal: add weak hooks for tagged LESP send/recv | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/apps_netutils_mqttc_MQTT-C/pull/1) |
-| 5 | docs | #647 | docs(contest): add Cursor backfill support to Q9 and Q11 | yanxingyu17 | 2026-08-24 | [查看](https://github.com/open-vela/docs/pull/647) |
-| 6 | docs | #644 | docs(contest2026): add --git-lfs flag to repo init command i... | yanxingyu17 | 2026-08-12 | [查看](https://github.com/open-vela/docs/pull/644) |
-| 7 | docs | #641 | docs(contest): remove consent yes/no explanation (opt-in via... | yanxingyu17 | 2026-08-04 | [查看](https://github.com/open-vela/docs/pull/641) |
-| 8 | external_zblue | #231 | port: register SAL net_buf pools in _net_buf_pool_list[] | Sen70s | 2026-08-21 | [查看](https://github.com/open-vela/external_zblue/pull/231) |
-| 9 | frameworks_bluetooth | #591 | PAN/BNEP over BR/EDR: bring-up, TX pool sizing and boot auto... | Sen70s | 2026-08-21 | [查看](https://github.com/open-vela/frameworks_bluetooth/pull/591) |
-| 10 | nuttx | #354 | drivers/input: improve ft5x06 touch polling performance | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/nuttx/pull/354) |
-| 11 | nuttx | #353 | arch/stm32h7: LTDC display acceleration for STM32H750B-DK | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/nuttx/pull/353) |
-| 12 | nuttx | #352 | stm32h750b-dk: VelaGuard net/eMMC/RS485/Ethernet bring-up | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/nuttx/pull/352) |
-| 13 | nuttx | #351 | boards/stm32h750b-dk: add VelaGuard extension board and defc... | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/nuttx/pull/351) |
-| 14 | nuttx | #350 | boards/stm32h750b-dk: add QSPI XIP boot support | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/nuttx/pull/350) |
-| 15 | nuttx | #347 | feat(esp32p4): ESP32-P4-Function-EV-Board board support with... | IsXiaoXiaoZhou | 2026-08-21 | [查看](https://github.com/open-vela/nuttx/pull/347) |
-| 16 | nuttx | #345 | fix: esp32s3-eye QMA7981 bringup on I2C1 (GPIO4/5) + chip id... | wakunkun | 2026-08-16 | [查看](https://github.com/open-vela/nuttx/pull/345) |
-| 17 | nuttx | #344 | arch/arm/bk7258: Beken BK7258 support + PSRAM driver + SysTi... | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/nuttx/pull/344) |
-| 18 | nuttx | #342 | arch/boards: Add ESP32-P4 support (Function-EV-Board bring-u... | caoshengdong | 2026-08-12 | [查看](https://github.com/open-vela/nuttx/pull/342) |
-| 19 | nuttx | #340 | risc-v: add initial ESP32-P4 SoC support | uleemos | 2026-08-10 | [查看](https://github.com/open-vela/nuttx/pull/340) |
-| 20 | nuttx | #338 | drivers/audio: es8388: do not reset stream config in es8388_... | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/338) |
-| 21 | nuttx | #337 | drivers/audio/es8388: fix ES8388 register read length | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/337) |
-| 22 | nuttx | #336 | drivers/audio/es8388: use left level for ES8388 left volume | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/336) |
-| 23 | nuttx | #332 | arch/arm/bk7258: add Beken BK7258 SoC support (NSH on CPU0/U... | yz471686525-eng | 2026-08-01 | [查看](https://github.com/open-vela/nuttx/pull/332) |
-| 24 | nuttx | #331 | fix(boards/stm32h750b-dk): invert user LED polarity for acti... | FoLeaf | 2026-08-01 | [查看](https://github.com/open-vela/nuttx/pull/331) |
-| 25 | nuttx | #322 | feat(arch/boards): add ESP32-P4 RISC-V platform support | Joneyao | 2026-07-18 | [查看](https://github.com/open-vela/nuttx/pull/322) |
-| 26 | nuttx-apps | #119 | netutils: carrier poll DHCP renew and ESP8266 LESP compat | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/nuttx-apps/pull/119) |
-| 27 | nuttx-apps | #116 | examples/psram: BK7258 PSRAM test/heap/memalign commands | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/nuttx-apps/pull/116) |
-| 28 | nuttx-apps | #115 | graphics/lvgl: Fix build on case-insensitive filesystems | caoshengdong | 2026-08-12 | [查看](https://github.com/open-vela/nuttx-apps/pull/115) |
-| 29 | nuttx-apps | #114 | fix: prefix --defsym with -Wl, when LD is gcc driver (LTO) | yanxingyu17 | 2026-08-03 | [查看](https://github.com/open-vela/nuttx-apps/pull/114) |
-| 30 | packages_ai_agent | #29 | fix(ai_agent): VelaGuard board daemon attach and tool reliab... | FoLeaf | 2026-08-30 | [查看](https://github.com/open-vela/packages_ai_agent/pull/29) |
-| 31 | packages_ai_agent | #27 | fix: stop chunked response read at terminator block | xiaoduss | 2026-08-18 | [查看](https://github.com/open-vela/packages_ai_agent/pull/27) |
-| 32 | test-manifest-self-ref | #3 | demos/cla_check_demo: add minimal demo to verify CLA workflo... | yanxingyu17 | 2026-06-12 | [查看](https://github.com/open-vela/test-manifest-self-ref/pull/3) |
-| 33 | vendor_allwinnertech | #18 | configs/r528s3-gemini-s1: package CA cert bundle into /etc r... | yangkun27 | 2026-08-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/18) |
-| 34 | vendor_allwinnertech | #15 | [PATCH] add usb host driver (cherry-pick to dev-ai-contest-2... | yanxingyu17 | 2026-07-24 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/15) |
-| 35 | vendor_beken | #2 | boards/bk7258: add bk7258-devkit board + porting journal | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/vendor_beken/pull/2) |
-| 36 | vendor_espressif | #6 | boards/esp32s3-eye: drop branch-dependency note and known-li... | yanxingyu17 | 2026-06-18 | [查看](https://github.com/open-vela/vendor_espressif/pull/6) |
-| 37 | vendor_sifli | #30 | boards/lckfb_huangshan_pi: register prebuilt system.router/s... | yangkun27 | 2026-08-27 | [查看](https://github.com/open-vela/vendor_sifli/pull/30) |
-| 38 | vendor_sifli | #29 | sf32lb52: fix BT mailbox ring writes and keep the heap off t... | Sen70s | 2026-08-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/29) |
+| 2 | apps_graphics_lvgl | #41 | draw/sifli: add EPIC hardware acceleration | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/apps_graphics_lvgl/pull/41) |
+| 3 | apps_graphics_lvgl | #40 | drivers/nuttx: fbdev refresh without vsync queue; touchscree... | caoshengdong | 2026-08-17 | [查看](https://github.com/open-vela/apps_graphics_lvgl/pull/40) |
+| 4 | apps_interpreters_quickjs | #1 | build: fix qjsc host build on macOS (Apple Silicon) | onecer | 2026-07-14 | [查看](https://github.com/open-vela/apps_interpreters_quickjs/pull/1) |
+| 5 | apps_netutils_mqttc_MQTT-C | #1 | mqtt_pal: add weak hooks for tagged LESP send/recv | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/apps_netutils_mqttc_MQTT-C/pull/1) |
+| 6 | docs | #647 | docs(contest): add Cursor backfill support to Q9 and Q11 | yanxingyu17 | 2026-08-24 | [查看](https://github.com/open-vela/docs/pull/647) |
+| 7 | docs | #644 | docs(contest2026): add --git-lfs flag to repo init command i... | yanxingyu17 | 2026-08-12 | [查看](https://github.com/open-vela/docs/pull/644) |
+| 8 | docs | #641 | docs(contest): remove consent yes/no explanation (opt-in via... | yanxingyu17 | 2026-08-04 | [查看](https://github.com/open-vela/docs/pull/641) |
+| 9 | external_zblue | #231 | port: register SAL net_buf pools in _net_buf_pool_list[] | Sen70s | 2026-08-21 | [查看](https://github.com/open-vela/external_zblue/pull/231) |
+| 10 | frameworks_bluetooth | #591 | PAN/BNEP over BR/EDR: bring-up, TX pool sizing and boot auto... | Sen70s | 2026-08-21 | [查看](https://github.com/open-vela/frameworks_bluetooth/pull/591) |
+| 11 | nuttx | #360 | Feat/bk7258 chip | YangMaxpro | 2026-08-31 | [查看](https://github.com/open-vela/nuttx/pull/360) |
+| 12 | nuttx | #354 | drivers/input: improve ft5x06 touch polling performance | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/nuttx/pull/354) |
+| 13 | nuttx | #353 | arch/stm32h7: LTDC display acceleration for STM32H750B-DK | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/nuttx/pull/353) |
+| 14 | nuttx | #352 | stm32h750b-dk: VelaGuard net/eMMC/RS485/Ethernet bring-up | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/nuttx/pull/352) |
+| 15 | nuttx | #351 | boards/stm32h750b-dk: add VelaGuard extension board and defc... | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/nuttx/pull/351) |
+| 16 | nuttx | #350 | boards/stm32h750b-dk: add QSPI XIP boot support | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/nuttx/pull/350) |
+| 17 | nuttx | #347 | feat(esp32p4): ESP32-P4-Function-EV-Board board support with... | IsXiaoXiaoZhou | 2026-08-21 | [查看](https://github.com/open-vela/nuttx/pull/347) |
+| 18 | nuttx | #345 | fix: esp32s3-eye QMA7981 bringup on I2C1 (GPIO4/5) + chip id... | wakunkun | 2026-08-16 | [查看](https://github.com/open-vela/nuttx/pull/345) |
+| 19 | nuttx | #344 | arch/arm/bk7258: Beken BK7258 support + PSRAM driver + SysTi... | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/nuttx/pull/344) |
+| 20 | nuttx | #342 | arch/boards: Add ESP32-P4 support (Function-EV-Board bring-u... | caoshengdong | 2026-08-12 | [查看](https://github.com/open-vela/nuttx/pull/342) |
+| 21 | nuttx | #340 | risc-v: add initial ESP32-P4 SoC support | uleemos | 2026-08-10 | [查看](https://github.com/open-vela/nuttx/pull/340) |
+| 22 | nuttx | #338 | drivers/audio: es8388: do not reset stream config in es8388_... | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/338) |
+| 23 | nuttx | #337 | drivers/audio/es8388: fix ES8388 register read length | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/337) |
+| 24 | nuttx | #336 | drivers/audio/es8388: use left level for ES8388 left volume | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/336) |
+| 25 | nuttx | #332 | arch/arm/bk7258: add Beken BK7258 SoC support (NSH on CPU0/U... | yz471686525-eng | 2026-08-01 | [查看](https://github.com/open-vela/nuttx/pull/332) |
+| 26 | nuttx | #331 | fix(boards/stm32h750b-dk): invert user LED polarity for acti... | FoLeaf | 2026-08-01 | [查看](https://github.com/open-vela/nuttx/pull/331) |
+| 27 | nuttx | #322 | feat(arch/boards): add ESP32-P4 RISC-V platform support | Joneyao | 2026-07-18 | [查看](https://github.com/open-vela/nuttx/pull/322) |
+| 28 | nuttx-apps | #121 | graphics/lvgl: link SiFli EPIC HAL | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/nuttx-apps/pull/121) |
+| 29 | nuttx-apps | #119 | netutils: carrier poll DHCP renew and ESP8266 LESP compat | FoLeaf | 2026-08-28 | [查看](https://github.com/open-vela/nuttx-apps/pull/119) |
+| 30 | nuttx-apps | #116 | examples/psram: BK7258 PSRAM test/heap/memalign commands | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/nuttx-apps/pull/116) |
+| 31 | nuttx-apps | #115 | graphics/lvgl: Fix build on case-insensitive filesystems | caoshengdong | 2026-08-12 | [查看](https://github.com/open-vela/nuttx-apps/pull/115) |
+| 32 | nuttx-apps | #114 | fix: prefix --defsym with -Wl, when LD is gcc driver (LTO) | yanxingyu17 | 2026-08-03 | [查看](https://github.com/open-vela/nuttx-apps/pull/114) |
+| 33 | packages_ai_agent | #29 | fix(ai_agent): VelaGuard board daemon attach and tool reliab... | FoLeaf | 2026-08-30 | [查看](https://github.com/open-vela/packages_ai_agent/pull/29) |
+| 34 | packages_ai_agent | #27 | fix: stop chunked response read at terminator block | xiaoduss | 2026-08-18 | [查看](https://github.com/open-vela/packages_ai_agent/pull/27) |
+| 35 | test-manifest-self-ref | #3 | demos/cla_check_demo: add minimal demo to verify CLA workflo... | yanxingyu17 | 2026-06-12 | [查看](https://github.com/open-vela/test-manifest-self-ref/pull/3) |
+| 36 | vendor_allwinnertech | #18 | configs/r528s3-gemini-s1: package CA cert bundle into /etc r... | yangkun27 | 2026-08-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/18) |
+| 37 | vendor_allwinnertech | #15 | [PATCH] add usb host driver (cherry-pick to dev-ai-contest-2... | yanxingyu17 | 2026-07-24 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/15) |
+| 38 | vendor_beken | #2 | boards/bk7258: add bk7258-devkit board + porting journal | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/vendor_beken/pull/2) |
+| 39 | vendor_espressif | #6 | boards/esp32s3-eye: drop branch-dependency note and known-li... | yanxingyu17 | 2026-06-18 | [查看](https://github.com/open-vela/vendor_espressif/pull/6) |
+| 40 | vendor_sifli | #31 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/vendor_sifli/pull/31) |
+| 41 | vendor_sifli | #30 | boards/lckfb_huangshan_pi: register prebuilt system.router/s... | yangkun27 | 2026-08-27 | [查看](https://github.com/open-vela/vendor_sifli/pull/30) |
+| 42 | vendor_sifli | #29 | sf32lb52: fix BT mailbox ring writes and keep the heap off t... | Sen70s | 2026-08-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/29) |
 
 ## 已关闭未合入 PR
 
