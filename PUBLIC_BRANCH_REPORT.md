@@ -1,22 +1,22 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-09-01T16:09:01.659787
+> 最后更新时间: 2026-09-02T16:04:19.490569
 
 ## 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总 PR 数 | **251** |
-| 已合入 (Merged) | **176** |
+| 总 PR 数 | **245** |
+| 已合入 (Merged) | **172** |
 | 待合入 (Open) | **42** |
-| 已关闭未合入 | **33** |
+| 已关闭未合入 | **31** |
 
 ## 已合入 PR 分布（按仓库）
 
 | 仓库 | 合入 PR 数 |
 |------|-----------|
-| [docs](https://github.com/open-vela/docs) | 67 |
-| [.claude](https://github.com/open-vela/.claude) | 29 |
+| [docs](https://github.com/open-vela/docs) | 65 |
+| [.claude](https://github.com/open-vela/.claude) | 27 |
 | [vendor_sifli](https://github.com/open-vela/vendor_sifli) | 15 |
 | [vendor_allwinnertech](https://github.com/open-vela/vendor_allwinnertech) | 10 |
 | [manifests](https://github.com/open-vela/manifests) | 9 |
@@ -42,7 +42,7 @@
 | [vendor_SpacemiT](https://github.com/open-vela/vendor_SpacemiT) | 1 |
 | [vendor_espressif](https://github.com/open-vela/vendor_espressif) | 1 |
 | [vendor_rockchip](https://github.com/open-vela/vendor_rockchip) | 1 |
-| **合计** | **176** |
+| **合计** | **172** |
 
 ## 待合入 PR（需关注）
 
@@ -121,13 +121,11 @@
 | 24 | vendor_artinchip | #5 | cherry-pick: ArtInChip GE/VE driver, MPP base library, LVGL ... | yanxingyu17 | 2026-07-14 | [查看](https://github.com/open-vela/vendor_artinchip/pull/5) |
 | 25 | vendor_artinchip | #4 | boards/d12x: update tools , update license info | yanxingyu17 | 2026-06-17 | [查看](https://github.com/open-vela/vendor_artinchip/pull/4) |
 | 26 | vendor_artinchip | #1 | boards/d12x: add initial SDK for D12X demo68-nor board | yanxingyu17 | 2026-06-16 | [查看](https://github.com/open-vela/vendor_artinchip/pull/1) |
-| 27 | vendor_openvela | #56 | Create test-ci | TangMeng12 | 2026-05-12 | [查看](https://github.com/open-vela/vendor_openvela/pull/56) |
-| 28 | vendor_openvela | #55 | Create test ci | TangMeng12 | 2026-05-11 | [查看](https://github.com/open-vela/vendor_openvela/pull/55) |
-| 29 | vendor_sifli | #28 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/vendor_sifli/pull/28) |
-| 30 | vendor_sifli | #27 | sf32lb52_devkit_lcd: add an lvgl board configuration | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/27) |
-| 31 | vendor_sifli | #26 | audio: add SF32LB52 on-chip AUDCODEC DAC playback driver | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/26) |
-| 32 | vendor_sifli | #18 | Feature/sf32lb52 audio codec | chain01 | 2026-06-05 | [查看](https://github.com/open-vela/vendor_sifli/pull/18) |
-| 33 | vendor_sifli | #11 | docs: add README for the LCKFB Huangshan Pi (SF32LB52) board | tanghao-xiaomi | 2026-06-03 | [查看](https://github.com/open-vela/vendor_sifli/pull/11) |
+| 27 | vendor_sifli | #28 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/vendor_sifli/pull/28) |
+| 28 | vendor_sifli | #27 | sf32lb52_devkit_lcd: add an lvgl board configuration | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/27) |
+| 29 | vendor_sifli | #26 | audio: add SF32LB52 on-chip AUDCODEC DAC playback driver | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/26) |
+| 30 | vendor_sifli | #18 | Feature/sf32lb52 audio codec | chain01 | 2026-06-05 | [查看](https://github.com/open-vela/vendor_sifli/pull/18) |
+| 31 | vendor_sifli | #11 | docs: add README for the LCKFB Huangshan Pi (SF32LB52) board | tanghao-xiaomi | 2026-06-03 | [查看](https://github.com/open-vela/vendor_sifli/pull/11) |
 
 ---
 
