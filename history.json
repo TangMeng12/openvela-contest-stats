@@ -71931,13 +71931,13 @@
   },
   {
     "date": "2026-09-10",
-    "timestamp": "2026-09-10T20:01:45.796176",
+    "timestamp": "2026-09-10T22:40:59.205427",
     "summary": {
       "total_repos": 484,
       "active_repos": 126,
       "total_issues": 45,
-      "total_prs": 930,
-      "ai_log_repos": 72
+      "total_prs": 935,
+      "ai_log_repos": 73
     },
     "repos": [
       {
@@ -72579,7 +72579,7 @@
       {
         "repo": "contest2026_106_VelaGoGoGo",
         "issues": 0,
-        "prs": 29,
+        "prs": 31,
         "ai_log": true
       },
       {
@@ -73287,8 +73287,8 @@
       {
         "repo": "contest2026_224_quanyuanzhirendui",
         "issues": 0,
-        "prs": 0,
-        "ai_log": false
+        "prs": 1,
+        "ai_log": true
       },
       {
         "repo": "contest2026_225_wadaenne",
@@ -73461,7 +73461,7 @@
       {
         "repo": "contest2026_253_bolilingmengsaigao",
         "issues": 0,
-        "prs": 1,
+        "prs": 0,
         "ai_log": true
       },
       {
@@ -73713,7 +73713,7 @@
       {
         "repo": "contest2026_296_weihedui",
         "issues": 0,
-        "prs": 3,
+        "prs": 4,
         "ai_log": false
       },
       {
@@ -74841,7 +74841,7 @@
       {
         "repo": "contest2026_485_xiaomingTV",
         "issues": 0,
-        "prs": 1,
+        "prs": 3,
         "ai_log": false
       }
     ]

@@ -6521,25 +6521,19 @@
   },
   {
     "date": "2026-09-10",
-    "timestamp": "2026-09-10T20:02:27.503559",
+    "timestamp": "2026-09-10T22:41:35.228055",
     "summary": {
-      "total_prs": 118,
-      "merged": 46,
-      "open": 51,
-      "closed_not_merged": 21
+      "total_prs": 66,
+      "merged": 12,
+      "open": 48,
+      "closed_not_merged": 6
     },
     "merged_repos": {
-      ".claude": 13,
-      "apps_graphics_lvgl": 1,
-      "docs": 14,
-      "manifests": 3,
-      "nuttx": 2,
-      "nuttx-apps": 1,
+      ".claude": 6,
+      "docs": 3,
+      "manifests": 1,
       "packages_demos": 1,
-      "vendor_SpacemiT": 1,
-      "vendor_allwinnertech": 6,
-      "vendor_bes": 1,
-      "vendor_sifli": 3
+      "vendor_bes": 1
     },
     "open_prs": [
       {
@@ -6555,13 +6549,6 @@
         "title": "drivers/nuttx: fbdev refresh without vsync queue; touchscreen coordinate fixes",
         "user": "caoshengdong",
         "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/40"
-      },
-      {
-        "repo": "apps_interpreters_quickjs",
-        "number": 1,
-        "title": "build: fix qjsc host build on macOS (Apple Silicon)",
-        "user": "onecer",
-        "url": "https://github.com/open-vela/apps_interpreters_quickjs/pull/1"
       },
       {
         "repo": "apps_netutils_mqttc_MQTT-C",
@@ -6753,13 +6740,6 @@
         "url": "https://github.com/open-vela/nuttx/pull/332"
       },
       {
-        "repo": "nuttx",
-        "number": 322,
-        "title": "feat(arch/boards): add ESP32-P4 RISC-V platform support",
-        "user": "Joneyao",
-        "url": "https://github.com/open-vela/nuttx/pull/322"
-      },
-      {
         "repo": "nuttx-apps",
         "number": 124,
         "title": "feat(examples): add uvc_test, person_detection and face_detection",
@@ -6842,13 +6822,6 @@
         "title": "configs/r528s3-gemini-s1: package CA cert bundle into /etc romfs",
         "user": "yangkun27",
         "url": "https://github.com/open-vela/vendor_allwinnertech/pull/18"
-      },
-      {
-        "repo": "vendor_allwinnertech",
-        "number": 15,
-        "title": "[PATCH] add usb host driver (cherry-pick to dev-ai-contest-2026)",
-        "user": "yanxingyu17",
-        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/15"
       },
       {
         "repo": "vendor_beken",
