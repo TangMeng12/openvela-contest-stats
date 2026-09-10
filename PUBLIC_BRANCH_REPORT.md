@@ -1,21 +1,21 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-09-10T15:56:17.629656
+> 最后更新时间: 2026-09-10T20:02:27.508953
 
-## 总体统计
+## 📊 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总 PR 数 | **119** |
-| 已合入 (Merged) | **47** |
+| 总 PR 数 | **118** |
+| 已合入 (Merged) | **46** |
 | 待合入 (Open) | **51** |
 | 已关闭未合入 | **21** |
 
-## 已合入 PR 分布（按仓库）
+## ✅ 已合入 PR 分布（按仓库）
 
 | 仓库 | 合入 PR 数 |
 |------|-----------|
-| [docs](https://github.com/open-vela/docs) | 15 |
+| [docs](https://github.com/open-vela/docs) | 14 |
 | [.claude](https://github.com/open-vela/.claude) | 13 |
 | [vendor_allwinnertech](https://github.com/open-vela/vendor_allwinnertech) | 6 |
 | [manifests](https://github.com/open-vela/manifests) | 3 |
@@ -26,9 +26,9 @@
 | [packages_demos](https://github.com/open-vela/packages_demos) | 1 |
 | [vendor_SpacemiT](https://github.com/open-vela/vendor_SpacemiT) | 1 |
 | [vendor_bes](https://github.com/open-vela/vendor_bes) | 1 |
-| **合计** | **47** |
+| **合计** | **46** |
 
-## 待合入 PR（需关注）
+## ⏳ 待合入 PR（需关注）
 
 | # | 仓库 | PR | 标题 | 作者 | 创建时间 | 链接 |
 |---|------|-----|------|------|----------|------|
@@ -84,7 +84,7 @@
 | 50 | vendor_sifli | #30 | boards/lckfb_huangshan_pi: register prebuilt system.router/s... | yangkun27 | 2026-08-27 | [查看](https://github.com/open-vela/vendor_sifli/pull/30) |
 | 51 | vendor_sifli | #29 | sf32lb52: fix BT mailbox ring writes and keep the heap off t... | Sen70s | 2026-08-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/29) |
 
-## 已关闭未合入 PR
+## ❌ 已关闭未合入 PR
 
 | # | 仓库 | PR | 标题 | 作者 | 创建时间 | 链接 |
 |---|------|-----|------|------|----------|------|
@@ -112,4 +112,5 @@
 
 ---
 
-*本报告由 query_contest_final.py 自动生成*
+*本报告由 query_and_record.py 自动生成*
+*数据来源: GitHub API (https://github.com/open-vela)*
