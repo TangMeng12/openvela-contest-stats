@@ -1,15 +1,15 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-09-13T22:52:37.973965
+> 最后更新时间: 2026-09-14T22:38:53.336862
 
 ## 📊 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总 PR 数 | **101** |
+| 总 PR 数 | **99** |
 | 已合入 (Merged) | **20** |
 | 待合入 (Open) | **59** |
-| 已关闭未合入 | **22** |
+| 已关闭未合入 | **20** |
 
 ## ✅ 已合入 PR 分布（按仓库）
 
@@ -103,17 +103,15 @@
 | 9 | nuttx | #331 | fix(boards/stm32h750b-dk): invert user LED polarity for acti... | FoLeaf | 2026-08-01 | [查看](https://github.com/open-vela/nuttx/pull/331) |
 | 10 | nuttx | #326 | boards/risc-v: add ESP32-P4-Function-EV-Board support | arikasu1027 | 2026-07-21 | [查看](https://github.com/open-vela/nuttx/pull/326) |
 | 11 | nuttx | #323 | fix: monitor STM32H7 Ethernet carrier | FoLeaf | 2026-07-19 | [查看](https://github.com/open-vela/nuttx/pull/323) |
-| 12 | nuttx | #322 | feat(arch/boards): add ESP32-P4 RISC-V platform support | Joneyao | 2026-07-18 | [查看](https://github.com/open-vela/nuttx/pull/322) |
-| 13 | nuttx-apps | #126 | fix(mbedtls): 修复 TLS 编译告警并隔离 include（esp32p4） | ez-xu | 2026-09-07 | [查看](https://github.com/open-vela/nuttx-apps/pull/126) |
-| 14 | nuttx-apps | #114 | fix: prefix --defsym with -Wl, when LD is gcc driver (LTO) | yanxingyu17 | 2026-08-03 | [查看](https://github.com/open-vela/nuttx-apps/pull/114) |
-| 15 | nuttx-apps | #113 | graphics/lvgl: link SiFli EPIC HAL | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/nuttx-apps/pull/113) |
-| 16 | nuttx-apps | #112 | fix: reacquire IPv4 after carrier changes | FoLeaf | 2026-07-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/112) |
-| 17 | packages_ai_agent | #30 | feat(remote-ctrl): drive a remote ACP agent from the device ... | C-Luv9615 | 2026-09-04 | [查看](https://github.com/open-vela/packages_ai_agent/pull/30) |
-| 18 | vendor_SpacemiT | #2 | docs: trim reference table to official SpacemiT resources on... | yanxingyu17 | 2026-07-20 | [查看](https://github.com/open-vela/vendor_SpacemiT/pull/2) |
-| 19 | vendor_artinchip | #6 | Contest/d13x hengshan pi | lladlam | 2026-07-27 | [查看](https://github.com/open-vela/vendor_artinchip/pull/6) |
-| 20 | vendor_sifli | #28 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/vendor_sifli/pull/28) |
-| 21 | vendor_sifli | #27 | sf32lb52_devkit_lcd: add an lvgl board configuration | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/27) |
-| 22 | vendor_sifli | #26 | audio: add SF32LB52 on-chip AUDCODEC DAC playback driver | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/26) |
+| 12 | nuttx-apps | #126 | fix(mbedtls): 修复 TLS 编译告警并隔离 include（esp32p4） | ez-xu | 2026-09-07 | [查看](https://github.com/open-vela/nuttx-apps/pull/126) |
+| 13 | nuttx-apps | #114 | fix: prefix --defsym with -Wl, when LD is gcc driver (LTO) | yanxingyu17 | 2026-08-03 | [查看](https://github.com/open-vela/nuttx-apps/pull/114) |
+| 14 | nuttx-apps | #113 | graphics/lvgl: link SiFli EPIC HAL | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/nuttx-apps/pull/113) |
+| 15 | packages_ai_agent | #30 | feat(remote-ctrl): drive a remote ACP agent from the device ... | C-Luv9615 | 2026-09-04 | [查看](https://github.com/open-vela/packages_ai_agent/pull/30) |
+| 16 | vendor_SpacemiT | #2 | docs: trim reference table to official SpacemiT resources on... | yanxingyu17 | 2026-07-20 | [查看](https://github.com/open-vela/vendor_SpacemiT/pull/2) |
+| 17 | vendor_artinchip | #6 | Contest/d13x hengshan pi | lladlam | 2026-07-27 | [查看](https://github.com/open-vela/vendor_artinchip/pull/6) |
+| 18 | vendor_sifli | #28 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-07-22 | [查看](https://github.com/open-vela/vendor_sifli/pull/28) |
+| 19 | vendor_sifli | #27 | sf32lb52_devkit_lcd: add an lvgl board configuration | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/27) |
+| 20 | vendor_sifli | #26 | audio: add SF32LB52 on-chip AUDCODEC DAC playback driver | onecer | 2026-07-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/26) |
 
 ---
 
