@@ -1,15 +1,15 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-09-15T23:12:22.001618
+> 最后更新时间: 2026-09-16T14:56:25.567374
 
 ## 📊 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总 PR 数 | **87** |
+| 总 PR 数 | **84** |
 | 已合入 (Merged) | **15** |
-| 待合入 (Open) | **57** |
-| 已关闭未合入 | **15** |
+| 待合入 (Open) | **56** |
+| 已关闭未合入 | **13** |
 
 ## ✅ 已合入 PR 分布（按仓库）
 
@@ -76,15 +76,14 @@
 | 46 | vendor_allwinnertech | #20 | r528: BOE 1200x1920 panel + de_dsi write timeout + ltr553 AL... | arclau | 2026-09-11 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/20) |
 | 47 | vendor_allwinnertech | #19 | feat(r528): add USB EHCI host driver, UVC bringup and LCD SP... | lvxinliang | 2026-09-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/19) |
 | 48 | vendor_allwinnertech | #18 | configs/r528s3-gemini-s1: package CA cert bundle into /etc r... | yangkun27 | 2026-08-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/18) |
-| 49 | vendor_allwinnertech | #15 | [PATCH] add usb host driver (cherry-pick to dev-ai-contest-2... | yanxingyu17 | 2026-07-24 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/15) |
-| 50 | vendor_beken | #2 | boards/bk7258: add bk7258-devkit board + porting journal | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/vendor_beken/pull/2) |
-| 51 | vendor_loongsonpi | #2 | Dev ai contest 2026 | Xhbzfjt | 2026-09-09 | [查看](https://github.com/open-vela/vendor_loongsonpi/pull/2) |
-| 52 | vendor_sifli | #34 | fix(sf32lb52_devkit_lcd): enable I2C so the touch controller... | tofreemyself | 2026-09-11 | [查看](https://github.com/open-vela/vendor_sifli/pull/34) |
-| 53 | vendor_sifli | #33 | sf32lb52: fix upstream build/startup issues and add DevKit-L... | zhan9xiaohu1 | 2026-09-08 | [查看](https://github.com/open-vela/vendor_sifli/pull/33) |
-| 54 | vendor_sifli | #32 | sf32lb52: AI Watch contest board fixes (BLE bridge/LCPU/LCD/... | ma-abc123 | 2026-09-04 | [查看](https://github.com/open-vela/vendor_sifli/pull/32) |
-| 55 | vendor_sifli | #31 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/vendor_sifli/pull/31) |
-| 56 | vendor_sifli | #30 | boards/lckfb_huangshan_pi: register prebuilt system.router/s... | yangkun27 | 2026-08-27 | [查看](https://github.com/open-vela/vendor_sifli/pull/30) |
-| 57 | vendor_sifli | #29 | sf32lb52: fix BT mailbox ring writes and keep the heap off t... | Sen70s | 2026-08-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/29) |
+| 49 | vendor_beken | #2 | boards/bk7258: add bk7258-devkit board + porting journal | yz471686525-eng | 2026-08-14 | [查看](https://github.com/open-vela/vendor_beken/pull/2) |
+| 50 | vendor_loongsonpi | #2 | Dev ai contest 2026 | Xhbzfjt | 2026-09-09 | [查看](https://github.com/open-vela/vendor_loongsonpi/pull/2) |
+| 51 | vendor_sifli | #34 | fix(sf32lb52_devkit_lcd): enable I2C so the touch controller... | tofreemyself | 2026-09-11 | [查看](https://github.com/open-vela/vendor_sifli/pull/34) |
+| 52 | vendor_sifli | #33 | sf32lb52: fix upstream build/startup issues and add DevKit-L... | zhan9xiaohu1 | 2026-09-08 | [查看](https://github.com/open-vela/vendor_sifli/pull/33) |
+| 53 | vendor_sifli | #32 | sf32lb52: AI Watch contest board fixes (BLE bridge/LCPU/LCD/... | ma-abc123 | 2026-09-04 | [查看](https://github.com/open-vela/vendor_sifli/pull/32) |
+| 54 | vendor_sifli | #31 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/vendor_sifli/pull/31) |
+| 55 | vendor_sifli | #30 | boards/lckfb_huangshan_pi: register prebuilt system.router/s... | yangkun27 | 2026-08-27 | [查看](https://github.com/open-vela/vendor_sifli/pull/30) |
+| 56 | vendor_sifli | #29 | sf32lb52: fix BT mailbox ring writes and keep the heap off t... | Sen70s | 2026-08-21 | [查看](https://github.com/open-vela/vendor_sifli/pull/29) |
 
 ## ❌ 已关闭未合入 PR
 
@@ -94,17 +93,15 @@
 | 2 | docs | #643 | docs: correct ESP32-S3-EYE peripheral list (add QMA7981 acce... | tanghao-xiaomi | 2026-08-04 | [查看](https://github.com/open-vela/docs/pull/643) |
 | 3 | docs | #641 | docs(contest): remove consent yes/no explanation (opt-in via... | yanxingyu17 | 2026-08-04 | [查看](https://github.com/open-vela/docs/pull/641) |
 | 4 | docs | #637 | ci: add brand-name check for 'VelaClaw' in Markdown | tanghao-xiaomi | 2026-07-28 | [查看](https://github.com/open-vela/docs/pull/637) |
-| 5 | docs | #636 | docs(mini_memo): use openvelaClaw brand name to reduce trade... | tanghao-xiaomi | 2026-07-28 | [查看](https://github.com/open-vela/docs/pull/636) |
-| 6 | nuttx | #348 | risc-v: add initial ESP32-P4 SoC and peripheral support | uleemos | 2026-08-22 | [查看](https://github.com/open-vela/nuttx/pull/348) |
-| 7 | nuttx | #347 | feat(esp32p4): ESP32-P4-Function-EV-Board board support with... | IsXiaoXiaoZhou | 2026-08-21 | [查看](https://github.com/open-vela/nuttx/pull/347) |
-| 8 | nuttx | #338 | drivers/audio: es8388: do not reset stream config in es8388_... | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/338) |
-| 9 | nuttx | #337 | drivers/audio/es8388: fix ES8388 register read length | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/337) |
-| 10 | nuttx | #336 | drivers/audio/es8388: use left level for ES8388 left volume | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/336) |
-| 11 | nuttx | #331 | fix(boards/stm32h750b-dk): invert user LED polarity for acti... | FoLeaf | 2026-08-01 | [查看](https://github.com/open-vela/nuttx/pull/331) |
-| 12 | nuttx-apps | #126 | fix(mbedtls): 修复 TLS 编译告警并隔离 include（esp32p4） | ez-xu | 2026-09-07 | [查看](https://github.com/open-vela/nuttx-apps/pull/126) |
-| 13 | nuttx-apps | #114 | fix: prefix --defsym with -Wl, when LD is gcc driver (LTO) | yanxingyu17 | 2026-08-03 | [查看](https://github.com/open-vela/nuttx-apps/pull/114) |
-| 14 | packages_ai_agent | #30 | feat(remote-ctrl): drive a remote ACP agent from the device ... | C-Luv9615 | 2026-09-04 | [查看](https://github.com/open-vela/packages_ai_agent/pull/30) |
-| 15 | vendor_artinchip | #6 | Contest/d13x hengshan pi | lladlam | 2026-07-27 | [查看](https://github.com/open-vela/vendor_artinchip/pull/6) |
+| 5 | nuttx | #348 | risc-v: add initial ESP32-P4 SoC and peripheral support | uleemos | 2026-08-22 | [查看](https://github.com/open-vela/nuttx/pull/348) |
+| 6 | nuttx | #347 | feat(esp32p4): ESP32-P4-Function-EV-Board board support with... | IsXiaoXiaoZhou | 2026-08-21 | [查看](https://github.com/open-vela/nuttx/pull/347) |
+| 7 | nuttx | #338 | drivers/audio: es8388: do not reset stream config in es8388_... | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/338) |
+| 8 | nuttx | #337 | drivers/audio/es8388: fix ES8388 register read length | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/337) |
+| 9 | nuttx | #336 | drivers/audio/es8388: use left level for ES8388 left volume | yunline | 2026-08-08 | [查看](https://github.com/open-vela/nuttx/pull/336) |
+| 10 | nuttx | #331 | fix(boards/stm32h750b-dk): invert user LED polarity for acti... | FoLeaf | 2026-08-01 | [查看](https://github.com/open-vela/nuttx/pull/331) |
+| 11 | nuttx-apps | #126 | fix(mbedtls): 修复 TLS 编译告警并隔离 include（esp32p4） | ez-xu | 2026-09-07 | [查看](https://github.com/open-vela/nuttx-apps/pull/126) |
+| 12 | nuttx-apps | #114 | fix: prefix --defsym with -Wl, when LD is gcc driver (LTO) | yanxingyu17 | 2026-08-03 | [查看](https://github.com/open-vela/nuttx-apps/pull/114) |
+| 13 | packages_ai_agent | #30 | feat(remote-ctrl): drive a remote ACP agent from the device ... | C-Luv9615 | 2026-09-04 | [查看](https://github.com/open-vela/packages_ai_agent/pull/30) |
 
 ---
 
