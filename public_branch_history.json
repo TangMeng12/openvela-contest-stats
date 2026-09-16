@@ -8936,23 +8936,29 @@
   },
   {
     "date": "2026-09-16",
-    "timestamp": "2026-09-16T14:56:25.558257",
+    "timestamp": "2026-09-16T23:07:15.579982",
     "summary": {
       "total_prs": 84,
-      "merged": 15,
-      "open": 56,
-      "closed_not_merged": 13
+      "merged": 12,
+      "open": 60,
+      "closed_not_merged": 12
     },
     "merged_repos": {
-      ".claude": 6,
-      "docs": 4,
+      ".claude": 5,
+      "docs": 3,
       "manifests": 1,
       "packages_ai_agent": 1,
       "packages_demos": 1,
-      "vendor_allwinnertech": 1,
       "vendor_bes": 1
     },
     "open_prs": [
+      {
+        "repo": ".claude",
+        "number": 52,
+        "title": "feat(collector): add Codex backfill (CLI + IDE extension + desktop app)",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/.claude/pull/52"
+      },
       {
         "repo": ".claude",
         "number": 51,
@@ -9015,6 +9021,20 @@
         "title": "runtimes/feature: fix ill-formed const rvalue-ref move ctor",
         "user": "ma-abc123",
         "url": "https://github.com/open-vela/frameworks_runtimes_feature/pull/4"
+      },
+      {
+        "repo": "nuttx",
+        "number": 384,
+        "title": "fix(sched/wdog): rebuild the active list when it was found cleared",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/384"
+      },
+      {
+        "repo": "nuttx",
+        "number": 383,
+        "title": "arch/gd32f4: 补齐 GD32F407 芯片分发与 w5500 驱动日志调整",
+        "user": "liu369369",
+        "url": "https://github.com/open-vela/nuttx/pull/383"
       },
       {
         "repo": "nuttx",
@@ -9295,6 +9315,13 @@
         "title": "boards/bk7258: add bk7258-devkit board + porting journal",
         "user": "yz471686525-eng",
         "url": "https://github.com/open-vela/vendor_beken/pull/2"
+      },
+      {
+        "repo": "vendor_gigadevice",
+        "number": 7,
+        "title": "boards/gd32f4/gd32f470v_start: FireEye board support (ADC/OLED/W5500)…",
+        "user": "liu369369",
+        "url": "https://github.com/open-vela/vendor_gigadevice/pull/7"
       },
       {
         "repo": "vendor_loongsonpi",

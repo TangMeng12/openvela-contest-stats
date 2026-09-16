@@ -89487,13 +89487,13 @@
   },
   {
     "date": "2026-09-16",
-    "timestamp": "2026-09-16T14:55:44.530608",
+    "timestamp": "2026-09-16T23:06:28.543075",
     "summary": {
-      "total_repos": 489,
-      "active_repos": 149,
+      "total_repos": 490,
+      "active_repos": 152,
       "total_issues": 45,
-      "total_prs": 1114,
-      "ai_log_repos": 93
+      "total_prs": 1143,
+      "ai_log_repos": 96
     },
     "repos": [
       {
@@ -89523,7 +89523,7 @@
       {
         "repo": "contest2026_004_TeamFalcons",
         "issues": 0,
-        "prs": 11,
+        "prs": 12,
         "ai_log": true
       },
       {
@@ -89535,7 +89535,7 @@
       {
         "repo": "contest2026_006_iKun",
         "issues": 0,
-        "prs": 8,
+        "prs": 9,
         "ai_log": true
       },
       {
@@ -89685,7 +89685,7 @@
       {
         "repo": "contest2026_031_niudanxianqianchong",
         "issues": 0,
-        "prs": 14,
+        "prs": 15,
         "ai_log": true
       },
       {
@@ -89703,8 +89703,8 @@
       {
         "repo": "contest2026_034_ISoftStoneSmartFashionPI",
         "issues": 0,
-        "prs": 1,
-        "ai_log": false
+        "prs": 2,
+        "ai_log": true
       },
       {
         "repo": "contest2026_035_miebo",
@@ -90063,7 +90063,7 @@
       {
         "repo": "contest2026_094_andy",
         "issues": 0,
-        "prs": 4,
+        "prs": 6,
         "ai_log": true
       },
       {
@@ -90130,7 +90130,7 @@
         "repo": "contest2026_105_MoodAnchor",
         "issues": 0,
         "prs": 1,
-        "ai_log": false
+        "ai_log": true
       },
       {
         "repo": "contest2026_106_VelaGoGoGo",
@@ -90309,7 +90309,7 @@
       {
         "repo": "contest2026_135_yongwangzhiqian",
         "issues": 0,
-        "prs": 114,
+        "prs": 115,
         "ai_log": true
       },
       {
@@ -90843,7 +90843,7 @@
       {
         "repo": "contest2026_224_quanyuanzhirendui",
         "issues": 0,
-        "prs": 1,
+        "prs": 2,
         "ai_log": true
       },
       {
@@ -90897,7 +90897,7 @@
       {
         "repo": "contest2026_233_daimazenmepaibudui",
         "issues": 0,
-        "prs": 51,
+        "prs": 53,
         "ai_log": true
       },
       {
@@ -91017,7 +91017,7 @@
       {
         "repo": "contest2026_253_bolilingmengsaigao",
         "issues": 0,
-        "prs": 1,
+        "prs": 6,
         "ai_log": true
       },
       {
@@ -91083,7 +91083,7 @@
       {
         "repo": "contest2026_264_VelaSightsuixingAIzhinengyanjing",
         "issues": 0,
-        "prs": 60,
+        "prs": 61,
         "ai_log": true
       },
       {
@@ -91125,7 +91125,7 @@
       {
         "repo": "contest2026_272_tokenwujixian",
         "issues": 0,
-        "prs": 27,
+        "prs": 28,
         "ai_log": true
       },
       {
@@ -91365,7 +91365,7 @@
       {
         "repo": "contest2026_312_zheyangpaiduibudui",
         "issues": 0,
-        "prs": 2,
+        "prs": 4,
         "ai_log": true
       },
       {
@@ -91473,7 +91473,7 @@
       {
         "repo": "contest2026_330_neiheyoumuzhe",
         "issues": 0,
-        "prs": 8,
+        "prs": 9,
         "ai_log": false
       },
       {
@@ -91839,7 +91839,7 @@
       {
         "repo": "contest2026_392_dachuangwanlian",
         "issues": 0,
-        "prs": 2,
+        "prs": 4,
         "ai_log": true
       },
       {
@@ -91959,7 +91959,7 @@
       {
         "repo": "contest2026_412_SuperBen",
         "issues": 0,
-        "prs": 4,
+        "prs": 5,
         "ai_log": true
       },
       {
@@ -92145,7 +92145,7 @@
       {
         "repo": "contest2026_443_fengxieke",
         "issues": 0,
-        "prs": 2,
+        "prs": 3,
         "ai_log": true
       },
       {
@@ -92169,7 +92169,7 @@
       {
         "repo": "contest2026_447_oohaoba144",
         "issues": 0,
-        "prs": 0,
+        "prs": 1,
         "ai_log": false
       },
       {
@@ -92361,8 +92361,8 @@
       {
         "repo": "contest2026_479_longxindui",
         "issues": 0,
-        "prs": 0,
-        "ai_log": false
+        "prs": 1,
+        "ai_log": true
       },
       {
         "repo": "contest2026_480_OpenAT",
@@ -92373,7 +92373,7 @@
       {
         "repo": "contest2026_481_naiwajundui",
         "issues": 0,
-        "prs": 0,
+        "prs": 1,
         "ai_log": false
       },
       {
@@ -92397,7 +92397,7 @@
       {
         "repo": "contest2026_485_xiaomingTV",
         "issues": 0,
-        "prs": 5,
+        "prs": 7,
         "ai_log": true
       },
       {
@@ -92426,6 +92426,12 @@
       },
       {
         "repo": "contest2026_490_nibuzaizhedui",
+        "issues": 0,
+        "prs": 0,
+        "ai_log": false
+      },
+      {
+        "repo": "contest2026_491_shanquanshuidui",
         "issues": 0,
         "prs": 0,
         "ai_log": false
