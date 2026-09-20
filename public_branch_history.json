@@ -10882,11 +10882,11 @@
   },
   {
     "date": "2026-09-20",
-    "timestamp": "2026-09-20T16:16:48.746550",
+    "timestamp": "2026-09-20T22:41:23.012038",
     "summary": {
-      "total_prs": 91,
+      "total_prs": 90,
       "merged": 3,
-      "open": 82,
+      "open": 81,
       "closed_not_merged": 6
     },
     "merged_repos": {
@@ -10896,17 +10896,17 @@
     "open_prs": [
       {
         "repo": ".claude",
+        "number": 54,
+        "title": "feat(collector): add Qoder support (backfill + realtime hook)",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/.claude/pull/54"
+      },
+      {
+        "repo": ".claude",
         "number": 53,
         "title": "feat(collector): add VS Code Copilot Chat backfill support",
         "user": "yanxingyu17",
         "url": "https://github.com/open-vela/.claude/pull/53"
-      },
-      {
-        "repo": ".claude",
-        "number": 52,
-        "title": "feat(collector): add Codex backfill (CLI + IDE extension + desktop app)",
-        "user": "yanxingyu17",
-        "url": "https://github.com/open-vela/.claude/pull/52"
       },
       {
         "repo": ".claude",
@@ -10951,13 +10951,6 @@
         "url": "https://github.com/open-vela/apps_netutils_mqttc_MQTT-C/pull/1"
       },
       {
-        "repo": "docs",
-        "number": 647,
-        "title": "docs(contest): add Cursor backfill support to Q9 and Q11",
-        "user": "yanxingyu17",
-        "url": "https://github.com/open-vela/docs/pull/647"
-      },
-      {
         "repo": "external_zblue",
         "number": 233,
         "title": "bluetooth: retain host cleanup state and bounded diagnostics",
@@ -10965,25 +10958,11 @@
         "url": "https://github.com/open-vela/external_zblue/pull/233"
       },
       {
-        "repo": "external_zblue",
-        "number": 231,
-        "title": "port: register SAL net_buf pools in _net_buf_pool_list[]",
-        "user": "Sen70s",
-        "url": "https://github.com/open-vela/external_zblue/pull/231"
-      },
-      {
         "repo": "frameworks_bluetooth",
         "number": 593,
         "title": "bluetooth: close H4 transport and propagate cleanup results",
         "user": "yangshuxuan1024",
         "url": "https://github.com/open-vela/frameworks_bluetooth/pull/593"
-      },
-      {
-        "repo": "frameworks_bluetooth",
-        "number": 591,
-        "title": "PAN/BNEP over BR/EDR: bring-up, TX pool sizing and boot auto-connect",
-        "user": "Sen70s",
-        "url": "https://github.com/open-vela/frameworks_bluetooth/pull/591"
       },
       {
         "repo": "frameworks_runtimes_feature",
@@ -10994,8 +10973,15 @@
       },
       {
         "repo": "nuttx",
+        "number": 398,
+        "title": "feat(esp32p4): GT911 shim, esp-hal pin restore, JPEG/DMA2D interrupt fixes",
+        "user": "Joneyao",
+        "url": "https://github.com/open-vela/nuttx/pull/398"
+      },
+      {
+        "repo": "nuttx",
         "number": 397,
-        "title": "Dev ls",
+        "title": "龙芯队 nuttx 仓库改动 contest2026_479_longxindui",
         "user": "lingluan9",
         "url": "https://github.com/open-vela/nuttx/pull/397"
       },
@@ -11183,8 +11169,15 @@
       },
       {
         "repo": "nuttx-apps",
+        "number": 137,
+        "title": "feat: add campreview/campilot apps",
+        "user": "Joneyao",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/137"
+      },
+      {
+        "repo": "nuttx-apps",
         "number": 136,
-        "title": "Dev ls",
+        "title": "龙芯队 nuttx-apps 仓库改动 contest2026_479_longxindui",
         "user": "lingluan9",
         "url": "https://github.com/open-vela/nuttx-apps/pull/136"
       },
@@ -11215,13 +11208,6 @@
         "title": "netinit: add runtime IPv4 policy and carrier polling",
         "user": "3181619934",
         "url": "https://github.com/open-vela/nuttx-apps/pull/130"
-      },
-      {
-        "repo": "nuttx-apps",
-        "number": 129,
-        "title": "Contest/pppd null modem",
-        "user": "Oliweitz",
-        "url": "https://github.com/open-vela/nuttx-apps/pull/129"
       },
       {
         "repo": "nuttx-apps",
@@ -11264,6 +11250,20 @@
         "title": "netutils: carrier poll DHCP renew and ESP8266 LESP compat",
         "user": "FoLeaf",
         "url": "https://github.com/open-vela/nuttx-apps/pull/119"
+      },
+      {
+        "repo": "nuttx_libs_libxx_libcxx",
+        "number": 5,
+        "title": "龙芯队 nuttx_libs_libxx_libcxx 仓库改动 contest2026_479_longxindui",
+        "user": "lingluan9",
+        "url": "https://github.com/open-vela/nuttx_libs_libxx_libcxx/pull/5"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 46,
+        "title": "feat: add Alive Guardian safety workflow",
+        "user": "24khuangjinxianyu-creator",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/46"
       },
       {
         "repo": "packages_ai_agent",
@@ -11460,13 +11460,6 @@
         "title": "boards/lckfb_huangshan_pi: register prebuilt system.router/system.app",
         "user": "yangkun27",
         "url": "https://github.com/open-vela/vendor_sifli/pull/30"
-      },
-      {
-        "repo": "vendor_sifli",
-        "number": 29,
-        "title": "sf32lb52: fix BT mailbox ring writes and keep the heap off the mailbox",
-        "user": "Sen70s",
-        "url": "https://github.com/open-vela/vendor_sifli/pull/29"
       }
     ]
   }
