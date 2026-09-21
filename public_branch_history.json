@@ -11465,11 +11465,11 @@
   },
   {
     "date": "2026-09-21",
-    "timestamp": "2026-09-21T10:43:11.350508",
+    "timestamp": "2026-09-21T22:40:30.947918",
     "summary": {
-      "total_prs": 89,
+      "total_prs": 90,
       "merged": 2,
-      "open": 81,
+      "open": 82,
       "closed_not_merged": 6
     },
     "merged_repos": {
@@ -11559,6 +11559,13 @@
         "title": "runtimes/feature: fix ill-formed const rvalue-ref move ctor",
         "user": "ma-abc123",
         "url": "https://github.com/open-vela/frameworks_runtimes_feature/pull/4"
+      },
+      {
+        "repo": "nuttx",
+        "number": 399,
+        "title": "arch: add STM32N6 support",
+        "user": "Fu2024",
+        "url": "https://github.com/open-vela/nuttx/pull/399"
       },
       {
         "repo": "nuttx",
