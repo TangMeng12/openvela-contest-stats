@@ -12640,5 +12640,594 @@
         "url": "https://github.com/open-vela/vendor_sifli/pull/31"
       }
     ]
+  },
+  {
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T23:03:54.980174",
+    "summary": {
+      "total_prs": 90,
+      "merged": 2,
+      "open": 82,
+      "closed_not_merged": 6
+    },
+    "merged_repos": {
+      ".claude": 2
+    },
+    "open_prs": [
+      {
+        "repo": ".claude",
+        "number": 54,
+        "title": "feat(collector): add Qoder support (backfill + realtime hook)",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/.claude/pull/54"
+      },
+      {
+        "repo": ".claude",
+        "number": 53,
+        "title": "feat(collector): add VS Code Copilot Chat backfill support",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/.claude/pull/53"
+      },
+      {
+        "repo": ".claude",
+        "number": 51,
+        "title": "skills: add sklearn-to-js for on-device decision-tree export",
+        "user": "xvkjdshknxs2",
+        "url": "https://github.com/open-vela/.claude/pull/51"
+      },
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 45,
+        "title": "fix: preserve NuttX LCD stride and expose display counters",
+        "user": "QinXi-ai",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/45"
+      },
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 44,
+        "title": "fix(nuttx): release owned LCD pixel buffers",
+        "user": "yangshuxuan1024",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/44"
+      },
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 43,
+        "title": "lvgl: nuttx touchscreen phys clamp + lvgl.mk GE2D gating",
+        "user": "arclau",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/43"
+      },
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 41,
+        "title": "draw/sifli: add EPIC hardware acceleration",
+        "user": "yunlonguu",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/41"
+      },
+      {
+        "repo": "apps_netutils_mqttc_MQTT-C",
+        "number": 1,
+        "title": "mqtt_pal: add weak hooks for tagged LESP send/recv",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/apps_netutils_mqttc_MQTT-C/pull/1"
+      },
+      {
+        "repo": "external_zblue",
+        "number": 233,
+        "title": "bluetooth: retain host cleanup state and bounded diagnostics",
+        "user": "yangshuxuan1024",
+        "url": "https://github.com/open-vela/external_zblue/pull/233"
+      },
+      {
+        "repo": "frameworks_bluetooth",
+        "number": 593,
+        "title": "bluetooth: close H4 transport and propagate cleanup results",
+        "user": "yangshuxuan1024",
+        "url": "https://github.com/open-vela/frameworks_bluetooth/pull/593"
+      },
+      {
+        "repo": "frameworks_runtimes_feature",
+        "number": 5,
+        "title": "feat: add VelaClaw QuickApp bridge",
+        "user": "24khuangjinxianyu-creator",
+        "url": "https://github.com/open-vela/frameworks_runtimes_feature/pull/5"
+      },
+      {
+        "repo": "frameworks_runtimes_feature",
+        "number": 4,
+        "title": "runtimes/feature: fix ill-formed const rvalue-ref move ctor",
+        "user": "ma-abc123",
+        "url": "https://github.com/open-vela/frameworks_runtimes_feature/pull/4"
+      },
+      {
+        "repo": "nuttx",
+        "number": 399,
+        "title": "arch: add STM32N6 support",
+        "user": "Fu2024",
+        "url": "https://github.com/open-vela/nuttx/pull/399"
+      },
+      {
+        "repo": "nuttx",
+        "number": 398,
+        "title": "feat(esp32p4): GT911 shim, esp-hal pin restore, JPEG/DMA2D interrupt fixes",
+        "user": "Joneyao",
+        "url": "https://github.com/open-vela/nuttx/pull/398"
+      },
+      {
+        "repo": "nuttx",
+        "number": 397,
+        "title": "龙芯队 nuttx 仓库改动 contest2026_479_longxindui",
+        "user": "lingluan9",
+        "url": "https://github.com/open-vela/nuttx/pull/397"
+      },
+      {
+        "repo": "nuttx",
+        "number": 395,
+        "title": "esp32s3: driver fixes for ESP32-S3-EYE AI camera workload",
+        "user": "999111klj",
+        "url": "https://github.com/open-vela/nuttx/pull/395"
+      },
+      {
+        "repo": "nuttx",
+        "number": 394,
+        "title": "Fix/stdlib cxx div",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/nuttx/pull/394"
+      },
+      {
+        "repo": "nuttx",
+        "number": 393,
+        "title": "feat: add ESP32-P4 Function-EV hardware port",
+        "user": "supei-1",
+        "url": "https://github.com/open-vela/nuttx/pull/393"
+      },
+      {
+        "repo": "nuttx",
+        "number": 392,
+        "title": "feat(stm32h7): poll the LAN8740A link state and fix SDRAM2 heap overlap",
+        "user": "3181619934",
+        "url": "https://github.com/open-vela/nuttx/pull/392"
+      },
+      {
+        "repo": "nuttx",
+        "number": 391,
+        "title": "arm64: add RK3576 AMP slave and microphone support",
+        "user": "dairoot",
+        "url": "https://github.com/open-vela/nuttx/pull/391"
+      },
+      {
+        "repo": "nuttx",
+        "number": 390,
+        "title": "esp32s3-box: 植小伴嵌入式驱动改动（队伍 053 叶绿体智能）",
+        "user": "tadycharming",
+        "url": "https://github.com/open-vela/nuttx/pull/390"
+      },
+      {
+        "repo": "nuttx",
+        "number": 389,
+        "title": "wireless: define HCI RX ring diagnostic snapshot",
+        "user": "yangshuxuan1024",
+        "url": "https://github.com/open-vela/nuttx/pull/389"
+      },
+      {
+        "repo": "nuttx",
+        "number": 388,
+        "title": "tools: honor const mode in generated allsyms declarations",
+        "user": "yangshuxuan1024",
+        "url": "https://github.com/open-vela/nuttx/pull/388"
+      },
+      {
+        "repo": "nuttx",
+        "number": 387,
+        "title": "Contest2026 124 esp32p4 port",
+        "user": "zealsoftstudio",
+        "url": "https://github.com/open-vela/nuttx/pull/387"
+      },
+      {
+        "repo": "nuttx",
+        "number": 384,
+        "title": "fix(sched/wdog): rebuild the active list when it was found cleared",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/384"
+      },
+      {
+        "repo": "nuttx",
+        "number": 383,
+        "title": "arch/gd32f4: 补齐 GD32F407 芯片分发与 w5500 驱动日志调整",
+        "user": "liu369369",
+        "url": "https://github.com/open-vela/nuttx/pull/383"
+      },
+      {
+        "repo": "nuttx",
+        "number": 382,
+        "title": "Rk3588 evb7 v11",
+        "user": "C-Ackerman",
+        "url": "https://github.com/open-vela/nuttx/pull/382"
+      },
+      {
+        "repo": "nuttx",
+        "number": 381,
+        "title": "libelf: skip unnamed symbols in libelf_findsymbol()",
+        "user": "yydawx",
+        "url": "https://github.com/open-vela/nuttx/pull/381"
+      },
+      {
+        "repo": "nuttx",
+        "number": 379,
+        "title": "feat:esp32-p4 add board support",
+        "user": "cubegao",
+        "url": "https://github.com/open-vela/nuttx/pull/379"
+      },
+      {
+        "repo": "nuttx",
+        "number": 374,
+        "title": "fix(input): migrate ft5x06 driver to touchscreen framework for LVGL",
+        "user": "3181619934",
+        "url": "https://github.com/open-vela/nuttx/pull/374"
+      },
+      {
+        "repo": "nuttx",
+        "number": 373,
+        "title": "drivers/mmcsd: Verify SPI write completion",
+        "user": "wx719",
+        "url": "https://github.com/open-vela/nuttx/pull/373"
+      },
+      {
+        "repo": "nuttx",
+        "number": 372,
+        "title": "net/usrsock: Guard declarations when disabled",
+        "user": "wx719",
+        "url": "https://github.com/open-vela/nuttx/pull/372"
+      },
+      {
+        "repo": "nuttx",
+        "number": 371,
+        "title": "risc-v/espressif: Add ESP32-P4 support",
+        "user": "wx719",
+        "url": "https://github.com/open-vela/nuttx/pull/371"
+      },
+      {
+        "repo": "nuttx",
+        "number": 369,
+        "title": "feat(usbhost): add UVC host class driver and ili9341 putarea",
+        "user": "lvxinliang",
+        "url": "https://github.com/open-vela/nuttx/pull/369"
+      },
+      {
+        "repo": "nuttx",
+        "number": 364,
+        "title": "arch/risc-v: ESP32-P4 chip & board port with gt9xx improvements and CMake build support",
+        "user": "IsXiaoXiaoZhou",
+        "url": "https://github.com/open-vela/nuttx/pull/364"
+      },
+      {
+        "repo": "nuttx",
+        "number": 360,
+        "title": "arch/arm: add BK7258 runtime integration",
+        "user": "YangMaxpro",
+        "url": "https://github.com/open-vela/nuttx/pull/360"
+      },
+      {
+        "repo": "nuttx",
+        "number": 354,
+        "title": "drivers/input: improve ft5x06 touch polling performance",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/354"
+      },
+      {
+        "repo": "nuttx",
+        "number": 353,
+        "title": "arch/stm32h7: LTDC display acceleration for STM32H750B-DK",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/353"
+      },
+      {
+        "repo": "nuttx",
+        "number": 352,
+        "title": "stm32h750b-dk: VelaGuard net/eMMC/RS485/Ethernet bring-up",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/352"
+      },
+      {
+        "repo": "nuttx",
+        "number": 351,
+        "title": "boards/stm32h750b-dk: add VelaGuard extension board and defconfigs",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/351"
+      },
+      {
+        "repo": "nuttx",
+        "number": 350,
+        "title": "boards/stm32h750b-dk: add QSPI XIP boot support",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/350"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 137,
+        "title": "feat: add campreview/campilot apps",
+        "user": "Joneyao",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/137"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 136,
+        "title": "龙芯队 nuttx-apps 仓库改动 contest2026_479_longxindui",
+        "user": "lingluan9",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/136"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 133,
+        "title": "mbedtls: use -isystem for include paths; wapi: clear key material",
+        "user": "999111klj",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/133"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 132,
+        "title": "tflitemicro: drop the ruy dependency",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/132"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 131,
+        "title": "feat: add Function-EV LVGL console and outbound UI",
+        "user": "supei-1",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/131"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 130,
+        "title": "netinit: add runtime IPv4 policy and carrier polling",
+        "user": "3181619934",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/130"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 128,
+        "title": "Contest2026 124 net init",
+        "user": "zealsoftstudio",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/128"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 127,
+        "title": "Rk3588 evb7 v11",
+        "user": "C-Ackerman",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/127"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 124,
+        "title": "feat(examples): add uvc_test, person_detection and face_detection",
+        "user": "lvxinliang",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/124"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 123,
+        "title": "examples/lvgldemo: SignBridge UI with SC2336 camera preview and boot screen",
+        "user": "IsXiaoXiaoZhou",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/123"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 121,
+        "title": "graphics/lvgl: link SiFli EPIC HAL",
+        "user": "yunlonguu",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/121"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 119,
+        "title": "netutils: carrier poll DHCP renew and ESP8266 LESP compat",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/119"
+      },
+      {
+        "repo": "nuttx_libs_libxx_libcxx",
+        "number": 5,
+        "title": "龙芯队 nuttx_libs_libxx_libcxx 仓库改动 contest2026_479_longxindui",
+        "user": "lingluan9",
+        "url": "https://github.com/open-vela/nuttx_libs_libxx_libcxx/pull/5"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 46,
+        "title": "feat: add Alive Guardian safety workflow",
+        "user": "24khuangjinxianyu-creator",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/46"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 45,
+        "title": "Bletest",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/45"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 44,
+        "title": "agent: detect chunked body completion by chunk size, use a monotonic clock",
+        "user": "3181619934",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/44"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 43,
+        "title": "Contest/agent voice",
+        "user": "Oliweitz",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/43"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 42,
+        "title": "Contest2026 124 ai agent",
+        "user": "zealsoftstudio",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/42"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 41,
+        "title": "Dev ai contest 2026",
+        "user": "JUSTiceMaMo",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/41"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 40,
+        "title": "fix(ai_agent): 大请求体 TLS 写入、工具重复收尾与只读边界加固",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/40"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 36,
+        "title": "channels: single-instance agent, MQTT child reports, CLI guards",
+        "user": "Rustypudding",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/36"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 35,
+        "title": "rpg: multi-role play with follow-up windows and session isolation",
+        "user": "Rustypudding",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/35"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 34,
+        "title": "infra: keep reminders firing under a busy outbound queue",
+        "user": "Rustypudding",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/34"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 33,
+        "title": "voice: add MiMo ASR/TTS backends and fix the audio pipeline",
+        "user": "Rustypudding",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/33"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 32,
+        "title": "ai_agent: SRAM-tight HMI mode and VelaGuard tool allow-list for STM32H750B-DK",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/32"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 31,
+        "title": "feat: integrate MoonCat recovery tool and optional INT8 routing",
+        "user": "QinXi-ai",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/31"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 29,
+        "title": "fix(ai_agent): VelaGuard board daemon attach and tool reliability",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/29"
+      },
+      {
+        "repo": "packages_demos",
+        "number": 79,
+        "title": "feat: add MoonCat native recovery UI and remote inspection",
+        "user": "QinXi-ai",
+        "url": "https://github.com/open-vela/packages_demos/pull/79"
+      },
+      {
+        "repo": "vendor_allwinnertech",
+        "number": 22,
+        "title": "feat: enable Gemini S1 MoonCat contest configuration",
+        "user": "QinXi-ai",
+        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/22"
+      },
+      {
+        "repo": "vendor_allwinnertech",
+        "number": 21,
+        "title": "Gemini s1/kid buddy upstream",
+        "user": "Rustypudding",
+        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/21"
+      },
+      {
+        "repo": "vendor_allwinnertech",
+        "number": 20,
+        "title": "r528: BOE 1200x1920 panel + de_dsi write timeout + ltr553 ALS fix + c…",
+        "user": "arclau",
+        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/20"
+      },
+      {
+        "repo": "vendor_allwinnertech",
+        "number": 19,
+        "title": "feat(r528): add USB EHCI host driver, UVC bringup and LCD SPI 60MHz",
+        "user": "lvxinliang",
+        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/19"
+      },
+      {
+        "repo": "vendor_gigadevice",
+        "number": 7,
+        "title": "boards/gd32f4/gd32f470v_start: FireEye board support (ADC/OLED/W5500)…",
+        "user": "liu369369",
+        "url": "https://github.com/open-vela/vendor_gigadevice/pull/7"
+      },
+      {
+        "repo": "vendor_loongsonpi",
+        "number": 2,
+        "title": "Dev ai contest 2026",
+        "user": "Xhbzfjt",
+        "url": "https://github.com/open-vela/vendor_loongsonpi/pull/2"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 37,
+        "title": "Contest/audcodec adc",
+        "user": "Oliweitz",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/37"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 36,
+        "title": "boards/sf32lb52: CO5300 display-demo bring-up for contest team 377",
+        "user": "INKT-love",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/36"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 35,
+        "title": "sf32lb52: prepare Huangshan IMU and v28 boot support",
+        "user": "yangshuxuan1024",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/35"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 34,
+        "title": "fix(sf32lb52_devkit_lcd): enable I2C so the touch controller can come up",
+        "user": "tofreemyself",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/34"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 33,
+        "title": "sf32lb52: fix upstream build/startup issues and add DevKit-LCD audio driver",
+        "user": "zhan9xiaohu1",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/33"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 32,
+        "title": "sf32lb52: AI Watch contest board fixes (BLE bridge/LCPU/LCD/rcS)",
+        "user": "ma-abc123",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/32"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 31,
+        "title": "sf32lb52: add accelerated LCD display support",
+        "user": "yunlonguu",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/31"
+      }
+    ]
   }
 ]
