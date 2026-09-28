@@ -408489,7 +408489,7 @@
   },
   {
     "date": "2026-09-28",
-    "timestamp": "2026-09-28T00:02:31",
+    "timestamp": "2026-09-28T23:43:37",
     "totals": {
       "total_repos": 788,
       "repos_with_branch": 767,
@@ -431883,33 +431883,6 @@
         ]
       },
       {
-        "repo": "contest2026_012_lizhudongtian",
-        "url": "https://github.com/open-vela/contest2026_012_lizhudongtian",
-        "branch_url": "https://github.com/open-vela/contest2026_012_lizhudongtian/tree/dev-ai-contest-2026",
-        "pr_total": 1,
-        "pr_open": 0,
-        "pr_merged": 1,
-        "pr_closed": 0,
-        "merged_pr_commits": 2,
-        "branch_commits": 5,
-        "contributors": 2,
-        "contributors_contest": 1,
-        "fork_heavy": false,
-        "prs": [
-          {
-            "number": 1,
-            "state": "closed",
-            "merged": true,
-            "user": "chenpengxuan-918",
-            "title": "quickapp: 迁入《腕上谁是卧底》快应用，替换示例骨架 hello_quickapp",
-            "url": "https://github.com/open-vela/contest2026_012_lizhudongtian/pull/1",
-            "created_at": "2026-07-09",
-            "merged_at": "2026-07-10",
-            "commits_url": "https://api.github.com/repos/open-vela/contest2026_012_lizhudongtian/pulls/1/commits"
-          }
-        ]
-      },
-      {
         "repo": "contest2026_014_makahu",
         "url": "https://github.com/open-vela/contest2026_014_makahu",
         "branch_url": "https://github.com/open-vela/contest2026_014_makahu/tree/dev-ai-contest-2026",
@@ -431933,6 +431906,33 @@
             "created_at": "2026-09-20",
             "merged_at": "2026-09-20",
             "commits_url": "https://api.github.com/repos/open-vela/contest2026_014_makahu/pulls/1/commits"
+          }
+        ]
+      },
+      {
+        "repo": "contest2026_012_lizhudongtian",
+        "url": "https://github.com/open-vela/contest2026_012_lizhudongtian",
+        "branch_url": "https://github.com/open-vela/contest2026_012_lizhudongtian/tree/dev-ai-contest-2026",
+        "pr_total": 1,
+        "pr_open": 0,
+        "pr_merged": 1,
+        "pr_closed": 0,
+        "merged_pr_commits": 2,
+        "branch_commits": 5,
+        "contributors": 2,
+        "contributors_contest": 1,
+        "fork_heavy": false,
+        "prs": [
+          {
+            "number": 1,
+            "state": "closed",
+            "merged": true,
+            "user": "chenpengxuan-918",
+            "title": "quickapp: 迁入《腕上谁是卧底》快应用，替换示例骨架 hello_quickapp",
+            "url": "https://github.com/open-vela/contest2026_012_lizhudongtian/pull/1",
+            "created_at": "2026-07-09",
+            "merged_at": "2026-07-10",
+            "commits_url": "https://api.github.com/repos/open-vela/contest2026_012_lizhudongtian/pulls/1/commits"
           }
         ]
       },
