@@ -1,6 +1,6 @@
 # openvela 大赛仓库统计报告
 
-> 最后更新时间: 2026-10-01T22:51:37.920505
+> 最后更新时间: 2026-10-02T22:56:44.245402
 
 ## 📊 总体统计
 
@@ -9,7 +9,7 @@
 | 总仓库数 | **500** |
 | 有活跃 Issue/PR 的仓库 | **224** |
 | 总 Issue 数（纯 issue，不含 PR） | **45** |
-| 总 PR 数 | **1575** |
+| 总 PR 数 | **1576** |
 | 提交了 AI Log 的仓库 | **174** |
 
 ## 🏆 有活跃 PR/Issue 的仓库明细
@@ -48,13 +48,13 @@
 | 30 | [contest2026_313_bianyuanxingzhe](https://github.com/open-vela/contest2026_313_bianyuanxingzhe) | 0 | 13 | ✅ |
 | 31 | [contest2026_090_CiRCLE](https://github.com/open-vela/contest2026_090_CiRCLE) | 0 | 12 | ✅ |
 | 32 | [contest2026_359_dengfengzaojidecuipidaxuesheng](https://github.com/open-vela/contest2026_359_dengfengzaojidecuipidaxuesheng) | 0 | 12 | ✅ |
-| 33 | [contest2026_007_Flux](https://github.com/open-vela/contest2026_007_Flux) | 0 | 11 | ✅ |
-| 34 | [contest2026_069_xinghesixudui](https://github.com/open-vela/contest2026_069_xinghesixudui) | 0 | 11 | ✅ |
-| 35 | [contest2026_329_dela](https://github.com/open-vela/contest2026_329_dela) | 0 | 11 | ✅ |
-| 36 | [contest2026_375_benniaoxianfei](https://github.com/open-vela/contest2026_375_benniaoxianfei) | 0 | 11 | ✅ |
-| 37 | [contest2026_416_dianzinongmingong](https://github.com/open-vela/contest2026_416_dianzinongmingong) | 0 | 11 | ✅ |
-| 38 | [contest2026_456_wuheihei](https://github.com/open-vela/contest2026_456_wuheihei) | 0 | 11 | ✅ |
-| 39 | [contest2026_482_xingguangyinli](https://github.com/open-vela/contest2026_482_xingguangyinli) | 0 | 11 | ✅ |
+| 33 | [contest2026_482_xingguangyinli](https://github.com/open-vela/contest2026_482_xingguangyinli) | 0 | 12 | ✅ |
+| 34 | [contest2026_007_Flux](https://github.com/open-vela/contest2026_007_Flux) | 0 | 11 | ✅ |
+| 35 | [contest2026_069_xinghesixudui](https://github.com/open-vela/contest2026_069_xinghesixudui) | 0 | 11 | ✅ |
+| 36 | [contest2026_329_dela](https://github.com/open-vela/contest2026_329_dela) | 0 | 11 | ✅ |
+| 37 | [contest2026_375_benniaoxianfei](https://github.com/open-vela/contest2026_375_benniaoxianfei) | 0 | 11 | ✅ |
+| 38 | [contest2026_416_dianzinongmingong](https://github.com/open-vela/contest2026_416_dianzinongmingong) | 0 | 11 | ✅ |
+| 39 | [contest2026_456_wuheihei](https://github.com/open-vela/contest2026_456_wuheihei) | 0 | 11 | ✅ |
 | 40 | [contest2026_483_yuanxinshixisheng](https://github.com/open-vela/contest2026_483_yuanxinshixisheng) | 0 | 11 | ✅ |
 | 41 | [contest2026_000_openvela](https://github.com/open-vela/contest2026_000_openvela) | 0 | 10 | ❌ |
 | 42 | [contest2026_162_yaotepai](https://github.com/open-vela/contest2026_162_yaotepai) | 0 | 10 | ✅ |
@@ -402,7 +402,7 @@
 157. [contest2026_477_smartband](https://github.com/open-vela/contest2026_477_smartband) (PR: 1, Issue: 0)
 158. [contest2026_479_longxindui](https://github.com/open-vela/contest2026_479_longxindui) (PR: 9, Issue: 0)
 159. [contest2026_481_naiwajundui](https://github.com/open-vela/contest2026_481_naiwajundui) (PR: 4, Issue: 0)
-160. [contest2026_482_xingguangyinli](https://github.com/open-vela/contest2026_482_xingguangyinli) (PR: 11, Issue: 0)
+160. [contest2026_482_xingguangyinli](https://github.com/open-vela/contest2026_482_xingguangyinli) (PR: 12, Issue: 0)
 161. [contest2026_483_yuanxinshixisheng](https://github.com/open-vela/contest2026_483_yuanxinshixisheng) (PR: 11, Issue: 0)
 162. [contest2026_484_nimenshuodedoudui](https://github.com/open-vela/contest2026_484_nimenshuodedoudui) (PR: 1, Issue: 0)
 163. [contest2026_485_xiaomingTV](https://github.com/open-vela/contest2026_485_xiaomingTV) (PR: 10, Issue: 0)
@@ -476,10 +476,11 @@
 | 2026-09-29 | 500 | 224 | 45 | 1573 | 173 |
 | 2026-09-30 | 500 | 224 | 45 | 1575 | 174 |
 | 2026-10-01 | 500 | 224 | 45 | 1575 | 174 |
+| 2026-10-02 | 500 | 224 | 45 | 1576 | 174 |
 
 ### 较上次变化
 
-- 无变化
+- PR: +1
 
 ### PR 数量趋势
 
@@ -536,8 +537,9 @@
 2026-09-27 | ███████████████████████████████████████ 1569
 2026-09-28 | ███████████████████████████████████████ 1569
 2026-09-29 | ███████████████████████████████████████ 1573
-2026-09-30 | ████████████████████████████████████████ 1575
-2026-10-01 | ████████████████████████████████████████ 1575
+2026-09-30 | ███████████████████████████████████████ 1575
+2026-10-01 | ███████████████████████████████████████ 1575
+2026-10-02 | ████████████████████████████████████████ 1576
 ```
 
 ### AI Log 提交仓库趋势
@@ -597,6 +599,7 @@
 2026-09-29 | ███████████████████████████████████████ 173
 2026-09-30 | ████████████████████████████████████████ 174
 2026-10-01 | ████████████████████████████████████████ 174
+2026-10-02 | ████████████████████████████████████████ 174
 ```
 
 ## 🏅 仓库 PR 排行榜
