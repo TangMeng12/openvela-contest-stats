@@ -1,6 +1,6 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-10-06T23:30:46.725773
+> 最后更新时间: 2026-10-07T22:54:14.054855
 
 ## 📊 总体统计
 
@@ -8,8 +8,8 @@
 |------|------|
 | 总 PR 数 | **83** |
 | 已合入 (Merged) | **2** |
-| 待合入 (Open) | **73** |
-| 已关闭未合入 | **8** |
+| 待合入 (Open) | **72** |
+| 已关闭未合入 | **9** |
 
 ## ✅ 已合入 PR 分布（按仓库）
 
@@ -80,21 +80,20 @@
 | 56 | packages_ai_agent | #33 | voice: add MiMo ASR/TTS backends and fix the audio pipeline | Rustypudding | 2026-09-12 | [查看](https://github.com/open-vela/packages_ai_agent/pull/33) |
 | 57 | packages_ai_agent | #32 | ai_agent: SRAM-tight HMI mode and VelaGuard tool allow-list ... | FoLeaf | 2026-09-12 | [查看](https://github.com/open-vela/packages_ai_agent/pull/32) |
 | 58 | packages_ai_agent | #31 | feat: integrate MoonCat recovery tool and optional INT8 rout... | QinXi-ai | 2026-09-08 | [查看](https://github.com/open-vela/packages_ai_agent/pull/31) |
-| 59 | packages_ai_agent | #29 | fix(ai_agent): VelaGuard board daemon attach and tool reliab... | FoLeaf | 2026-08-30 | [查看](https://github.com/open-vela/packages_ai_agent/pull/29) |
-| 60 | packages_demos | #79 | feat: add MoonCat native recovery UI and remote inspection | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/packages_demos/pull/79) |
-| 61 | vendor_allwinnertech | #22 | feat: enable Gemini S1 MoonCat contest configuration | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/22) |
-| 62 | vendor_allwinnertech | #21 | Gemini s1/kid buddy upstream | Rustypudding | 2026-09-13 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/21) |
-| 63 | vendor_allwinnertech | #20 | r528: BOE 1200x1920 panel + de_dsi write timeout + ltr553 AL... | arclau | 2026-09-11 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/20) |
-| 64 | vendor_allwinnertech | #19 | feat(r528): add USB EHCI host driver, UVC bringup and LCD SP... | lvxinliang | 2026-09-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/19) |
-| 65 | vendor_gigadevice | #7 | boards/gd32f4/gd32f470v_start: FireEye board support (ADC/OL... | liu369369 | 2026-09-16 | [查看](https://github.com/open-vela/vendor_gigadevice/pull/7) |
-| 66 | vendor_loongsonpi | #2 | Dev ai contest 2026 | Xhbzfjt | 2026-09-09 | [查看](https://github.com/open-vela/vendor_loongsonpi/pull/2) |
-| 67 | vendor_sifli | #37 | Contest/audcodec adc | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/vendor_sifli/pull/37) |
-| 68 | vendor_sifli | #36 | boards/sf32lb52: CO5300 display-demo bring-up for contest te... | INKT-love | 2026-09-19 | [查看](https://github.com/open-vela/vendor_sifli/pull/36) |
-| 69 | vendor_sifli | #35 | sf32lb52: prepare Huangshan IMU and v28 boot support | yangshuxuan1024 | 2026-09-18 | [查看](https://github.com/open-vela/vendor_sifli/pull/35) |
-| 70 | vendor_sifli | #34 | fix(sf32lb52_devkit_lcd): enable I2C so the touch controller... | tofreemyself | 2026-09-11 | [查看](https://github.com/open-vela/vendor_sifli/pull/34) |
-| 71 | vendor_sifli | #33 | sf32lb52: fix upstream build/startup issues and add DevKit-L... | zhan9xiaohu1 | 2026-09-08 | [查看](https://github.com/open-vela/vendor_sifli/pull/33) |
-| 72 | vendor_sifli | #32 | sf32lb52: AI Watch contest board fixes (BLE bridge/LCPU/LCD/... | ma-abc123 | 2026-09-04 | [查看](https://github.com/open-vela/vendor_sifli/pull/32) |
-| 73 | vendor_sifli | #31 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/vendor_sifli/pull/31) |
+| 59 | packages_demos | #79 | feat: add MoonCat native recovery UI and remote inspection | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/packages_demos/pull/79) |
+| 60 | vendor_allwinnertech | #22 | feat: enable Gemini S1 MoonCat contest configuration | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/22) |
+| 61 | vendor_allwinnertech | #21 | Gemini s1/kid buddy upstream | Rustypudding | 2026-09-13 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/21) |
+| 62 | vendor_allwinnertech | #20 | r528: BOE 1200x1920 panel + de_dsi write timeout + ltr553 AL... | arclau | 2026-09-11 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/20) |
+| 63 | vendor_allwinnertech | #19 | feat(r528): add USB EHCI host driver, UVC bringup and LCD SP... | lvxinliang | 2026-09-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/19) |
+| 64 | vendor_gigadevice | #7 | boards/gd32f4/gd32f470v_start: FireEye board support (ADC/OL... | liu369369 | 2026-09-16 | [查看](https://github.com/open-vela/vendor_gigadevice/pull/7) |
+| 65 | vendor_loongsonpi | #2 | Dev ai contest 2026 | Xhbzfjt | 2026-09-09 | [查看](https://github.com/open-vela/vendor_loongsonpi/pull/2) |
+| 66 | vendor_sifli | #37 | Contest/audcodec adc | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/vendor_sifli/pull/37) |
+| 67 | vendor_sifli | #36 | boards/sf32lb52: CO5300 display-demo bring-up for contest te... | INKT-love | 2026-09-19 | [查看](https://github.com/open-vela/vendor_sifli/pull/36) |
+| 68 | vendor_sifli | #35 | sf32lb52: prepare Huangshan IMU and v28 boot support | yangshuxuan1024 | 2026-09-18 | [查看](https://github.com/open-vela/vendor_sifli/pull/35) |
+| 69 | vendor_sifli | #34 | fix(sf32lb52_devkit_lcd): enable I2C so the touch controller... | tofreemyself | 2026-09-11 | [查看](https://github.com/open-vela/vendor_sifli/pull/34) |
+| 70 | vendor_sifli | #33 | sf32lb52: fix upstream build/startup issues and add DevKit-L... | zhan9xiaohu1 | 2026-09-08 | [查看](https://github.com/open-vela/vendor_sifli/pull/33) |
+| 71 | vendor_sifli | #32 | sf32lb52: AI Watch contest board fixes (BLE bridge/LCPU/LCD/... | ma-abc123 | 2026-09-04 | [查看](https://github.com/open-vela/vendor_sifli/pull/32) |
+| 72 | vendor_sifli | #31 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/vendor_sifli/pull/31) |
 
 ## ❌ 已关闭未合入 PR
 
@@ -108,6 +107,7 @@
 | 6 | nuttx-apps | #123 | examples/lvgldemo: SignBridge UI with SC2336 camera preview ... | IsXiaoXiaoZhou | 2026-09-04 | [查看](https://github.com/open-vela/nuttx-apps/pull/123) |
 | 7 | nuttx_libs_libxx_libcxx | #4 | 龙芯队 nuttx_libs_libxx_libcxx  仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx_libs_libxx_libcxx/pull/4) |
 | 8 | packages_ai_agent | #30 | feat(remote-ctrl): drive a remote ACP agent from the device ... | C-Luv9615 | 2026-09-04 | [查看](https://github.com/open-vela/packages_ai_agent/pull/30) |
+| 9 | packages_ai_agent | #29 | fix(ai_agent): VelaGuard board daemon attach and tool reliab... | FoLeaf | 2026-08-30 | [查看](https://github.com/open-vela/packages_ai_agent/pull/29) |
 
 ---
 
