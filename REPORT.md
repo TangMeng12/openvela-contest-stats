@@ -1,6 +1,6 @@
 # openvela 大赛仓库统计报告
 
-> 最后更新时间: 2026-10-09T22:38:54.092289
+> 最后更新时间: 2026-10-10T23:25:02.435843
 
 ## 📊 总体统计
 
@@ -9,14 +9,14 @@
 | 总仓库数 | **500** |
 | 有活跃 Issue/PR 的仓库 | **224** |
 | 总 Issue 数（纯 issue，不含 PR） | **45** |
-| 总 PR 数 | **1578** |
+| 总 PR 数 | **1587** |
 | 提交了 AI Log 的仓库 | **174** |
 
 ## 🏆 有活跃 PR/Issue 的仓库明细
 
 | # | 仓库 | Issue | PR | AI Log |
 |---|------|-------|----|--------|
-| 1 | [contest2026_135_yongwangzhiqian](https://github.com/open-vela/contest2026_135_yongwangzhiqian) | 0 | 125 | ✅ |
+| 1 | [contest2026_135_yongwangzhiqian](https://github.com/open-vela/contest2026_135_yongwangzhiqian) | 0 | 134 | ✅ |
 | 2 | [contest2026_062_PharosTech](https://github.com/open-vela/contest2026_062_PharosTech) | 6 | 93 | ✅ |
 | 3 | [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) | 0 | 63 | ✅ |
 | 4 | [contest2026_233_daimazenmepaibudui](https://github.com/open-vela/contest2026_233_daimazenmepaibudui) | 0 | 61 | ✅ |
@@ -292,7 +292,7 @@
 47. [contest2026_130_xingshuangrenran](https://github.com/open-vela/contest2026_130_xingshuangrenran) (PR: 1, Issue: 0)
 48. [contest2026_132_yexiaoyanfazhongxin](https://github.com/open-vela/contest2026_132_yexiaoyanfazhongxin) (PR: 21, Issue: 0)
 49. [contest2026_133_yigetuandui](https://github.com/open-vela/contest2026_133_yigetuandui) (PR: 2, Issue: 0)
-50. [contest2026_135_yongwangzhiqian](https://github.com/open-vela/contest2026_135_yongwangzhiqian) (PR: 125, Issue: 0)
+50. [contest2026_135_yongwangzhiqian](https://github.com/open-vela/contest2026_135_yongwangzhiqian) (PR: 134, Issue: 0)
 51. [contest2026_138_HomeMind](https://github.com/open-vela/contest2026_138_HomeMind) (PR: 3, Issue: 0)
 52. [contest2026_141_QiDiAi](https://github.com/open-vela/contest2026_141_QiDiAi) (PR: 8, Issue: 0)
 53. [contest2026_148_langyongyunji](https://github.com/open-vela/contest2026_148_langyongyunji) (PR: 26, Issue: 0)
@@ -484,10 +484,11 @@
 | 2026-10-07 | 500 | 224 | 45 | 1576 | 174 |
 | 2026-10-08 | 500 | 224 | 45 | 1576 | 174 |
 | 2026-10-09 | 500 | 224 | 45 | 1578 | 174 |
+| 2026-10-10 | 500 | 224 | 45 | 1587 | 174 |
 
 ### 较上次变化
 
-- PR: +2
+- PR: +9
 
 ### PR 数量趋势
 
@@ -495,7 +496,7 @@
 2026-07-17 | ███ 122
 2026-07-20 | ███ 153
 2026-07-21 | ███ 155
-2026-07-22 | ████ 158
+2026-07-22 | ███ 158
 2026-07-23 | ████ 161
 2026-07-27 | ████ 178
 2026-07-28 | ████ 185
@@ -521,7 +522,7 @@
 2026-08-31 | ██████████████████ 725
 2026-09-01 | ██████████████████ 746
 2026-09-02 | ███████████████████ 760
-2026-09-04 | ████████████████████ 789
+2026-09-04 | ███████████████████ 789
 2026-09-07 | █████████████████████ 860
 2026-09-08 | ██████████████████████ 878
 2026-09-10 | ███████████████████████ 935
@@ -532,7 +533,7 @@
 2026-09-15 | ███████████████████████████ 1091
 2026-09-16 | ████████████████████████████ 1143
 2026-09-17 | █████████████████████████████ 1173
-2026-09-18 | ███████████████████████████████ 1226
+2026-09-18 | ██████████████████████████████ 1226
 2026-09-19 | █████████████████████████████████ 1315
 2026-09-20 | █████████████████████████████████████ 1496
 2026-09-21 | ███████████████████████████████████████ 1557
@@ -553,7 +554,8 @@
 2026-10-06 | ███████████████████████████████████████ 1576
 2026-10-07 | ███████████████████████████████████████ 1576
 2026-10-08 | ███████████████████████████████████████ 1576
-2026-10-09 | ████████████████████████████████████████ 1578
+2026-10-09 | ███████████████████████████████████████ 1578
+2026-10-10 | ████████████████████████████████████████ 1587
 ```
 
 ### AI Log 提交仓库趋势
@@ -621,26 +623,27 @@
 2026-10-07 | ████████████████████████████████████████ 174
 2026-10-08 | ████████████████████████████████████████ 174
 2026-10-09 | ████████████████████████████████████████ 174
+2026-10-10 | ████████████████████████████████████████ 174
 ```
 
 ## 🏅 仓库 PR 排行榜
 
 ```
-135_yongwangzhiqian                      | ██████████████████████████████ 125 📝
-062_PharosTech                           | ██████████████████████ 93 📝
-264_VelaSightsuixingAIzhinengyanjing     | ███████████████ 63 📝
-233_daimazenmepaibudui                   | ██████████████ 61 📝
-356_TXCNSTUDIO                           | ██████████ 44 📝
-098_zhanshangxingguang                   | ██████████ 42 📝
-137_CtrlFuture                           | █████████ 40
+135_yongwangzhiqian                      | ██████████████████████████████ 134 📝
+062_PharosTech                           | ████████████████████ 93 📝
+264_VelaSightsuixingAIzhinengyanjing     | ██████████████ 63 📝
+233_daimazenmepaibudui                   | █████████████ 61 📝
+356_TXCNSTUDIO                           | █████████ 44 📝
+098_zhanshangxingguang                   | █████████ 42 📝
+137_CtrlFuture                           | ████████ 40
 087_gaiduimingyizhanyongdui              | ████████ 37 📝
 106_VelaGoGoGo                           | ████████ 36 📝
-272_tokenwujixian                        | ████████ 35 📝
+272_tokenwujixian                        | ███████ 35 📝
 037_TensorFishSpecialActivityDivison     | ██████ 27 📝
-031_niudanxianqianchong                  | ██████ 26 📝
-148_langyongyunji                        | ██████ 26 📝
-430_zuoyeyushufengzhou                   | █████ 22 📝
-132_yexiaoyanfazhongxin                  | █████ 21 📝
+031_niudanxianqianchong                  | █████ 26 📝
+148_langyongyunji                        | █████ 26 📝
+430_zuoyeyushufengzhou                   | ████ 22 📝
+132_yexiaoyanfazhongxin                  | ████ 21 📝
 ```
 
 ---

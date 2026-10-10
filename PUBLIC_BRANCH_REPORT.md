@@ -1,6 +1,6 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-10-09T22:39:36.480109
+> 最后更新时间: 2026-10-10T23:25:42.963321
 
 ## 📊 总体统计
 
@@ -25,10 +25,10 @@
 | 1 | .claude | #54 | feat(collector): add Qoder support (backfill + realtime hook... | yanxingyu17 | 2026-09-20 | [查看](https://github.com/open-vela/.claude/pull/54) |
 | 2 | .claude | #53 | feat(collector): add VS Code Copilot Chat backfill support | yanxingyu17 | 2026-09-17 | [查看](https://github.com/open-vela/.claude/pull/53) |
 | 3 | .claude | #51 | skills: add sklearn-to-js for on-device decision-tree export | xvkjdshknxs2 | 2026-09-13 | [查看](https://github.com/open-vela/.claude/pull/51) |
-| 4 | apps_graphics_lvgl | #45 | fix: preserve NuttX LCD stride and expose display counters | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/apps_graphics_lvgl/pull/45) |
+| 4 | apps_graphics_lvgl | #45 | fix(nuttx): preserve NuttX LCD stride and expose display cou... | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/apps_graphics_lvgl/pull/45) |
 | 5 | apps_graphics_lvgl | #44 | fix(nuttx): release owned LCD pixel buffers | yangshuxuan1024 | 2026-09-18 | [查看](https://github.com/open-vela/apps_graphics_lvgl/pull/44) |
-| 6 | apps_graphics_lvgl | #43 | lvgl: nuttx touchscreen phys clamp + lvgl.mk GE2D gating | arclau | 2026-09-17 | [查看](https://github.com/open-vela/apps_graphics_lvgl/pull/43) |
-| 7 | apps_graphics_lvgl | #41 | draw/sifli: add EPIC hardware acceleration | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/apps_graphics_lvgl/pull/41) |
+| 6 | apps_graphics_lvgl | #43 | fix(nuttx): fix nuttx touchscreen phys clamp + lvgl.mk GE2D ... | arclau | 2026-09-17 | [查看](https://github.com/open-vela/apps_graphics_lvgl/pull/43) |
+| 7 | apps_graphics_lvgl | #41 | feat(draw/sifli): add EPIC hardware acceleration | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/apps_graphics_lvgl/pull/41) |
 | 8 | external_zblue | #233 | bluetooth: retain host cleanup state and bounded diagnostics | yangshuxuan1024 | 2026-09-18 | [查看](https://github.com/open-vela/external_zblue/pull/233) |
 | 9 | frameworks_bluetooth | #593 | bluetooth: close H4 transport and propagate cleanup results | yangshuxuan1024 | 2026-09-18 | [查看](https://github.com/open-vela/frameworks_bluetooth/pull/593) |
 | 10 | frameworks_runtimes_feature | #5 | feat: add VelaClaw QuickApp bridge | 24khuangjinxianyu-creator | 2026-09-20 | [查看](https://github.com/open-vela/frameworks_runtimes_feature/pull/5) |
