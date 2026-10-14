@@ -1,6 +1,6 @@
 # openvela 大赛仓库统计报告
 
-> 最后更新时间: 2026-10-13T22:53:25.755951
+> 最后更新时间: 2026-10-14T23:28:15.884468
 
 ## 📊 总体统计
 
@@ -9,7 +9,7 @@
 | 总仓库数 | **500** |
 | 有活跃 Issue/PR 的仓库 | **225** |
 | 总 Issue 数（纯 issue，不含 PR） | **45** |
-| 总 PR 数 | **1595** |
+| 总 PR 数 | **1597** |
 | 提交了 AI Log 的仓库 | **174** |
 
 ## 🏆 有活跃 PR/Issue 的仓库明细
@@ -17,8 +17,8 @@
 | # | 仓库 | Issue | PR | AI Log |
 |---|------|-------|----|--------|
 | 1 | [contest2026_135_yongwangzhiqian](https://github.com/open-vela/contest2026_135_yongwangzhiqian) | 0 | 134 | ✅ |
-| 2 | [contest2026_062_PharosTech](https://github.com/open-vela/contest2026_062_PharosTech) | 6 | 93 | ✅ |
-| 3 | [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) | 0 | 63 | ✅ |
+| 2 | [contest2026_062_PharosTech](https://github.com/open-vela/contest2026_062_PharosTech) | 6 | 94 | ✅ |
+| 3 | [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) | 0 | 64 | ✅ |
 | 4 | [contest2026_233_daimazenmepaibudui](https://github.com/open-vela/contest2026_233_daimazenmepaibudui) | 0 | 61 | ✅ |
 | 5 | [contest2026_356_TXCNSTUDIO](https://github.com/open-vela/contest2026_356_TXCNSTUDIO) | 0 | 44 | ✅ |
 | 6 | [contest2026_098_zhanshangxingguang](https://github.com/open-vela/contest2026_098_zhanshangxingguang) | 0 | 42 | ✅ |
@@ -266,7 +266,7 @@
 20. [contest2026_053_yelvtizhineng](https://github.com/open-vela/contest2026_053_yelvtizhineng) (PR: 4, Issue: 0)
 21. [contest2026_059_0error](https://github.com/open-vela/contest2026_059_0error) (PR: 6, Issue: 0)
 22. [contest2026_061_GGBond](https://github.com/open-vela/contest2026_061_GGBond) (PR: 4, Issue: 0)
-23. [contest2026_062_PharosTech](https://github.com/open-vela/contest2026_062_PharosTech) (PR: 93, Issue: 6)
+23. [contest2026_062_PharosTech](https://github.com/open-vela/contest2026_062_PharosTech) (PR: 94, Issue: 6)
 24. [contest2026_069_xinghesixudui](https://github.com/open-vela/contest2026_069_xinghesixudui) (PR: 11, Issue: 0)
 25. [contest2026_070_arc](https://github.com/open-vela/contest2026_070_arc) (PR: 3, Issue: 0)
 26. [contest2026_075_OpenNexus](https://github.com/open-vela/contest2026_075_OpenNexus) (PR: 3, Issue: 0)
@@ -327,7 +327,7 @@
 81. [contest2026_252_EPG](https://github.com/open-vela/contest2026_252_EPG) (PR: 2, Issue: 0)
 82. [contest2026_253_bolilingmengsaigao](https://github.com/open-vela/contest2026_253_bolilingmengsaigao) (PR: 6, Issue: 0)
 83. [contest2026_261_PYxuexibiji](https://github.com/open-vela/contest2026_261_PYxuexibiji) (PR: 1, Issue: 0)
-84. [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) (PR: 63, Issue: 0)
+84. [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) (PR: 64, Issue: 0)
 85. [contest2026_266_WENGdui](https://github.com/open-vela/contest2026_266_WENGdui) (PR: 2, Issue: 0)
 86. [contest2026_271_rose](https://github.com/open-vela/contest2026_271_rose) (PR: 1, Issue: 0)
 87. [contest2026_272_tokenwujixian](https://github.com/open-vela/contest2026_272_tokenwujixian) (PR: 37, Issue: 0)
@@ -489,10 +489,11 @@
 | 2026-10-11 | 500 | 224 | 45 | 1587 | 174 |
 | 2026-10-12 | 500 | 225 | 45 | 1591 | 174 |
 | 2026-10-13 | 500 | 225 | 45 | 1595 | 174 |
+| 2026-10-14 | 500 | 225 | 45 | 1597 | 174 |
 
 ### 较上次变化
 
-- PR: +4
+- PR: +2
 
 ### PR 数量趋势
 
@@ -528,7 +529,7 @@
 2026-09-02 | ███████████████████ 760
 2026-09-04 | ███████████████████ 789
 2026-09-07 | █████████████████████ 860
-2026-09-08 | ██████████████████████ 878
+2026-09-08 | █████████████████████ 878
 2026-09-10 | ███████████████████████ 935
 2026-09-11 | ████████████████████████ 962
 2026-09-12 | ████████████████████████ 993
@@ -540,7 +541,7 @@
 2026-09-18 | ██████████████████████████████ 1226
 2026-09-19 | ████████████████████████████████ 1315
 2026-09-20 | █████████████████████████████████████ 1496
-2026-09-21 | ███████████████████████████████████████ 1557
+2026-09-21 | ██████████████████████████████████████ 1557
 2026-09-22 | ███████████████████████████████████████ 1558
 2026-09-23 | ███████████████████████████████████████ 1558
 2026-09-24 | ███████████████████████████████████████ 1562
@@ -562,7 +563,8 @@
 2026-10-10 | ███████████████████████████████████████ 1587
 2026-10-11 | ███████████████████████████████████████ 1587
 2026-10-12 | ███████████████████████████████████████ 1591
-2026-10-13 | ████████████████████████████████████████ 1595
+2026-10-13 | ███████████████████████████████████████ 1595
+2026-10-14 | ████████████████████████████████████████ 1597
 ```
 
 ### AI Log 提交仓库趋势
@@ -634,14 +636,15 @@
 2026-10-11 | ████████████████████████████████████████ 174
 2026-10-12 | ████████████████████████████████████████ 174
 2026-10-13 | ████████████████████████████████████████ 174
+2026-10-14 | ████████████████████████████████████████ 174
 ```
 
 ## 🏅 仓库 PR 排行榜
 
 ```
 135_yongwangzhiqian                      | ██████████████████████████████ 134 📝
-062_PharosTech                           | ████████████████████ 93 📝
-264_VelaSightsuixingAIzhinengyanjing     | ██████████████ 63 📝
+062_PharosTech                           | █████████████████████ 94 📝
+264_VelaSightsuixingAIzhinengyanjing     | ██████████████ 64 📝
 233_daimazenmepaibudui                   | █████████████ 61 📝
 356_TXCNSTUDIO                           | █████████ 44 📝
 098_zhanshangxingguang                   | █████████ 42 📝
