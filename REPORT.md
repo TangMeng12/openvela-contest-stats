@@ -1,6 +1,6 @@
 # openvela 大赛仓库统计报告
 
-> 最后更新时间: 2026-10-15T22:31:59.262728
+> 最后更新时间: 2026-10-16T23:02:23.504717
 
 ## 📊 总体统计
 
@@ -9,7 +9,7 @@
 | 总仓库数 | **500** |
 | 有活跃 Issue/PR 的仓库 | **225** |
 | 总 Issue 数（纯 issue，不含 PR） | **45** |
-| 总 PR 数 | **1608** |
+| 总 PR 数 | **1614** |
 | 提交了 AI Log 的仓库 | **174** |
 
 ## 🏆 有活跃 PR/Issue 的仓库明细
@@ -18,7 +18,7 @@
 |---|------|-------|----|--------|
 | 1 | [contest2026_135_yongwangzhiqian](https://github.com/open-vela/contest2026_135_yongwangzhiqian) | 0 | 134 | ✅ |
 | 2 | [contest2026_062_PharosTech](https://github.com/open-vela/contest2026_062_PharosTech) | 6 | 94 | ✅ |
-| 3 | [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) | 0 | 65 | ✅ |
+| 3 | [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) | 0 | 66 | ✅ |
 | 4 | [contest2026_233_daimazenmepaibudui](https://github.com/open-vela/contest2026_233_daimazenmepaibudui) | 0 | 61 | ✅ |
 | 5 | [contest2026_356_TXCNSTUDIO](https://github.com/open-vela/contest2026_356_TXCNSTUDIO) | 0 | 44 | ✅ |
 | 6 | [contest2026_098_zhanshangxingguang](https://github.com/open-vela/contest2026_098_zhanshangxingguang) | 0 | 42 | ✅ |
@@ -85,160 +85,160 @@
 | 67 | [contest2026_441_buzhidaojiaoshenmemingzi](https://github.com/open-vela/contest2026_441_buzhidaojiaoshenmemingzi) | 0 | 6 | ✅ |
 | 68 | [contest2026_443_fengxieke](https://github.com/open-vela/contest2026_443_fengxieke) | 0 | 6 | ✅ |
 | 69 | [contest2026_459_aimizhineng](https://github.com/open-vela/contest2026_459_aimizhineng) | 0 | 6 | ✅ |
-| 70 | [contest2026_039_weilaxinghe](https://github.com/open-vela/contest2026_039_weilaxinghe) | 0 | 5 | ✅ |
-| 71 | [contest2026_095_hehaohanBI4MIB](https://github.com/open-vela/contest2026_095_hehaohanBI4MIB) | 0 | 5 | ❌ |
-| 72 | [contest2026_160_xiangyonghusuoxiangdui](https://github.com/open-vela/contest2026_160_xiangyonghusuoxiangdui) | 0 | 5 | ✅ |
-| 73 | [contest2026_241_HiOS](https://github.com/open-vela/contest2026_241_HiOS) | 0 | 5 | ✅ |
-| 74 | [contest2026_305_Zerv](https://github.com/open-vela/contest2026_305_Zerv) | 0 | 5 | ✅ |
-| 75 | [contest2026_309_MingchengNetworkStudio](https://github.com/open-vela/contest2026_309_MingchengNetworkStudio) | 0 | 5 | ✅ |
-| 76 | [contest2026_316_famous](https://github.com/open-vela/contest2026_316_famous) | 0 | 5 | ✅ |
-| 77 | [contest2026_419_haidixiaozongdui](https://github.com/open-vela/contest2026_419_haidixiaozongdui) | 0 | 5 | ✅ |
-| 78 | [contest2026_480_OpenAT](https://github.com/open-vela/contest2026_480_OpenAT) | 0 | 5 | ❌ |
-| 79 | [contest2026_008_chixiaodou](https://github.com/open-vela/contest2026_008_chixiaodou) | 0 | 4 | ✅ |
-| 80 | [contest2026_026_dami](https://github.com/open-vela/contest2026_026_dami) | 0 | 4 | ✅ |
-| 81 | [contest2026_052_xinfanzhichuang](https://github.com/open-vela/contest2026_052_xinfanzhichuang) | 0 | 4 | ✅ |
-| 82 | [contest2026_053_yelvtizhineng](https://github.com/open-vela/contest2026_053_yelvtizhineng) | 0 | 4 | ✅ |
-| 83 | [contest2026_061_GGBond](https://github.com/open-vela/contest2026_061_GGBond) | 0 | 4 | ✅ |
-| 84 | [contest2026_118_ganfanbuxiangpaidui](https://github.com/open-vela/contest2026_118_ganfanbuxiangpaidui) | 0 | 4 | ✅ |
-| 85 | [contest2026_120_haohaoxuexitiantianxiangshang](https://github.com/open-vela/contest2026_120_haohaoxuexitiantianxiangshang) | 0 | 4 | ✅ |
-| 86 | [contest2026_181_womenshayebuhuidui](https://github.com/open-vela/contest2026_181_womenshayebuhuidui) | 0 | 4 | ✅ |
-| 87 | [contest2026_237_xinghe](https://github.com/open-vela/contest2026_237_xinghe) | 0 | 4 | ✅ |
-| 88 | [contest2026_279_MingchengNetworkStudio](https://github.com/open-vela/contest2026_279_MingchengNetworkStudio) | 0 | 4 | ❌ |
-| 89 | [contest2026_283_yuwokuxiu](https://github.com/open-vela/contest2026_283_yuwokuxiu) | 0 | 4 | ✅ |
-| 90 | [contest2026_284_zhuanqianmaibanzi](https://github.com/open-vela/contest2026_284_zhuanqianmaibanzi) | 0 | 4 | ✅ |
-| 91 | [contest2026_286_hajiminanbeilvdou](https://github.com/open-vela/contest2026_286_hajiminanbeilvdou) | 0 | 4 | ✅ |
-| 92 | [contest2026_292_jingzhuihuweidui](https://github.com/open-vela/contest2026_292_jingzhuihuweidui) | 0 | 4 | ❌ |
-| 93 | [contest2026_405_heimaxiaodui](https://github.com/open-vela/contest2026_405_heimaxiaodui) | 0 | 4 | ✅ |
-| 94 | [contest2026_438_baimi](https://github.com/open-vela/contest2026_438_baimi) | 0 | 4 | ✅ |
-| 95 | [contest2026_455_guojimilan](https://github.com/open-vela/contest2026_455_guojimilan) | 0 | 4 | ✅ |
-| 96 | [contest2026_467_chibubaoduibudui](https://github.com/open-vela/contest2026_467_chibubaoduibudui) | 0 | 4 | ✅ |
-| 97 | [contest2026_474_xuanjiexinsheng](https://github.com/open-vela/contest2026_474_xuanjiexinsheng) | 0 | 4 | ✅ |
-| 98 | [contest2026_481_naiwajundui](https://github.com/open-vela/contest2026_481_naiwajundui) | 0 | 4 | ✅ |
-| 99 | [contest2026_070_arc](https://github.com/open-vela/contest2026_070_arc) | 0 | 3 | ✅ |
-| 100 | [contest2026_075_OpenNexus](https://github.com/open-vela/contest2026_075_OpenNexus) | 0 | 3 | ✅ |
-| 101 | [contest2026_103_BitForge](https://github.com/open-vela/contest2026_103_BitForge) | 0 | 3 | ❌ |
-| 102 | [contest2026_105_MoodAnchor](https://github.com/open-vela/contest2026_105_MoodAnchor) | 0 | 3 | ✅ |
-| 103 | [contest2026_113_veladuxingke](https://github.com/open-vela/contest2026_113_veladuxingke) | 0 | 3 | ✅ |
-| 104 | [contest2026_138_HomeMind](https://github.com/open-vela/contest2026_138_HomeMind) | 0 | 3 | ✅ |
-| 105 | [contest2026_161_xiaoxiaozhihuijia](https://github.com/open-vela/contest2026_161_xiaoxiaozhihuijia) | 0 | 3 | ✅ |
-| 106 | [contest2026_205_heiheiha](https://github.com/open-vela/contest2026_205_heiheiha) | 0 | 3 | ✅ |
-| 107 | [contest2026_236_wuxianshanyaoqiji](https://github.com/open-vela/contest2026_236_wuxianshanyaoqiji) | 0 | 3 | ✅ |
-| 108 | [contest2026_243_qiqimiaomiao](https://github.com/open-vela/contest2026_243_qiqimiaomiao) | 0 | 3 | ✅ |
-| 109 | [contest2026_274_Dogking](https://github.com/open-vela/contest2026_274_Dogking) | 0 | 3 | ✅ |
-| 110 | [contest2026_287_Agenter](https://github.com/open-vela/contest2026_287_Agenter) | 0 | 3 | ❌ |
-| 111 | [contest2026_294_shiqian](https://github.com/open-vela/contest2026_294_shiqian) | 0 | 3 | ✅ |
-| 112 | [contest2026_302_xinxinxiangrong](https://github.com/open-vela/contest2026_302_xinxinxiangrong) | 0 | 3 | ✅ |
-| 113 | [contest2026_307_justdoit](https://github.com/open-vela/contest2026_307_justdoit) | 0 | 3 | ✅ |
-| 114 | [contest2026_315_Corelink](https://github.com/open-vela/contest2026_315_Corelink) | 0 | 3 | ✅ |
-| 115 | [contest2026_319_jinsechuanshuo](https://github.com/open-vela/contest2026_319_jinsechuanshuo) | 0 | 3 | ✅ |
-| 116 | [contest2026_325_junweiyanjiuyuan](https://github.com/open-vela/contest2026_325_junweiyanjiuyuan) | 0 | 3 | ❌ |
-| 117 | [contest2026_332_sanzhixiaocaibi](https://github.com/open-vela/contest2026_332_sanzhixiaocaibi) | 0 | 3 | ✅ |
-| 118 | [contest2026_406_mengxiangchengweigaoshou](https://github.com/open-vela/contest2026_406_mengxiangchengweigaoshou) | 0 | 3 | ✅ |
-| 119 | [contest2026_423_nanshannan](https://github.com/open-vela/contest2026_423_nanshannan) | 0 | 3 | ✅ |
-| 120 | [contest2026_439_biepengwopingmu](https://github.com/open-vela/contest2026_439_biepengwopingmu) | 0 | 3 | ✅ |
-| 121 | [contest2026_468_changtongwuzu](https://github.com/open-vela/contest2026_468_changtongwuzu) | 0 | 3 | ✅ |
-| 122 | [contest2026_489_tiexuelangqun](https://github.com/open-vela/contest2026_489_tiexuelangqun) | 0 | 3 | ✅ |
-| 123 | [contest2026_497_nitelabu](https://github.com/open-vela/contest2026_497_nitelabu) | 0 | 3 | ✅ |
-| 124 | [contest2026_500_suijiyingdui](https://github.com/open-vela/contest2026_500_suijiyingdui) | 0 | 3 | ❌ |
-| 125 | [contest2026_029_sudo](https://github.com/open-vela/contest2026_029_sudo) | 0 | 2 | ✅ |
-| 126 | [contest2026_030_PI](https://github.com/open-vela/contest2026_030_PI) | 0 | 2 | ❌ |
-| 127 | [contest2026_034_ISoftStoneSmartFashionPI](https://github.com/open-vela/contest2026_034_ISoftStoneSmartFashionPI) | 0 | 2 | ✅ |
-| 128 | [contest2026_079_ningmengfengwei](https://github.com/open-vela/contest2026_079_ningmengfengwei) | 0 | 2 | ❌ |
-| 129 | [contest2026_092_NAILTEAM](https://github.com/open-vela/contest2026_092_NAILTEAM) | 0 | 2 | ❌ |
-| 130 | [contest2026_116_chuangzaozhong](https://github.com/open-vela/contest2026_116_chuangzaozhong) | 0 | 2 | ✅ |
-| 131 | [contest2026_133_yigetuandui](https://github.com/open-vela/contest2026_133_yigetuandui) | 0 | 2 | ✅ |
-| 132 | [contest2026_212_zhijianzhirongdui](https://github.com/open-vela/contest2026_212_zhijianzhirongdui) | 0 | 2 | ✅ |
-| 133 | [contest2026_224_quanyuanzhirendui](https://github.com/open-vela/contest2026_224_quanyuanzhirendui) | 0 | 2 | ✅ |
-| 134 | [contest2026_252_EPG](https://github.com/open-vela/contest2026_252_EPG) | 0 | 2 | ✅ |
-| 135 | [contest2026_266_WENGdui](https://github.com/open-vela/contest2026_266_WENGdui) | 0 | 2 | ✅ |
-| 136 | [contest2026_289_DDLqudong](https://github.com/open-vela/contest2026_289_DDLqudong) | 0 | 2 | ❌ |
-| 137 | [contest2026_295_suanliheidong](https://github.com/open-vela/contest2026_295_suanliheidong) | 0 | 2 | ✅ |
-| 138 | [contest2026_355_P4niuniu](https://github.com/open-vela/contest2026_355_P4niuniu) | 0 | 2 | ❌ |
-| 139 | [contest2026_360_duiduidui](https://github.com/open-vela/contest2026_360_duiduidui) | 0 | 2 | ✅ |
-| 140 | [contest2026_402_zxxhcjStudio](https://github.com/open-vela/contest2026_402_zxxhcjStudio) | 0 | 2 | ✅ |
-| 141 | [contest2026_403_anpai](https://github.com/open-vela/contest2026_403_anpai) | 0 | 2 | ✅ |
-| 142 | [contest2026_428_zhipeihuangdi](https://github.com/open-vela/contest2026_428_zhipeihuangdi) | 0 | 2 | ✅ |
-| 143 | [contest2026_434_TinyMind](https://github.com/open-vela/contest2026_434_TinyMind) | 0 | 2 | ❌ |
-| 144 | [contest2026_462_shijichuangyou](https://github.com/open-vela/contest2026_462_shijichuangyou) | 0 | 2 | ✅ |
-| 145 | [contest2026_463_tongyuanjiang](https://github.com/open-vela/contest2026_463_tongyuanjiang) | 0 | 2 | ❌ |
-| 146 | [contest2026_465_chuangkonghangtian](https://github.com/open-vela/contest2026_465_chuangkonghangtian) | 0 | 2 | ✅ |
-| 147 | [contest2026_492_qunqingxueyuan](https://github.com/open-vela/contest2026_492_qunqingxueyuan) | 0 | 2 | ✅ |
-| 148 | [contest2026_494_yunkuofengyadui](https://github.com/open-vela/contest2026_494_yunkuofengyadui) | 0 | 2 | ✅ |
-| 149 | [contest2026_501_jixunCodec](https://github.com/open-vela/contest2026_501_jixunCodec) | 0 | 2 | ✅ |
-| 150 | [contest2026_002_FATEX](https://github.com/open-vela/contest2026_002_FATEX) | 0 | 1 | ❌ |
-| 151 | [contest2026_009_chuanfangongfang](https://github.com/open-vela/contest2026_009_chuanfangongfang) | 0 | 1 | ❌ |
-| 152 | [contest2026_012_lizhudongtian](https://github.com/open-vela/contest2026_012_lizhudongtian) | 0 | 1 | ❌ |
-| 153 | [contest2026_014_makahu](https://github.com/open-vela/contest2026_014_makahu) | 0 | 1 | ✅ |
-| 154 | [contest2026_024_BPshenjingwangluoyongdongji](https://github.com/open-vela/contest2026_024_BPshenjingwangluoyongdongji) | 0 | 1 | ❌ |
-| 155 | [contest2026_042_VelaX](https://github.com/open-vela/contest2026_042_VelaX) | 0 | 1 | ❌ |
-| 156 | [contest2026_044_EsperantoR](https://github.com/open-vela/contest2026_044_EsperantoR) | 0 | 1 | ✅ |
-| 157 | [contest2026_048_dijiugexiaxianyue](https://github.com/open-vela/contest2026_048_dijiugexiaxianyue) | 0 | 1 | ✅ |
-| 158 | [contest2026_049_aduidui](https://github.com/open-vela/contest2026_049_aduidui) | 0 | 1 | ❌ |
-| 159 | [contest2026_060_Breezystudio](https://github.com/open-vela/contest2026_060_Breezystudio) | 0 | 1 | ❌ |
-| 160 | [contest2026_065_linshicoushuwurenzu](https://github.com/open-vela/contest2026_065_linshicoushuwurenzu) | 0 | 1 | ❌ |
-| 161 | [contest2026_072_gagadilaxia](https://github.com/open-vela/contest2026_072_gagadilaxia) | 0 | 1 | ❌ |
-| 162 | [contest2026_078_lvboxingzhe](https://github.com/open-vela/contest2026_078_lvboxingzhe) | 0 | 1 | ❌ |
-| 163 | [contest2026_084_AAAmengchongpifa](https://github.com/open-vela/contest2026_084_AAAmengchongpifa) | 0 | 1 | ✅ |
-| 164 | [contest2026_085_RunMelos](https://github.com/open-vela/contest2026_085_RunMelos) | 0 | 1 | ❌ |
-| 165 | [contest2026_088_hebeiruanjiandui](https://github.com/open-vela/contest2026_088_hebeiruanjiandui) | 0 | 1 | ✅ |
-| 166 | [contest2026_107_VoicePlan](https://github.com/open-vela/contest2026_107_VoicePlan) | 0 | 1 | ✅ |
-| 167 | [contest2026_110_hahaha](https://github.com/open-vela/contest2026_110_hahaha) | 0 | 1 | ✅ |
-| 168 | [contest2026_114_aduiduidui](https://github.com/open-vela/contest2026_114_aduiduidui) | 0 | 1 | ❌ |
-| 169 | [contest2026_119_guobaotegong](https://github.com/open-vela/contest2026_119_guobaotegong) | 0 | 1 | ❌ |
-| 170 | [contest2026_121_jieyoukeneng](https://github.com/open-vela/contest2026_121_jieyoukeneng) | 0 | 1 | ✅ |
-| 171 | [contest2026_122_luoshanjihuarendui](https://github.com/open-vela/contest2026_122_luoshanjihuarendui) | 0 | 1 | ❌ |
-| 172 | [contest2026_124_shenyiyangdelaoshi](https://github.com/open-vela/contest2026_124_shenyiyangdelaoshi) | 0 | 1 | ✅ |
-| 173 | [contest2026_128_xiaolidianzishiyanshi](https://github.com/open-vela/contest2026_128_xiaolidianzishiyanshi) | 0 | 1 | ✅ |
-| 174 | [contest2026_130_xingshuangrenran](https://github.com/open-vela/contest2026_130_xingshuangrenran) | 0 | 1 | ✅ |
-| 175 | [contest2026_140_MatchCore](https://github.com/open-vela/contest2026_140_MatchCore) | 0 | 1 | ❌ |
-| 176 | [contest2026_145_huaernayanghong](https://github.com/open-vela/contest2026_145_huaernayanghong) | 0 | 1 | ❌ |
-| 177 | [contest2026_149_luobuyu](https://github.com/open-vela/contest2026_149_luobuyu) | 0 | 1 | ✅ |
-| 178 | [contest2026_159_weishizhixing](https://github.com/open-vela/contest2026_159_weishizhixing) | 0 | 1 | ❌ |
-| 179 | [contest2026_163_Charks](https://github.com/open-vela/contest2026_163_Charks) | 0 | 1 | ✅ |
-| 180 | [contest2026_164_CowHorse](https://github.com/open-vela/contest2026_164_CowHorse) | 0 | 1 | ❌ |
-| 181 | [contest2026_168_buxingyedeixing](https://github.com/open-vela/contest2026_168_buxingyedeixing) | 0 | 1 | ✅ |
-| 182 | [contest2026_174_lvmoushouhuzhe](https://github.com/open-vela/contest2026_174_lvmoushouhuzhe) | 0 | 1 | ✅ |
-| 183 | [contest2026_185_xiaoxiaocaiji](https://github.com/open-vela/contest2026_185_xiaoxiaocaiji) | 0 | 1 | ❌ |
-| 184 | [contest2026_192_DX](https://github.com/open-vela/contest2026_192_DX) | 0 | 1 | ❌ |
-| 185 | [contest2026_193_FirstNext](https://github.com/open-vela/contest2026_193_FirstNext) | 0 | 1 | ✅ |
-| 186 | [contest2026_197_Q1KOqinkong](https://github.com/open-vela/contest2026_197_Q1KOqinkong) | 0 | 1 | ✅ |
-| 187 | [contest2026_208_moxinzhixue](https://github.com/open-vela/contest2026_208_moxinzhixue) | 0 | 1 | ❌ |
-| 188 | [contest2026_210_weiguangshijie](https://github.com/open-vela/contest2026_210_weiguangshijie) | 0 | 1 | ✅ |
-| 189 | [contest2026_227_MCW](https://github.com/open-vela/contest2026_227_MCW) | 0 | 1 | ❌ |
-| 190 | [contest2026_228_lingbao](https://github.com/open-vela/contest2026_228_lingbao) | 0 | 1 | ✅ |
-| 191 | [contest2026_235_shushudui](https://github.com/open-vela/contest2026_235_shushudui) | 0 | 1 | ❌ |
-| 192 | [contest2026_240_velaxiaopacai](https://github.com/open-vela/contest2026_240_velaxiaopacai) | 0 | 1 | ✅ |
-| 193 | [contest2026_245_wudigaoyangdui](https://github.com/open-vela/contest2026_245_wudigaoyangdui) | 0 | 1 | ❌ |
-| 194 | [contest2026_254_jiafangdui](https://github.com/open-vela/contest2026_254_jiafangdui) | 0 | 1 | ❌ |
-| 195 | [contest2026_261_PYxuexibiji](https://github.com/open-vela/contest2026_261_PYxuexibiji) | 0 | 1 | ✅ |
-| 196 | [contest2026_271_rose](https://github.com/open-vela/contest2026_271_rose) | 0 | 1 | ✅ |
-| 197 | [contest2026_273_bangbanglangbangbang](https://github.com/open-vela/contest2026_273_bangbanglangbangbang) | 0 | 1 | ✅ |
-| 198 | [contest2026_299_zhongguoxiangheyingmaokegong](https://github.com/open-vela/contest2026_299_zhongguoxiangheyingmaokegong) | 0 | 1 | ❌ |
-| 199 | [contest2026_310_bangbangdui](https://github.com/open-vela/contest2026_310_bangbangdui) | 0 | 1 | ❌ |
-| 200 | [contest2026_327_jiny](https://github.com/open-vela/contest2026_327_jiny) | 0 | 1 | ✅ |
-| 201 | [contest2026_338_xigoukeji](https://github.com/open-vela/contest2026_338_xigoukeji) | 0 | 1 | ❌ |
-| 202 | [contest2026_357_Velatrix](https://github.com/open-vela/contest2026_357_Velatrix) | 0 | 1 | ❌ |
-| 203 | [contest2026_358_WSLC](https://github.com/open-vela/contest2026_358_WSLC) | 0 | 1 | ✅ |
-| 204 | [contest2026_370_BelieveinOpenSource](https://github.com/open-vela/contest2026_370_BelieveinOpenSource) | 0 | 1 | ✅ |
-| 205 | [contest2026_377_moyumanbo](https://github.com/open-vela/contest2026_377_moyumanbo) | 0 | 1 | ✅ |
-| 206 | [contest2026_381_kuzi](https://github.com/open-vela/contest2026_381_kuzi) | 0 | 1 | ✅ |
-| 207 | [contest2026_394_lingxijingling](https://github.com/open-vela/contest2026_394_lingxijingling) | 0 | 1 | ✅ |
-| 208 | [contest2026_409_xuedeyuemanxuedeyuekuai](https://github.com/open-vela/contest2026_409_xuedeyuemanxuedeyuekuai) | 0 | 1 | ✅ |
-| 209 | [contest2026_417_duwen](https://github.com/open-vela/contest2026_417_duwen) | 0 | 1 | ✅ |
-| 210 | [contest2026_420_jinyachengtianxiadiyikeai](https://github.com/open-vela/contest2026_420_jinyachengtianxiadiyikeai) | 0 | 1 | ✅ |
-| 211 | [contest2026_421_laoshuxiwantou](https://github.com/open-vela/contest2026_421_laoshuxiwantou) | 0 | 1 | ❌ |
-| 212 | [contest2026_435_UdifyFun](https://github.com/open-vela/contest2026_435_UdifyFun) | 0 | 1 | ❌ |
-| 213 | [contest2026_446_nandongtaxin](https://github.com/open-vela/contest2026_446_nandongtaxin) | 0 | 1 | ❌ |
-| 214 | [contest2026_447_oohaoba144](https://github.com/open-vela/contest2026_447_oohaoba144) | 0 | 1 | ✅ |
-| 215 | [contest2026_458_conglingkaishideopenvelashenghuo](https://github.com/open-vela/contest2026_458_conglingkaishideopenvelashenghuo) | 0 | 1 | ✅ |
-| 216 | [contest2026_477_smartband](https://github.com/open-vela/contest2026_477_smartband) | 0 | 1 | ✅ |
-| 217 | [contest2026_478_zhichimijiapeidui](https://github.com/open-vela/contest2026_478_zhichimijiapeidui) | 0 | 1 | ❌ |
-| 218 | [contest2026_484_nimenshuodedoudui](https://github.com/open-vela/contest2026_484_nimenshuodedoudui) | 0 | 1 | ✅ |
-| 219 | [contest2026_486_VelaAILab](https://github.com/open-vela/contest2026_486_VelaAILab) | 0 | 1 | ✅ |
-| 220 | [contest2026_490_nibuzaizhedui](https://github.com/open-vela/contest2026_490_nibuzaizhedui) | 0 | 1 | ✅ |
-| 221 | [contest2026_491_shanquanshuidui](https://github.com/open-vela/contest2026_491_shanquanshuidui) | 0 | 1 | ✅ |
-| 222 | [contest2026_495_qinyunzhishang](https://github.com/open-vela/contest2026_495_qinyunzhishang) | 0 | 1 | ❌ |
-| 223 | [contest2026_496_diaochabingtuan](https://github.com/open-vela/contest2026_496_diaochabingtuan) | 0 | 1 | ✅ |
+| 70 | [contest2026_496_diaochabingtuan](https://github.com/open-vela/contest2026_496_diaochabingtuan) | 0 | 6 | ✅ |
+| 71 | [contest2026_039_weilaxinghe](https://github.com/open-vela/contest2026_039_weilaxinghe) | 0 | 5 | ✅ |
+| 72 | [contest2026_095_hehaohanBI4MIB](https://github.com/open-vela/contest2026_095_hehaohanBI4MIB) | 0 | 5 | ❌ |
+| 73 | [contest2026_160_xiangyonghusuoxiangdui](https://github.com/open-vela/contest2026_160_xiangyonghusuoxiangdui) | 0 | 5 | ✅ |
+| 74 | [contest2026_241_HiOS](https://github.com/open-vela/contest2026_241_HiOS) | 0 | 5 | ✅ |
+| 75 | [contest2026_305_Zerv](https://github.com/open-vela/contest2026_305_Zerv) | 0 | 5 | ✅ |
+| 76 | [contest2026_309_MingchengNetworkStudio](https://github.com/open-vela/contest2026_309_MingchengNetworkStudio) | 0 | 5 | ✅ |
+| 77 | [contest2026_316_famous](https://github.com/open-vela/contest2026_316_famous) | 0 | 5 | ✅ |
+| 78 | [contest2026_419_haidixiaozongdui](https://github.com/open-vela/contest2026_419_haidixiaozongdui) | 0 | 5 | ✅ |
+| 79 | [contest2026_480_OpenAT](https://github.com/open-vela/contest2026_480_OpenAT) | 0 | 5 | ❌ |
+| 80 | [contest2026_008_chixiaodou](https://github.com/open-vela/contest2026_008_chixiaodou) | 0 | 4 | ✅ |
+| 81 | [contest2026_026_dami](https://github.com/open-vela/contest2026_026_dami) | 0 | 4 | ✅ |
+| 82 | [contest2026_052_xinfanzhichuang](https://github.com/open-vela/contest2026_052_xinfanzhichuang) | 0 | 4 | ✅ |
+| 83 | [contest2026_053_yelvtizhineng](https://github.com/open-vela/contest2026_053_yelvtizhineng) | 0 | 4 | ✅ |
+| 84 | [contest2026_061_GGBond](https://github.com/open-vela/contest2026_061_GGBond) | 0 | 4 | ✅ |
+| 85 | [contest2026_118_ganfanbuxiangpaidui](https://github.com/open-vela/contest2026_118_ganfanbuxiangpaidui) | 0 | 4 | ✅ |
+| 86 | [contest2026_120_haohaoxuexitiantianxiangshang](https://github.com/open-vela/contest2026_120_haohaoxuexitiantianxiangshang) | 0 | 4 | ✅ |
+| 87 | [contest2026_181_womenshayebuhuidui](https://github.com/open-vela/contest2026_181_womenshayebuhuidui) | 0 | 4 | ✅ |
+| 88 | [contest2026_237_xinghe](https://github.com/open-vela/contest2026_237_xinghe) | 0 | 4 | ✅ |
+| 89 | [contest2026_279_MingchengNetworkStudio](https://github.com/open-vela/contest2026_279_MingchengNetworkStudio) | 0 | 4 | ❌ |
+| 90 | [contest2026_283_yuwokuxiu](https://github.com/open-vela/contest2026_283_yuwokuxiu) | 0 | 4 | ✅ |
+| 91 | [contest2026_284_zhuanqianmaibanzi](https://github.com/open-vela/contest2026_284_zhuanqianmaibanzi) | 0 | 4 | ✅ |
+| 92 | [contest2026_286_hajiminanbeilvdou](https://github.com/open-vela/contest2026_286_hajiminanbeilvdou) | 0 | 4 | ✅ |
+| 93 | [contest2026_292_jingzhuihuweidui](https://github.com/open-vela/contest2026_292_jingzhuihuweidui) | 0 | 4 | ❌ |
+| 94 | [contest2026_405_heimaxiaodui](https://github.com/open-vela/contest2026_405_heimaxiaodui) | 0 | 4 | ✅ |
+| 95 | [contest2026_438_baimi](https://github.com/open-vela/contest2026_438_baimi) | 0 | 4 | ✅ |
+| 96 | [contest2026_455_guojimilan](https://github.com/open-vela/contest2026_455_guojimilan) | 0 | 4 | ✅ |
+| 97 | [contest2026_467_chibubaoduibudui](https://github.com/open-vela/contest2026_467_chibubaoduibudui) | 0 | 4 | ✅ |
+| 98 | [contest2026_474_xuanjiexinsheng](https://github.com/open-vela/contest2026_474_xuanjiexinsheng) | 0 | 4 | ✅ |
+| 99 | [contest2026_481_naiwajundui](https://github.com/open-vela/contest2026_481_naiwajundui) | 0 | 4 | ✅ |
+| 100 | [contest2026_070_arc](https://github.com/open-vela/contest2026_070_arc) | 0 | 3 | ✅ |
+| 101 | [contest2026_075_OpenNexus](https://github.com/open-vela/contest2026_075_OpenNexus) | 0 | 3 | ✅ |
+| 102 | [contest2026_103_BitForge](https://github.com/open-vela/contest2026_103_BitForge) | 0 | 3 | ❌ |
+| 103 | [contest2026_105_MoodAnchor](https://github.com/open-vela/contest2026_105_MoodAnchor) | 0 | 3 | ✅ |
+| 104 | [contest2026_113_veladuxingke](https://github.com/open-vela/contest2026_113_veladuxingke) | 0 | 3 | ✅ |
+| 105 | [contest2026_138_HomeMind](https://github.com/open-vela/contest2026_138_HomeMind) | 0 | 3 | ✅ |
+| 106 | [contest2026_161_xiaoxiaozhihuijia](https://github.com/open-vela/contest2026_161_xiaoxiaozhihuijia) | 0 | 3 | ✅ |
+| 107 | [contest2026_205_heiheiha](https://github.com/open-vela/contest2026_205_heiheiha) | 0 | 3 | ✅ |
+| 108 | [contest2026_236_wuxianshanyaoqiji](https://github.com/open-vela/contest2026_236_wuxianshanyaoqiji) | 0 | 3 | ✅ |
+| 109 | [contest2026_243_qiqimiaomiao](https://github.com/open-vela/contest2026_243_qiqimiaomiao) | 0 | 3 | ✅ |
+| 110 | [contest2026_274_Dogking](https://github.com/open-vela/contest2026_274_Dogking) | 0 | 3 | ✅ |
+| 111 | [contest2026_287_Agenter](https://github.com/open-vela/contest2026_287_Agenter) | 0 | 3 | ❌ |
+| 112 | [contest2026_294_shiqian](https://github.com/open-vela/contest2026_294_shiqian) | 0 | 3 | ✅ |
+| 113 | [contest2026_302_xinxinxiangrong](https://github.com/open-vela/contest2026_302_xinxinxiangrong) | 0 | 3 | ✅ |
+| 114 | [contest2026_307_justdoit](https://github.com/open-vela/contest2026_307_justdoit) | 0 | 3 | ✅ |
+| 115 | [contest2026_315_Corelink](https://github.com/open-vela/contest2026_315_Corelink) | 0 | 3 | ✅ |
+| 116 | [contest2026_319_jinsechuanshuo](https://github.com/open-vela/contest2026_319_jinsechuanshuo) | 0 | 3 | ✅ |
+| 117 | [contest2026_325_junweiyanjiuyuan](https://github.com/open-vela/contest2026_325_junweiyanjiuyuan) | 0 | 3 | ❌ |
+| 118 | [contest2026_332_sanzhixiaocaibi](https://github.com/open-vela/contest2026_332_sanzhixiaocaibi) | 0 | 3 | ✅ |
+| 119 | [contest2026_406_mengxiangchengweigaoshou](https://github.com/open-vela/contest2026_406_mengxiangchengweigaoshou) | 0 | 3 | ✅ |
+| 120 | [contest2026_423_nanshannan](https://github.com/open-vela/contest2026_423_nanshannan) | 0 | 3 | ✅ |
+| 121 | [contest2026_439_biepengwopingmu](https://github.com/open-vela/contest2026_439_biepengwopingmu) | 0 | 3 | ✅ |
+| 122 | [contest2026_468_changtongwuzu](https://github.com/open-vela/contest2026_468_changtongwuzu) | 0 | 3 | ✅ |
+| 123 | [contest2026_489_tiexuelangqun](https://github.com/open-vela/contest2026_489_tiexuelangqun) | 0 | 3 | ✅ |
+| 124 | [contest2026_497_nitelabu](https://github.com/open-vela/contest2026_497_nitelabu) | 0 | 3 | ✅ |
+| 125 | [contest2026_500_suijiyingdui](https://github.com/open-vela/contest2026_500_suijiyingdui) | 0 | 3 | ❌ |
+| 126 | [contest2026_029_sudo](https://github.com/open-vela/contest2026_029_sudo) | 0 | 2 | ✅ |
+| 127 | [contest2026_030_PI](https://github.com/open-vela/contest2026_030_PI) | 0 | 2 | ❌ |
+| 128 | [contest2026_034_ISoftStoneSmartFashionPI](https://github.com/open-vela/contest2026_034_ISoftStoneSmartFashionPI) | 0 | 2 | ✅ |
+| 129 | [contest2026_079_ningmengfengwei](https://github.com/open-vela/contest2026_079_ningmengfengwei) | 0 | 2 | ❌ |
+| 130 | [contest2026_092_NAILTEAM](https://github.com/open-vela/contest2026_092_NAILTEAM) | 0 | 2 | ❌ |
+| 131 | [contest2026_116_chuangzaozhong](https://github.com/open-vela/contest2026_116_chuangzaozhong) | 0 | 2 | ✅ |
+| 132 | [contest2026_133_yigetuandui](https://github.com/open-vela/contest2026_133_yigetuandui) | 0 | 2 | ✅ |
+| 133 | [contest2026_212_zhijianzhirongdui](https://github.com/open-vela/contest2026_212_zhijianzhirongdui) | 0 | 2 | ✅ |
+| 134 | [contest2026_224_quanyuanzhirendui](https://github.com/open-vela/contest2026_224_quanyuanzhirendui) | 0 | 2 | ✅ |
+| 135 | [contest2026_252_EPG](https://github.com/open-vela/contest2026_252_EPG) | 0 | 2 | ✅ |
+| 136 | [contest2026_266_WENGdui](https://github.com/open-vela/contest2026_266_WENGdui) | 0 | 2 | ✅ |
+| 137 | [contest2026_289_DDLqudong](https://github.com/open-vela/contest2026_289_DDLqudong) | 0 | 2 | ❌ |
+| 138 | [contest2026_295_suanliheidong](https://github.com/open-vela/contest2026_295_suanliheidong) | 0 | 2 | ✅ |
+| 139 | [contest2026_355_P4niuniu](https://github.com/open-vela/contest2026_355_P4niuniu) | 0 | 2 | ❌ |
+| 140 | [contest2026_360_duiduidui](https://github.com/open-vela/contest2026_360_duiduidui) | 0 | 2 | ✅ |
+| 141 | [contest2026_402_zxxhcjStudio](https://github.com/open-vela/contest2026_402_zxxhcjStudio) | 0 | 2 | ✅ |
+| 142 | [contest2026_403_anpai](https://github.com/open-vela/contest2026_403_anpai) | 0 | 2 | ✅ |
+| 143 | [contest2026_428_zhipeihuangdi](https://github.com/open-vela/contest2026_428_zhipeihuangdi) | 0 | 2 | ✅ |
+| 144 | [contest2026_434_TinyMind](https://github.com/open-vela/contest2026_434_TinyMind) | 0 | 2 | ❌ |
+| 145 | [contest2026_462_shijichuangyou](https://github.com/open-vela/contest2026_462_shijichuangyou) | 0 | 2 | ✅ |
+| 146 | [contest2026_463_tongyuanjiang](https://github.com/open-vela/contest2026_463_tongyuanjiang) | 0 | 2 | ❌ |
+| 147 | [contest2026_465_chuangkonghangtian](https://github.com/open-vela/contest2026_465_chuangkonghangtian) | 0 | 2 | ✅ |
+| 148 | [contest2026_492_qunqingxueyuan](https://github.com/open-vela/contest2026_492_qunqingxueyuan) | 0 | 2 | ✅ |
+| 149 | [contest2026_494_yunkuofengyadui](https://github.com/open-vela/contest2026_494_yunkuofengyadui) | 0 | 2 | ✅ |
+| 150 | [contest2026_501_jixunCodec](https://github.com/open-vela/contest2026_501_jixunCodec) | 0 | 2 | ✅ |
+| 151 | [contest2026_002_FATEX](https://github.com/open-vela/contest2026_002_FATEX) | 0 | 1 | ❌ |
+| 152 | [contest2026_009_chuanfangongfang](https://github.com/open-vela/contest2026_009_chuanfangongfang) | 0 | 1 | ❌ |
+| 153 | [contest2026_012_lizhudongtian](https://github.com/open-vela/contest2026_012_lizhudongtian) | 0 | 1 | ❌ |
+| 154 | [contest2026_014_makahu](https://github.com/open-vela/contest2026_014_makahu) | 0 | 1 | ✅ |
+| 155 | [contest2026_024_BPshenjingwangluoyongdongji](https://github.com/open-vela/contest2026_024_BPshenjingwangluoyongdongji) | 0 | 1 | ❌ |
+| 156 | [contest2026_042_VelaX](https://github.com/open-vela/contest2026_042_VelaX) | 0 | 1 | ❌ |
+| 157 | [contest2026_044_EsperantoR](https://github.com/open-vela/contest2026_044_EsperantoR) | 0 | 1 | ✅ |
+| 158 | [contest2026_048_dijiugexiaxianyue](https://github.com/open-vela/contest2026_048_dijiugexiaxianyue) | 0 | 1 | ✅ |
+| 159 | [contest2026_049_aduidui](https://github.com/open-vela/contest2026_049_aduidui) | 0 | 1 | ❌ |
+| 160 | [contest2026_060_Breezystudio](https://github.com/open-vela/contest2026_060_Breezystudio) | 0 | 1 | ❌ |
+| 161 | [contest2026_065_linshicoushuwurenzu](https://github.com/open-vela/contest2026_065_linshicoushuwurenzu) | 0 | 1 | ❌ |
+| 162 | [contest2026_072_gagadilaxia](https://github.com/open-vela/contest2026_072_gagadilaxia) | 0 | 1 | ❌ |
+| 163 | [contest2026_078_lvboxingzhe](https://github.com/open-vela/contest2026_078_lvboxingzhe) | 0 | 1 | ❌ |
+| 164 | [contest2026_084_AAAmengchongpifa](https://github.com/open-vela/contest2026_084_AAAmengchongpifa) | 0 | 1 | ✅ |
+| 165 | [contest2026_085_RunMelos](https://github.com/open-vela/contest2026_085_RunMelos) | 0 | 1 | ❌ |
+| 166 | [contest2026_088_hebeiruanjiandui](https://github.com/open-vela/contest2026_088_hebeiruanjiandui) | 0 | 1 | ✅ |
+| 167 | [contest2026_107_VoicePlan](https://github.com/open-vela/contest2026_107_VoicePlan) | 0 | 1 | ✅ |
+| 168 | [contest2026_110_hahaha](https://github.com/open-vela/contest2026_110_hahaha) | 0 | 1 | ✅ |
+| 169 | [contest2026_114_aduiduidui](https://github.com/open-vela/contest2026_114_aduiduidui) | 0 | 1 | ❌ |
+| 170 | [contest2026_119_guobaotegong](https://github.com/open-vela/contest2026_119_guobaotegong) | 0 | 1 | ❌ |
+| 171 | [contest2026_121_jieyoukeneng](https://github.com/open-vela/contest2026_121_jieyoukeneng) | 0 | 1 | ✅ |
+| 172 | [contest2026_122_luoshanjihuarendui](https://github.com/open-vela/contest2026_122_luoshanjihuarendui) | 0 | 1 | ❌ |
+| 173 | [contest2026_124_shenyiyangdelaoshi](https://github.com/open-vela/contest2026_124_shenyiyangdelaoshi) | 0 | 1 | ✅ |
+| 174 | [contest2026_128_xiaolidianzishiyanshi](https://github.com/open-vela/contest2026_128_xiaolidianzishiyanshi) | 0 | 1 | ✅ |
+| 175 | [contest2026_130_xingshuangrenran](https://github.com/open-vela/contest2026_130_xingshuangrenran) | 0 | 1 | ✅ |
+| 176 | [contest2026_140_MatchCore](https://github.com/open-vela/contest2026_140_MatchCore) | 0 | 1 | ❌ |
+| 177 | [contest2026_145_huaernayanghong](https://github.com/open-vela/contest2026_145_huaernayanghong) | 0 | 1 | ❌ |
+| 178 | [contest2026_149_luobuyu](https://github.com/open-vela/contest2026_149_luobuyu) | 0 | 1 | ✅ |
+| 179 | [contest2026_159_weishizhixing](https://github.com/open-vela/contest2026_159_weishizhixing) | 0 | 1 | ❌ |
+| 180 | [contest2026_163_Charks](https://github.com/open-vela/contest2026_163_Charks) | 0 | 1 | ✅ |
+| 181 | [contest2026_164_CowHorse](https://github.com/open-vela/contest2026_164_CowHorse) | 0 | 1 | ❌ |
+| 182 | [contest2026_168_buxingyedeixing](https://github.com/open-vela/contest2026_168_buxingyedeixing) | 0 | 1 | ✅ |
+| 183 | [contest2026_174_lvmoushouhuzhe](https://github.com/open-vela/contest2026_174_lvmoushouhuzhe) | 0 | 1 | ✅ |
+| 184 | [contest2026_185_xiaoxiaocaiji](https://github.com/open-vela/contest2026_185_xiaoxiaocaiji) | 0 | 1 | ❌ |
+| 185 | [contest2026_192_DX](https://github.com/open-vela/contest2026_192_DX) | 0 | 1 | ❌ |
+| 186 | [contest2026_193_FirstNext](https://github.com/open-vela/contest2026_193_FirstNext) | 0 | 1 | ✅ |
+| 187 | [contest2026_197_Q1KOqinkong](https://github.com/open-vela/contest2026_197_Q1KOqinkong) | 0 | 1 | ✅ |
+| 188 | [contest2026_208_moxinzhixue](https://github.com/open-vela/contest2026_208_moxinzhixue) | 0 | 1 | ❌ |
+| 189 | [contest2026_210_weiguangshijie](https://github.com/open-vela/contest2026_210_weiguangshijie) | 0 | 1 | ✅ |
+| 190 | [contest2026_227_MCW](https://github.com/open-vela/contest2026_227_MCW) | 0 | 1 | ❌ |
+| 191 | [contest2026_228_lingbao](https://github.com/open-vela/contest2026_228_lingbao) | 0 | 1 | ✅ |
+| 192 | [contest2026_235_shushudui](https://github.com/open-vela/contest2026_235_shushudui) | 0 | 1 | ❌ |
+| 193 | [contest2026_240_velaxiaopacai](https://github.com/open-vela/contest2026_240_velaxiaopacai) | 0 | 1 | ✅ |
+| 194 | [contest2026_245_wudigaoyangdui](https://github.com/open-vela/contest2026_245_wudigaoyangdui) | 0 | 1 | ❌ |
+| 195 | [contest2026_254_jiafangdui](https://github.com/open-vela/contest2026_254_jiafangdui) | 0 | 1 | ❌ |
+| 196 | [contest2026_261_PYxuexibiji](https://github.com/open-vela/contest2026_261_PYxuexibiji) | 0 | 1 | ✅ |
+| 197 | [contest2026_271_rose](https://github.com/open-vela/contest2026_271_rose) | 0 | 1 | ✅ |
+| 198 | [contest2026_273_bangbanglangbangbang](https://github.com/open-vela/contest2026_273_bangbanglangbangbang) | 0 | 1 | ✅ |
+| 199 | [contest2026_299_zhongguoxiangheyingmaokegong](https://github.com/open-vela/contest2026_299_zhongguoxiangheyingmaokegong) | 0 | 1 | ❌ |
+| 200 | [contest2026_310_bangbangdui](https://github.com/open-vela/contest2026_310_bangbangdui) | 0 | 1 | ❌ |
+| 201 | [contest2026_327_jiny](https://github.com/open-vela/contest2026_327_jiny) | 0 | 1 | ✅ |
+| 202 | [contest2026_338_xigoukeji](https://github.com/open-vela/contest2026_338_xigoukeji) | 0 | 1 | ❌ |
+| 203 | [contest2026_357_Velatrix](https://github.com/open-vela/contest2026_357_Velatrix) | 0 | 1 | ❌ |
+| 204 | [contest2026_358_WSLC](https://github.com/open-vela/contest2026_358_WSLC) | 0 | 1 | ✅ |
+| 205 | [contest2026_370_BelieveinOpenSource](https://github.com/open-vela/contest2026_370_BelieveinOpenSource) | 0 | 1 | ✅ |
+| 206 | [contest2026_377_moyumanbo](https://github.com/open-vela/contest2026_377_moyumanbo) | 0 | 1 | ✅ |
+| 207 | [contest2026_381_kuzi](https://github.com/open-vela/contest2026_381_kuzi) | 0 | 1 | ✅ |
+| 208 | [contest2026_394_lingxijingling](https://github.com/open-vela/contest2026_394_lingxijingling) | 0 | 1 | ✅ |
+| 209 | [contest2026_409_xuedeyuemanxuedeyuekuai](https://github.com/open-vela/contest2026_409_xuedeyuemanxuedeyuekuai) | 0 | 1 | ✅ |
+| 210 | [contest2026_417_duwen](https://github.com/open-vela/contest2026_417_duwen) | 0 | 1 | ✅ |
+| 211 | [contest2026_420_jinyachengtianxiadiyikeai](https://github.com/open-vela/contest2026_420_jinyachengtianxiadiyikeai) | 0 | 1 | ✅ |
+| 212 | [contest2026_421_laoshuxiwantou](https://github.com/open-vela/contest2026_421_laoshuxiwantou) | 0 | 1 | ❌ |
+| 213 | [contest2026_435_UdifyFun](https://github.com/open-vela/contest2026_435_UdifyFun) | 0 | 1 | ❌ |
+| 214 | [contest2026_446_nandongtaxin](https://github.com/open-vela/contest2026_446_nandongtaxin) | 0 | 1 | ❌ |
+| 215 | [contest2026_447_oohaoba144](https://github.com/open-vela/contest2026_447_oohaoba144) | 0 | 1 | ✅ |
+| 216 | [contest2026_458_conglingkaishideopenvelashenghuo](https://github.com/open-vela/contest2026_458_conglingkaishideopenvelashenghuo) | 0 | 1 | ✅ |
+| 217 | [contest2026_477_smartband](https://github.com/open-vela/contest2026_477_smartband) | 0 | 1 | ✅ |
+| 218 | [contest2026_478_zhichimijiapeidui](https://github.com/open-vela/contest2026_478_zhichimijiapeidui) | 0 | 1 | ❌ |
+| 219 | [contest2026_484_nimenshuodedoudui](https://github.com/open-vela/contest2026_484_nimenshuodedoudui) | 0 | 1 | ✅ |
+| 220 | [contest2026_486_VelaAILab](https://github.com/open-vela/contest2026_486_VelaAILab) | 0 | 1 | ✅ |
+| 221 | [contest2026_490_nibuzaizhedui](https://github.com/open-vela/contest2026_490_nibuzaizhedui) | 0 | 1 | ✅ |
+| 222 | [contest2026_491_shanquanshuidui](https://github.com/open-vela/contest2026_491_shanquanshuidui) | 0 | 1 | ✅ |
+| 223 | [contest2026_495_qinyunzhishang](https://github.com/open-vela/contest2026_495_qinyunzhishang) | 0 | 1 | ❌ |
 | 224 | [contest2026_498_biandaimazhenshitaitoutengla](https://github.com/open-vela/contest2026_498_biandaimazhenshitaitoutengla) | 0 | 1 | ✅ |
 | 225 | [contest2026_499_buzhaojideINTP](https://github.com/open-vela/contest2026_499_buzhaojideINTP) | 0 | 1 | ✅ |
 
@@ -327,7 +327,7 @@
 81. [contest2026_252_EPG](https://github.com/open-vela/contest2026_252_EPG) (PR: 2, Issue: 0)
 82. [contest2026_253_bolilingmengsaigao](https://github.com/open-vela/contest2026_253_bolilingmengsaigao) (PR: 6, Issue: 0)
 83. [contest2026_261_PYxuexibiji](https://github.com/open-vela/contest2026_261_PYxuexibiji) (PR: 1, Issue: 0)
-84. [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) (PR: 65, Issue: 0)
+84. [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) (PR: 66, Issue: 0)
 85. [contest2026_266_WENGdui](https://github.com/open-vela/contest2026_266_WENGdui) (PR: 2, Issue: 0)
 86. [contest2026_271_rose](https://github.com/open-vela/contest2026_271_rose) (PR: 1, Issue: 0)
 87. [contest2026_272_tokenwujixian](https://github.com/open-vela/contest2026_272_tokenwujixian) (PR: 38, Issue: 0)
@@ -413,7 +413,7 @@
 167. [contest2026_491_shanquanshuidui](https://github.com/open-vela/contest2026_491_shanquanshuidui) (PR: 1, Issue: 0)
 168. [contest2026_492_qunqingxueyuan](https://github.com/open-vela/contest2026_492_qunqingxueyuan) (PR: 2, Issue: 0)
 169. [contest2026_494_yunkuofengyadui](https://github.com/open-vela/contest2026_494_yunkuofengyadui) (PR: 2, Issue: 0)
-170. [contest2026_496_diaochabingtuan](https://github.com/open-vela/contest2026_496_diaochabingtuan) (PR: 1, Issue: 0)
+170. [contest2026_496_diaochabingtuan](https://github.com/open-vela/contest2026_496_diaochabingtuan) (PR: 6, Issue: 0)
 171. [contest2026_497_nitelabu](https://github.com/open-vela/contest2026_497_nitelabu) (PR: 3, Issue: 0)
 172. [contest2026_498_biandaimazhenshitaitoutengla](https://github.com/open-vela/contest2026_498_biandaimazhenshitaitoutengla) (PR: 1, Issue: 0)
 173. [contest2026_499_buzhaojideINTP](https://github.com/open-vela/contest2026_499_buzhaojideINTP) (PR: 1, Issue: 0)
@@ -491,10 +491,11 @@
 | 2026-10-13 | 500 | 225 | 45 | 1595 | 174 |
 | 2026-10-14 | 500 | 225 | 45 | 1597 | 174 |
 | 2026-10-15 | 500 | 225 | 45 | 1608 | 174 |
+| 2026-10-16 | 500 | 225 | 45 | 1614 | 174 |
 
 ### 较上次变化
 
-- PR: +11
+- PR: +6
 
 ### PR 数量趋势
 
@@ -503,7 +504,7 @@
 2026-07-20 | ███ 153
 2026-07-21 | ███ 155
 2026-07-22 | ███ 158
-2026-07-23 | ████ 161
+2026-07-23 | ███ 161
 2026-07-27 | ████ 178
 2026-07-28 | ████ 185
 2026-07-29 | ████ 191
@@ -525,7 +526,7 @@
 2026-08-25 | ██████████████ 569
 2026-08-26 | ██████████████ 587
 2026-08-28 | ███████████████ 628
-2026-08-31 | ██████████████████ 725
+2026-08-31 | █████████████████ 725
 2026-09-01 | ██████████████████ 746
 2026-09-02 | ██████████████████ 760
 2026-09-04 | ███████████████████ 789
@@ -548,9 +549,9 @@
 2026-09-24 | ██████████████████████████████████████ 1562
 2026-09-25 | ██████████████████████████████████████ 1564
 2026-09-26 | ██████████████████████████████████████ 1566
-2026-09-27 | ███████████████████████████████████████ 1569
-2026-09-28 | ███████████████████████████████████████ 1569
-2026-09-29 | ███████████████████████████████████████ 1573
+2026-09-27 | ██████████████████████████████████████ 1569
+2026-09-28 | ██████████████████████████████████████ 1569
+2026-09-29 | ██████████████████████████████████████ 1573
 2026-09-30 | ███████████████████████████████████████ 1575
 2026-10-01 | ███████████████████████████████████████ 1575
 2026-10-02 | ███████████████████████████████████████ 1576
@@ -566,7 +567,8 @@
 2026-10-12 | ███████████████████████████████████████ 1591
 2026-10-13 | ███████████████████████████████████████ 1595
 2026-10-14 | ███████████████████████████████████████ 1597
-2026-10-15 | ████████████████████████████████████████ 1608
+2026-10-15 | ███████████████████████████████████████ 1608
+2026-10-16 | ████████████████████████████████████████ 1614
 ```
 
 ### AI Log 提交仓库趋势
@@ -640,6 +642,7 @@
 2026-10-13 | ████████████████████████████████████████ 174
 2026-10-14 | ████████████████████████████████████████ 174
 2026-10-15 | ████████████████████████████████████████ 174
+2026-10-16 | ████████████████████████████████████████ 174
 ```
 
 ## 🏅 仓库 PR 排行榜
@@ -647,7 +650,7 @@
 ```
 135_yongwangzhiqian                      | ██████████████████████████████ 134 📝
 062_PharosTech                           | █████████████████████ 94 📝
-264_VelaSightsuixingAIzhinengyanjing     | ██████████████ 65 📝
+264_VelaSightsuixingAIzhinengyanjing     | ██████████████ 66 📝
 233_daimazenmepaibudui                   | █████████████ 61 📝
 356_TXCNSTUDIO                           | █████████ 44 📝
 098_zhanshangxingguang                   | █████████ 42 📝
