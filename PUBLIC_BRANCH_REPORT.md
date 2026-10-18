@@ -1,6 +1,6 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-10-17T22:32:54.607621
+> 最后更新时间: 2026-10-18T23:16:26.656918
 
 ## 📊 总体统计
 
@@ -8,8 +8,8 @@
 |------|------|
 | 总 PR 数 | **82** |
 | 已合入 (Merged) | **2** |
-| 待合入 (Open) | **66** |
-| 已关闭未合入 | **14** |
+| 待合入 (Open) | **65** |
+| 已关闭未合入 | **15** |
 
 ## ✅ 已合入 PR 分布（按仓库）
 
@@ -51,43 +51,42 @@
 | 27 | nuttx | #381 | libelf: skip unnamed symbols in libelf_findsymbol() | yydawx | 2026-09-13 | [查看](https://github.com/open-vela/nuttx/pull/381) |
 | 28 | nuttx | #379 | feat:esp32-p4 add board support | cubegao | 2026-09-13 | [查看](https://github.com/open-vela/nuttx/pull/379) |
 | 29 | nuttx | #374 | fix(input): migrate ft5x06 driver to touchscreen framework f... | 3181619934 | 2026-09-06 | [查看](https://github.com/open-vela/nuttx/pull/374) |
-| 30 | nuttx | #360 | arch/arm: add BK7258 runtime integration | YangMaxpro | 2026-08-31 | [查看](https://github.com/open-vela/nuttx/pull/360) |
-| 31 | nuttx-apps | #137 | feat: add campreview/campilot apps | Joneyao | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/137) |
-| 32 | nuttx-apps | #136 | 龙芯队 nuttx-apps 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/136) |
-| 33 | nuttx-apps | #133 | mbedtls: use -isystem for include paths; wapi: clear key mat... | 999111klj | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/133) |
-| 34 | nuttx-apps | #132 | tflitemicro: drop the ruy dependency | Sen70s | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/132) |
-| 35 | nuttx-apps | #131 | feat: add Function-EV LVGL console and outbound UI | supei-1 | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/131) |
-| 36 | nuttx-apps | #130 | netinit: add runtime IPv4 policy and carrier polling | 3181619934 | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/130) |
-| 37 | nuttx-apps | #128 | Contest2026 124 net init | zealsoftstudio | 2026-09-18 | [查看](https://github.com/open-vela/nuttx-apps/pull/128) |
-| 38 | nuttx-apps | #127 | Rk3588 evb7 v11 | C-Ackerman | 2026-09-15 | [查看](https://github.com/open-vela/nuttx-apps/pull/127) |
-| 39 | nuttx_libs_libxx_libcxx | #5 | 龙芯队 nuttx_libs_libxx_libcxx 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx_libs_libxx_libcxx/pull/5) |
-| 40 | packages_ai_agent | #46 | feat: add Alive Guardian safety workflow | 24khuangjinxianyu-creator | 2026-09-20 | [查看](https://github.com/open-vela/packages_ai_agent/pull/46) |
-| 41 | packages_ai_agent | #45 | Bletest | Sen70s | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/45) |
-| 42 | packages_ai_agent | #44 | agent: detect chunked body completion by chunk size, use a m... | 3181619934 | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/44) |
-| 43 | packages_ai_agent | #43 | Contest/agent voice | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/43) |
-| 44 | packages_ai_agent | #42 | Contest2026 124 ai agent | zealsoftstudio | 2026-09-18 | [查看](https://github.com/open-vela/packages_ai_agent/pull/42) |
-| 45 | packages_ai_agent | #41 | dev-ai-contest-2026: ai_agent MCP 闭环编码、PC 侧编译 MCP、media 播放、r... | JUSTiceMaMo | 2026-09-17 | [查看](https://github.com/open-vela/packages_ai_agent/pull/41) |
-| 46 | packages_ai_agent | #40 | fix(ai_agent): 大请求体 TLS 写入、工具重复收尾与只读边界加固 | FoLeaf | 2026-09-17 | [查看](https://github.com/open-vela/packages_ai_agent/pull/40) |
-| 47 | packages_ai_agent | #36 | channels: single-instance agent, MQTT child reports, CLI gua... | Rustypudding | 2026-09-12 | [查看](https://github.com/open-vela/packages_ai_agent/pull/36) |
-| 48 | packages_ai_agent | #35 | rpg: multi-role play with follow-up windows and session isol... | Rustypudding | 2026-09-12 | [查看](https://github.com/open-vela/packages_ai_agent/pull/35) |
-| 49 | packages_ai_agent | #34 | infra: keep reminders firing under a busy outbound queue | Rustypudding | 2026-09-12 | [查看](https://github.com/open-vela/packages_ai_agent/pull/34) |
-| 50 | packages_ai_agent | #33 | voice: add MiMo ASR/TTS backends and fix the audio pipeline | Rustypudding | 2026-09-12 | [查看](https://github.com/open-vela/packages_ai_agent/pull/33) |
-| 51 | packages_ai_agent | #32 | ai_agent: SRAM-tight HMI mode and VelaGuard tool allow-list ... | FoLeaf | 2026-09-12 | [查看](https://github.com/open-vela/packages_ai_agent/pull/32) |
-| 52 | packages_ai_agent | #31 | feat: integrate MoonCat recovery tool and optional INT8 rout... | QinXi-ai | 2026-09-08 | [查看](https://github.com/open-vela/packages_ai_agent/pull/31) |
-| 53 | packages_demos | #79 | feat: add MoonCat native recovery UI and remote inspection | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/packages_demos/pull/79) |
-| 54 | vendor_allwinnertech | #22 | feat: enable Gemini S1 MoonCat contest configuration | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/22) |
-| 55 | vendor_allwinnertech | #21 | Gemini s1/kid buddy upstream | Rustypudding | 2026-09-13 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/21) |
-| 56 | vendor_allwinnertech | #20 | r528: BOE 1200x1920 panel + de_dsi write timeout + ltr553 AL... | arclau | 2026-09-11 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/20) |
-| 57 | vendor_allwinnertech | #19 | feat(r528): add USB EHCI host driver, UVC bringup and LCD SP... | lvxinliang | 2026-09-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/19) |
-| 58 | vendor_gigadevice | #7 | boards/gd32f4/gd32f470v_start: FireEye board support (ADC/OL... | liu369369 | 2026-09-16 | [查看](https://github.com/open-vela/vendor_gigadevice/pull/7) |
-| 59 | vendor_loongsonpi | #2 | Dev ai contest 2026 | Xhbzfjt | 2026-09-09 | [查看](https://github.com/open-vela/vendor_loongsonpi/pull/2) |
-| 60 | vendor_sifli | #37 | Contest/audcodec adc | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/vendor_sifli/pull/37) |
-| 61 | vendor_sifli | #36 | boards/sf32lb52: CO5300 display-demo bring-up for contest te... | INKT-love | 2026-09-19 | [查看](https://github.com/open-vela/vendor_sifli/pull/36) |
-| 62 | vendor_sifli | #35 | sf32lb52: prepare Huangshan IMU and v28 boot support | yangshuxuan1024 | 2026-09-18 | [查看](https://github.com/open-vela/vendor_sifli/pull/35) |
-| 63 | vendor_sifli | #34 | fix(sf32lb52_devkit_lcd): enable I2C so the touch controller... | tofreemyself | 2026-09-11 | [查看](https://github.com/open-vela/vendor_sifli/pull/34) |
-| 64 | vendor_sifli | #33 | sf32lb52: fix upstream build/startup issues and add DevKit-L... | zhan9xiaohu1 | 2026-09-08 | [查看](https://github.com/open-vela/vendor_sifli/pull/33) |
-| 65 | vendor_sifli | #32 | sf32lb52: AI Watch contest board fixes (BLE bridge/LCPU/LCD/... | ma-abc123 | 2026-09-04 | [查看](https://github.com/open-vela/vendor_sifli/pull/32) |
-| 66 | vendor_sifli | #31 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/vendor_sifli/pull/31) |
+| 30 | nuttx-apps | #137 | feat: add campreview/campilot apps | Joneyao | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/137) |
+| 31 | nuttx-apps | #136 | 龙芯队 nuttx-apps 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/136) |
+| 32 | nuttx-apps | #133 | mbedtls: use -isystem for include paths; wapi: clear key mat... | 999111klj | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/133) |
+| 33 | nuttx-apps | #132 | tflitemicro: drop the ruy dependency | Sen70s | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/132) |
+| 34 | nuttx-apps | #131 | feat: add Function-EV LVGL console and outbound UI | supei-1 | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/131) |
+| 35 | nuttx-apps | #130 | netinit: add runtime IPv4 policy and carrier polling | 3181619934 | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/130) |
+| 36 | nuttx-apps | #128 | Contest2026 124 net init | zealsoftstudio | 2026-09-18 | [查看](https://github.com/open-vela/nuttx-apps/pull/128) |
+| 37 | nuttx-apps | #127 | Rk3588 evb7 v11 | C-Ackerman | 2026-09-15 | [查看](https://github.com/open-vela/nuttx-apps/pull/127) |
+| 38 | nuttx_libs_libxx_libcxx | #5 | 龙芯队 nuttx_libs_libxx_libcxx 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx_libs_libxx_libcxx/pull/5) |
+| 39 | packages_ai_agent | #46 | feat: add Alive Guardian safety workflow | 24khuangjinxianyu-creator | 2026-09-20 | [查看](https://github.com/open-vela/packages_ai_agent/pull/46) |
+| 40 | packages_ai_agent | #45 | Bletest | Sen70s | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/45) |
+| 41 | packages_ai_agent | #44 | agent: detect chunked body completion by chunk size, use a m... | 3181619934 | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/44) |
+| 42 | packages_ai_agent | #43 | Contest/agent voice | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/43) |
+| 43 | packages_ai_agent | #42 | Contest2026 124 ai agent | zealsoftstudio | 2026-09-18 | [查看](https://github.com/open-vela/packages_ai_agent/pull/42) |
+| 44 | packages_ai_agent | #41 | dev-ai-contest-2026: ai_agent MCP 闭环编码、PC 侧编译 MCP、media 播放、r... | JUSTiceMaMo | 2026-09-17 | [查看](https://github.com/open-vela/packages_ai_agent/pull/41) |
+| 45 | packages_ai_agent | #40 | fix(ai_agent): 大请求体 TLS 写入、工具重复收尾与只读边界加固 | FoLeaf | 2026-09-17 | [查看](https://github.com/open-vela/packages_ai_agent/pull/40) |
+| 46 | packages_ai_agent | #36 | channels: single-instance agent, MQTT child reports, CLI gua... | Rustypudding | 2026-09-12 | [查看](https://github.com/open-vela/packages_ai_agent/pull/36) |
+| 47 | packages_ai_agent | #35 | rpg: multi-role play with follow-up windows and session isol... | Rustypudding | 2026-09-12 | [查看](https://github.com/open-vela/packages_ai_agent/pull/35) |
+| 48 | packages_ai_agent | #34 | infra: keep reminders firing under a busy outbound queue | Rustypudding | 2026-09-12 | [查看](https://github.com/open-vela/packages_ai_agent/pull/34) |
+| 49 | packages_ai_agent | #33 | voice: add MiMo ASR/TTS backends and fix the audio pipeline | Rustypudding | 2026-09-12 | [查看](https://github.com/open-vela/packages_ai_agent/pull/33) |
+| 50 | packages_ai_agent | #32 | ai_agent: SRAM-tight HMI mode and VelaGuard tool allow-list ... | FoLeaf | 2026-09-12 | [查看](https://github.com/open-vela/packages_ai_agent/pull/32) |
+| 51 | packages_ai_agent | #31 | feat: integrate MoonCat recovery tool and optional INT8 rout... | QinXi-ai | 2026-09-08 | [查看](https://github.com/open-vela/packages_ai_agent/pull/31) |
+| 52 | packages_demos | #79 | feat: add MoonCat native recovery UI and remote inspection | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/packages_demos/pull/79) |
+| 53 | vendor_allwinnertech | #22 | feat: enable Gemini S1 MoonCat contest configuration | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/22) |
+| 54 | vendor_allwinnertech | #21 | Gemini s1/kid buddy upstream | Rustypudding | 2026-09-13 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/21) |
+| 55 | vendor_allwinnertech | #20 | r528: BOE 1200x1920 panel + de_dsi write timeout + ltr553 AL... | arclau | 2026-09-11 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/20) |
+| 56 | vendor_allwinnertech | #19 | feat(r528): add USB EHCI host driver, UVC bringup and LCD SP... | lvxinliang | 2026-09-05 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/19) |
+| 57 | vendor_gigadevice | #7 | boards/gd32f4/gd32f470v_start: FireEye board support (ADC/OL... | liu369369 | 2026-09-16 | [查看](https://github.com/open-vela/vendor_gigadevice/pull/7) |
+| 58 | vendor_loongsonpi | #2 | Dev ai contest 2026 | Xhbzfjt | 2026-09-09 | [查看](https://github.com/open-vela/vendor_loongsonpi/pull/2) |
+| 59 | vendor_sifli | #37 | Contest/audcodec adc | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/vendor_sifli/pull/37) |
+| 60 | vendor_sifli | #36 | boards/sf32lb52: CO5300 display-demo bring-up for contest te... | INKT-love | 2026-09-19 | [查看](https://github.com/open-vela/vendor_sifli/pull/36) |
+| 61 | vendor_sifli | #35 | sf32lb52: prepare Huangshan IMU and v28 boot support | yangshuxuan1024 | 2026-09-18 | [查看](https://github.com/open-vela/vendor_sifli/pull/35) |
+| 62 | vendor_sifli | #34 | fix(sf32lb52_devkit_lcd): enable I2C so the touch controller... | tofreemyself | 2026-09-11 | [查看](https://github.com/open-vela/vendor_sifli/pull/34) |
+| 63 | vendor_sifli | #33 | sf32lb52: fix upstream build/startup issues and add DevKit-L... | zhan9xiaohu1 | 2026-09-08 | [查看](https://github.com/open-vela/vendor_sifli/pull/33) |
+| 64 | vendor_sifli | #32 | sf32lb52: AI Watch contest board fixes (BLE bridge/LCPU/LCD/... | ma-abc123 | 2026-09-04 | [查看](https://github.com/open-vela/vendor_sifli/pull/32) |
+| 65 | vendor_sifli | #31 | sf32lb52: add accelerated LCD display support | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/vendor_sifli/pull/31) |
 
 ## ❌ 已关闭未合入 PR
 
@@ -98,15 +97,16 @@
 | 3 | nuttx | #371 | risc-v/espressif: Add ESP32-P4 support | wx719 | 2026-09-06 | [查看](https://github.com/open-vela/nuttx/pull/371) |
 | 4 | nuttx | #369 | feat(usbhost): add UVC host class driver and ili9341 putarea | lvxinliang | 2026-09-05 | [查看](https://github.com/open-vela/nuttx/pull/369) |
 | 5 | nuttx | #364 | arch/risc-v: ESP32-P4 chip & board port with gt9xx improveme... | IsXiaoXiaoZhou | 2026-09-04 | [查看](https://github.com/open-vela/nuttx/pull/364) |
-| 6 | nuttx-apps | #135 | 龙芯队 nuttx-apps 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/135) |
-| 7 | nuttx-apps | #134 | 龙芯队nuttx 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/134) |
-| 8 | nuttx-apps | #129 | Contest/pppd null modem | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/129) |
-| 9 | nuttx-apps | #126 | fix(mbedtls): 修复 TLS 编译告警并隔离 include（esp32p4） | ez-xu | 2026-09-07 | [查看](https://github.com/open-vela/nuttx-apps/pull/126) |
-| 10 | nuttx-apps | #124 | feat(examples): add uvc_test, person_detection and face_dete... | lvxinliang | 2026-09-05 | [查看](https://github.com/open-vela/nuttx-apps/pull/124) |
-| 11 | nuttx-apps | #123 | examples/lvgldemo: SignBridge UI with SC2336 camera preview ... | IsXiaoXiaoZhou | 2026-09-04 | [查看](https://github.com/open-vela/nuttx-apps/pull/123) |
-| 12 | nuttx-apps | #121 | graphics/lvgl: link SiFli EPIC HAL | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/nuttx-apps/pull/121) |
-| 13 | nuttx_libs_libxx_libcxx | #4 | 龙芯队 nuttx_libs_libxx_libcxx  仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx_libs_libxx_libcxx/pull/4) |
-| 14 | packages_ai_agent | #30 | feat(remote-ctrl): drive a remote ACP agent from the device ... | C-Luv9615 | 2026-09-04 | [查看](https://github.com/open-vela/packages_ai_agent/pull/30) |
+| 6 | nuttx | #360 | arch/arm: add BK7258 runtime integration | YangMaxpro | 2026-08-31 | [查看](https://github.com/open-vela/nuttx/pull/360) |
+| 7 | nuttx-apps | #135 | 龙芯队 nuttx-apps 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/135) |
+| 8 | nuttx-apps | #134 | 龙芯队nuttx 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/134) |
+| 9 | nuttx-apps | #129 | Contest/pppd null modem | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/129) |
+| 10 | nuttx-apps | #126 | fix(mbedtls): 修复 TLS 编译告警并隔离 include（esp32p4） | ez-xu | 2026-09-07 | [查看](https://github.com/open-vela/nuttx-apps/pull/126) |
+| 11 | nuttx-apps | #124 | feat(examples): add uvc_test, person_detection and face_dete... | lvxinliang | 2026-09-05 | [查看](https://github.com/open-vela/nuttx-apps/pull/124) |
+| 12 | nuttx-apps | #123 | examples/lvgldemo: SignBridge UI with SC2336 camera preview ... | IsXiaoXiaoZhou | 2026-09-04 | [查看](https://github.com/open-vela/nuttx-apps/pull/123) |
+| 13 | nuttx-apps | #121 | graphics/lvgl: link SiFli EPIC HAL | yunlonguu | 2026-09-01 | [查看](https://github.com/open-vela/nuttx-apps/pull/121) |
+| 14 | nuttx_libs_libxx_libcxx | #4 | 龙芯队 nuttx_libs_libxx_libcxx  仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx_libs_libxx_libcxx/pull/4) |
+| 15 | packages_ai_agent | #30 | feat(remote-ctrl): drive a remote ACP agent from the device ... | C-Luv9615 | 2026-09-04 | [查看](https://github.com/open-vela/packages_ai_agent/pull/30) |
 
 ---
 
