@@ -27747,5 +27747,151 @@
         "url": "https://github.com/open-vela/vendor_sifli/pull/31"
       }
     ]
+  },
+  {
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T23:30:12.141267",
+    "summary": {
+      "total_prs": 22,
+      "merged": 0,
+      "open": 19,
+      "closed_not_merged": 3
+    },
+    "merged_repos": {},
+    "open_prs": [
+      {
+        "repo": ".claude",
+        "number": 54,
+        "title": "feat(collector): add Qoder support (backfill + realtime hook)",
+        "user": "yanxingyu17",
+        "url": "https://github.com/open-vela/.claude/pull/54"
+      },
+      {
+        "repo": "frameworks_runtimes_feature",
+        "number": 5,
+        "title": "feat: add VelaClaw QuickApp bridge",
+        "user": "24khuangjinxianyu-creator",
+        "url": "https://github.com/open-vela/frameworks_runtimes_feature/pull/5"
+      },
+      {
+        "repo": "nuttx",
+        "number": 399,
+        "title": "arch: add STM32N6 support",
+        "user": "Fu2024",
+        "url": "https://github.com/open-vela/nuttx/pull/399"
+      },
+      {
+        "repo": "nuttx",
+        "number": 398,
+        "title": "feat(esp32p4): GT911 shim, esp-hal pin restore, JPEG/DMA2D interrupt fixes",
+        "user": "Joneyao",
+        "url": "https://github.com/open-vela/nuttx/pull/398"
+      },
+      {
+        "repo": "nuttx",
+        "number": 397,
+        "title": "龙芯队 nuttx 仓库改动 contest2026_479_longxindui",
+        "user": "lingluan9",
+        "url": "https://github.com/open-vela/nuttx/pull/397"
+      },
+      {
+        "repo": "nuttx",
+        "number": 395,
+        "title": "esp32s3: driver fixes for ESP32-S3-EYE AI camera workload",
+        "user": "999111klj",
+        "url": "https://github.com/open-vela/nuttx/pull/395"
+      },
+      {
+        "repo": "nuttx",
+        "number": 394,
+        "title": "Fix/stdlib cxx div",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/nuttx/pull/394"
+      },
+      {
+        "repo": "nuttx",
+        "number": 393,
+        "title": "feat: add ESP32-P4 Function-EV hardware port",
+        "user": "supei-1",
+        "url": "https://github.com/open-vela/nuttx/pull/393"
+      },
+      {
+        "repo": "nuttx",
+        "number": 392,
+        "title": "feat(stm32h7): poll the LAN8740A link state and fix SDRAM2 heap overlap",
+        "user": "3181619934",
+        "url": "https://github.com/open-vela/nuttx/pull/392"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 137,
+        "title": "feat: add campreview/campilot apps",
+        "user": "Joneyao",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/137"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 136,
+        "title": "龙芯队 nuttx-apps 仓库改动 contest2026_479_longxindui",
+        "user": "lingluan9",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/136"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 133,
+        "title": "mbedtls: use -isystem for include paths; wapi: clear key material",
+        "user": "999111klj",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/133"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 132,
+        "title": "tflitemicro: drop the ruy dependency",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/132"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 131,
+        "title": "feat: add Function-EV LVGL console and outbound UI",
+        "user": "supei-1",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/131"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 130,
+        "title": "netinit: add runtime IPv4 policy and carrier polling",
+        "user": "3181619934",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/130"
+      },
+      {
+        "repo": "nuttx_libs_libxx_libcxx",
+        "number": 5,
+        "title": "龙芯队 nuttx_libs_libxx_libcxx 仓库改动 contest2026_479_longxindui",
+        "user": "lingluan9",
+        "url": "https://github.com/open-vela/nuttx_libs_libxx_libcxx/pull/5"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 46,
+        "title": "feat: add Alive Guardian safety workflow",
+        "user": "24khuangjinxianyu-creator",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/46"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 45,
+        "title": "Bletest",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/45"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 44,
+        "title": "agent: detect chunked body completion by chunk size, use a monotonic clock",
+        "user": "3181619934",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/44"
+      }
+    ]
   }
 ]
