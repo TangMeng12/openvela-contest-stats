@@ -8,7 +8,7 @@
     "prs",
     "ai_log_repos"
   ],
-  "updated": "2026-10-21 23:15:14",
+  "updated": "2026-10-22 23:33:53",
   "history": [
     {
       "date": "2026-07-17",
@@ -593,6 +593,22 @@
       "issues": 45,
       "prs": 1625,
       "ai_log_repos": 174
+    },
+    {
+      "date": "2026-10-21",
+      "total_repos": 500,
+      "active_repos": 226,
+      "issues": 45,
+      "prs": 1632,
+      "ai_log_repos": 174
+    },
+    {
+      "date": "2026-10-22",
+      "total_repos": 500,
+      "active_repos": 176,
+      "issues": 45,
+      "prs": 1270,
+      "ai_log_repos": 175
     }
   ]
 }
