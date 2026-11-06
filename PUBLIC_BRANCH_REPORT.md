@@ -1,15 +1,15 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-11-05T22:34:07.074218
+> 最后更新时间: 2026-11-06T23:00:15.893710
 
 ## 📊 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总 PR 数 | **79** |
+| 总 PR 数 | **78** |
 | 已合入 (Merged) | **3** |
 | 待合入 (Open) | **37** |
-| 已关闭未合入 | **39** |
+| 已关闭未合入 | **38** |
 
 ## ✅ 已合入 PR 分布（按仓库）
 
@@ -85,25 +85,24 @@
 | 18 | nuttx | #383 | arch/gd32f4: 补齐 GD32F407 芯片分发与 w5500 驱动日志调整 | liu369369 | 2026-09-16 | [查看](https://github.com/open-vela/nuttx/pull/383) |
 | 19 | nuttx | #382 | Rk3588 evb7 v11 | C-Ackerman | 2026-09-15 | [查看](https://github.com/open-vela/nuttx/pull/382) |
 | 20 | nuttx | #381 | libelf: skip unnamed symbols in libelf_findsymbol() | yydawx | 2026-09-13 | [查看](https://github.com/open-vela/nuttx/pull/381) |
-| 21 | nuttx | #379 | feat:esp32-p4 add board support | cubegao | 2026-09-13 | [查看](https://github.com/open-vela/nuttx/pull/379) |
-| 22 | nuttx-apps | #137 | feat: add campreview/campilot apps | Joneyao | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/137) |
-| 23 | nuttx-apps | #136 | 龙芯队 nuttx-apps 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/136) |
-| 24 | nuttx-apps | #135 | 龙芯队 nuttx-apps 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/135) |
-| 25 | nuttx-apps | #134 | 龙芯队nuttx 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/134) |
-| 26 | nuttx-apps | #133 | mbedtls: use -isystem for include paths; wapi: clear key mat... | 999111klj | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/133) |
-| 27 | nuttx-apps | #132 | tflitemicro: drop the ruy dependency | Sen70s | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/132) |
-| 28 | nuttx-apps | #131 | feat: add Function-EV LVGL console and outbound UI | supei-1 | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/131) |
-| 29 | nuttx-apps | #130 | netinit: add runtime IPv4 policy and carrier polling | 3181619934 | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/130) |
-| 30 | nuttx-apps | #129 | Contest/pppd null modem | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/129) |
-| 31 | nuttx-apps | #128 | Contest2026 124 net init | zealsoftstudio | 2026-09-18 | [查看](https://github.com/open-vela/nuttx-apps/pull/128) |
-| 32 | nuttx-apps | #127 | Rk3588 evb7 v11 | C-Ackerman | 2026-09-15 | [查看](https://github.com/open-vela/nuttx-apps/pull/127) |
-| 33 | nuttx_libs_libxx_libcxx | #4 | 龙芯队 nuttx_libs_libxx_libcxx  仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx_libs_libxx_libcxx/pull/4) |
-| 34 | packages_ai_agent | #46 | feat: add Alive Guardian safety workflow | 24khuangjinxianyu-creator | 2026-09-20 | [查看](https://github.com/open-vela/packages_ai_agent/pull/46) |
-| 35 | packages_ai_agent | #45 | Bletest | Sen70s | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/45) |
-| 36 | packages_ai_agent | #44 | agent: detect chunked body completion by chunk size, use a m... | 3181619934 | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/44) |
-| 37 | packages_ai_agent | #43 | Contest/agent voice | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/43) |
-| 38 | packages_ai_agent | #42 | Contest2026 124 ai agent | zealsoftstudio | 2026-09-18 | [查看](https://github.com/open-vela/packages_ai_agent/pull/42) |
-| 39 | packages_ai_agent | #40 | fix(ai_agent): 大请求体 TLS 写入、工具重复收尾与只读边界加固 | FoLeaf | 2026-09-17 | [查看](https://github.com/open-vela/packages_ai_agent/pull/40) |
+| 21 | nuttx-apps | #137 | feat: add campreview/campilot apps | Joneyao | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/137) |
+| 22 | nuttx-apps | #136 | 龙芯队 nuttx-apps 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/136) |
+| 23 | nuttx-apps | #135 | 龙芯队 nuttx-apps 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/135) |
+| 24 | nuttx-apps | #134 | 龙芯队nuttx 仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/134) |
+| 25 | nuttx-apps | #133 | mbedtls: use -isystem for include paths; wapi: clear key mat... | 999111klj | 2026-09-20 | [查看](https://github.com/open-vela/nuttx-apps/pull/133) |
+| 26 | nuttx-apps | #132 | tflitemicro: drop the ruy dependency | Sen70s | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/132) |
+| 27 | nuttx-apps | #131 | feat: add Function-EV LVGL console and outbound UI | supei-1 | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/131) |
+| 28 | nuttx-apps | #130 | netinit: add runtime IPv4 policy and carrier polling | 3181619934 | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/130) |
+| 29 | nuttx-apps | #129 | Contest/pppd null modem | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/nuttx-apps/pull/129) |
+| 30 | nuttx-apps | #128 | Contest2026 124 net init | zealsoftstudio | 2026-09-18 | [查看](https://github.com/open-vela/nuttx-apps/pull/128) |
+| 31 | nuttx-apps | #127 | Rk3588 evb7 v11 | C-Ackerman | 2026-09-15 | [查看](https://github.com/open-vela/nuttx-apps/pull/127) |
+| 32 | nuttx_libs_libxx_libcxx | #4 | 龙芯队 nuttx_libs_libxx_libcxx  仓库改动 contest2026_479_longxindui | lingluan9 | 2026-09-20 | [查看](https://github.com/open-vela/nuttx_libs_libxx_libcxx/pull/4) |
+| 33 | packages_ai_agent | #46 | feat: add Alive Guardian safety workflow | 24khuangjinxianyu-creator | 2026-09-20 | [查看](https://github.com/open-vela/packages_ai_agent/pull/46) |
+| 34 | packages_ai_agent | #45 | Bletest | Sen70s | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/45) |
+| 35 | packages_ai_agent | #44 | agent: detect chunked body completion by chunk size, use a m... | 3181619934 | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/44) |
+| 36 | packages_ai_agent | #43 | Contest/agent voice | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/43) |
+| 37 | packages_ai_agent | #42 | Contest2026 124 ai agent | zealsoftstudio | 2026-09-18 | [查看](https://github.com/open-vela/packages_ai_agent/pull/42) |
+| 38 | packages_ai_agent | #40 | fix(ai_agent): 大请求体 TLS 写入、工具重复收尾与只读边界加固 | FoLeaf | 2026-09-17 | [查看](https://github.com/open-vela/packages_ai_agent/pull/40) |
 
 ---
 
