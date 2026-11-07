@@ -1,6 +1,6 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-11-06T23:00:15.893710
+> 最后更新时间: 2026-11-07T22:48:51.173884
 
 ## 📊 总体统计
 
@@ -53,8 +53,8 @@
 | 28 | packages_ai_agent | #47 | Bletestfeat: agent voice pipeline, pet UI and heart-rate int... | Sen70s | 2026-11-03 | [查看](https://github.com/open-vela/packages_ai_agent/pull/47) |
 | 29 | packages_ai_agent | #41 | dev-ai-contest-2026: ai_agent MCP 闭环编码、PC 侧编译 MCP、media 播放、r... | JUSTiceMaMo | 2026-09-17 | [查看](https://github.com/open-vela/packages_ai_agent/pull/41) |
 | 30 | packages_demos | #79 | feat: add MoonCat native recovery UI and remote inspection | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/packages_demos/pull/79) |
-| 31 | vendor_allwinnertech | #22 | feat: enable Gemini S1 MoonCat contest configuration | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/22) |
-| 32 | vendor_allwinnertech | #21 | Gemini s1/kid buddy upstream | Rustypudding | 2026-09-13 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/21) |
+| 31 | vendor_allwinnertech | #23 | r528s3-mibox-x1: 新增 MIBOX-X1 板卡适配 | tyx-crazy | 2026-11-07 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/23) |
+| 32 | vendor_allwinnertech | #22 | feat: enable Gemini S1 MoonCat contest configuration | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/22) |
 | 33 | vendor_gigadevice | #7 | boards/gd32f4/gd32f470v_start: FireEye board support (ADC/OL... | liu369369 | 2026-09-16 | [查看](https://github.com/open-vela/vendor_gigadevice/pull/7) |
 | 34 | vendor_sifli | #40 | fix(sf32lb52): stabilize BT H4 transport, flash writes and h... | Sen70s | 2026-11-03 | [查看](https://github.com/open-vela/vendor_sifli/pull/40) |
 | 35 | vendor_sifli | #37 | Contest/audcodec adc | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/vendor_sifli/pull/37) |
