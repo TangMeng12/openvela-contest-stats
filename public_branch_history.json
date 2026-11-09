@@ -32869,5 +32869,280 @@
         "url": "https://github.com/open-vela/vendor_sifli/pull/35"
       }
     ]
+  },
+  {
+    "date": "2026-11-09",
+    "timestamp": "2026-11-09T22:54:34.031196",
+    "summary": {
+      "total_prs": 78,
+      "merged": 3,
+      "open": 37,
+      "closed_not_merged": 38
+    },
+    "merged_repos": {
+      ".claude": 1,
+      "docs": 2
+    },
+    "open_prs": [
+      {
+        "repo": ".claude",
+        "number": 55,
+        "title": "feat(collector): add DeepSeek Harness (dsh) backfill support",
+        "user": "yunline",
+        "url": "https://github.com/open-vela/.claude/pull/55"
+      },
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 45,
+        "title": "fix(nuttx): preserve NuttX LCD stride and expose display counters",
+        "user": "QinXi-ai",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/45"
+      },
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 44,
+        "title": "fix(nuttx): release owned LCD pixel buffers",
+        "user": "yangshuxuan1024",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/44"
+      },
+      {
+        "repo": "apps_graphics_lvgl",
+        "number": 43,
+        "title": "fix(nuttx): fix nuttx touchscreen phys clamp + lvgl.mk GE2D gating",
+        "user": "arclau",
+        "url": "https://github.com/open-vela/apps_graphics_lvgl/pull/43"
+      },
+      {
+        "repo": "external",
+        "number": 52,
+        "title": "zblue: 默认构建路径补上 HCI H4 TTY 驱动",
+        "user": "ma-abc123",
+        "url": "https://github.com/open-vela/external/pull/52"
+      },
+      {
+        "repo": "external_zblue",
+        "number": 236,
+        "title": "fix(bt): harden BR/EDR link-key handling and HCI command timeout paths",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/external_zblue/pull/236"
+      },
+      {
+        "repo": "external_zblue",
+        "number": 234,
+        "title": "l2cap: do not disconnect ACL on application refusal",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/external_zblue/pull/234"
+      },
+      {
+        "repo": "external_zblue",
+        "number": 233,
+        "title": "bluetooth: retain host cleanup state and bounded diagnostics",
+        "user": "yangshuxuan1024",
+        "url": "https://github.com/open-vela/external_zblue/pull/233"
+      },
+      {
+        "repo": "frameworks_bluetooth",
+        "number": 596,
+        "title": "Contest/pr 20261103",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/frameworks_bluetooth/pull/596"
+      },
+      {
+        "repo": "frameworks_bluetooth",
+        "number": 594,
+        "title": "PAN/BNEP: official review stack/SAL fixes",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/frameworks_bluetooth/pull/594"
+      },
+      {
+        "repo": "frameworks_bluetooth",
+        "number": 593,
+        "title": "bluetooth: close H4 transport and propagate cleanup results",
+        "user": "yangshuxuan1024",
+        "url": "https://github.com/open-vela/frameworks_bluetooth/pull/593"
+      },
+      {
+        "repo": "frameworks_runtimes_feature",
+        "number": 5,
+        "title": "feat: add VelaClaw QuickApp bridge",
+        "user": "24khuangjinxianyu-creator",
+        "url": "https://github.com/open-vela/frameworks_runtimes_feature/pull/5"
+      },
+      {
+        "repo": "nuttx",
+        "number": 423,
+        "title": "stm32h750b-dk: OTA groundwork, H750 hardware entropy and board defconfig sync",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/423"
+      },
+      {
+        "repo": "nuttx",
+        "number": 416,
+        "title": "esp32s3-eye: I2S full-duplex / GDMA / audio fixes + ai_agent board support",
+        "user": "uhh27",
+        "url": "https://github.com/open-vela/nuttx/pull/416"
+      },
+      {
+        "repo": "nuttx",
+        "number": 414,
+        "title": "龙芯队 nuttx 仓库改动 contest2026_479_longxindui",
+        "user": "lingluan9",
+        "url": "https://github.com/open-vela/nuttx/pull/414"
+      },
+      {
+        "repo": "nuttx",
+        "number": 413,
+        "title": "stm32h750b-dk: audio/PDM/PTT bring-up and network fixes",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/413"
+      },
+      {
+        "repo": "nuttx",
+        "number": 412,
+        "title": "fix(sched/wdog): rebuild the active list when it was found cleared",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/412"
+      },
+      {
+        "repo": "nuttx",
+        "number": 411,
+        "title": "drivers/input: improve ft5x06 touch polling performance",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/411"
+      },
+      {
+        "repo": "nuttx",
+        "number": 410,
+        "title": "arch/stm32h7: LTDC display acceleration for STM32H750B-DK",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/410"
+      },
+      {
+        "repo": "nuttx",
+        "number": 409,
+        "title": "boards/stm32h750b-dk: add VelaGuard extension board and defconfigs",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/409"
+      },
+      {
+        "repo": "nuttx",
+        "number": 408,
+        "title": "boards/stm32h750b-dk: add QSPI XIP boot support",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx/pull/408"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 141,
+        "title": "龙芯队 nuttx-apps 仓库改动 contest2026_479_longxindui",
+        "user": "lingluan9",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/141"
+      },
+      {
+        "repo": "nuttx-apps",
+        "number": 140,
+        "title": "netutils: ESP8266 LESP compat, carrier DHCP renew and ping socket isolation",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/nuttx-apps/pull/140"
+      },
+      {
+        "repo": "nuttx_libs_libxx_libcxx",
+        "number": 5,
+        "title": "龙芯队 nuttx_libs_libxx_libcxx 仓库改动 contest2026_479_longxindui",
+        "user": "lingluan9",
+        "url": "https://github.com/open-vela/nuttx_libs_libxx_libcxx/pull/5"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 50,
+        "title": "agent: voice operations assistant, TLS transport hardening and read-only tool scope",
+        "user": "FoLeaf",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/50"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 49,
+        "title": "feat(ai_agent): AI-VOX3 desktop companion finals build",
+        "user": "uhh27",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/49"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 48,
+        "title": "龙芯队 packages_ai_agent 仓库改动 contest2026_479_longxindui",
+        "user": "lingluan9",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/48"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 47,
+        "title": "Bletestfeat: agent voice pipeline, pet UI and heart-rate integration",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/47"
+      },
+      {
+        "repo": "packages_ai_agent",
+        "number": 41,
+        "title": "dev-ai-contest-2026: ai_agent MCP 闭环编码、PC 侧编译 MCP、media 播放、remote 审批、AP↔CP UI（42 commits）",
+        "user": "JUSTiceMaMo",
+        "url": "https://github.com/open-vela/packages_ai_agent/pull/41"
+      },
+      {
+        "repo": "packages_demos",
+        "number": 79,
+        "title": "feat: add MoonCat native recovery UI and remote inspection",
+        "user": "QinXi-ai",
+        "url": "https://github.com/open-vela/packages_demos/pull/79"
+      },
+      {
+        "repo": "vendor_allwinnertech",
+        "number": 23,
+        "title": "r528s3-mibox-x1: 新增 MIBOX-X1 板卡适配",
+        "user": "tyx-crazy",
+        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/23"
+      },
+      {
+        "repo": "vendor_allwinnertech",
+        "number": 22,
+        "title": "feat: enable Gemini S1 MoonCat contest configuration",
+        "user": "QinXi-ai",
+        "url": "https://github.com/open-vela/vendor_allwinnertech/pull/22"
+      },
+      {
+        "repo": "vendor_gigadevice",
+        "number": 7,
+        "title": "boards/gd32f4/gd32f470v_start: FireEye board support (ADC/OLED/W5500)…",
+        "user": "liu369369",
+        "url": "https://github.com/open-vela/vendor_gigadevice/pull/7"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 40,
+        "title": "fix(sf32lb52): stabilize BT H4 transport, flash writes and heap layout",
+        "user": "Sen70s",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/40"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 37,
+        "title": "Contest/audcodec adc",
+        "user": "Oliweitz",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/37"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 36,
+        "title": "boards/sf32lb52: CO5300 display-demo bring-up for contest team 377",
+        "user": "INKT-love",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/36"
+      },
+      {
+        "repo": "vendor_sifli",
+        "number": 35,
+        "title": "sf32lb52: prepare Huangshan IMU and v28 boot support",
+        "user": "yangshuxuan1024",
+        "url": "https://github.com/open-vela/vendor_sifli/pull/35"
+      }
+    ]
   }
 ]
