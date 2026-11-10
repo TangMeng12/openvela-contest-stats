@@ -1,6 +1,6 @@
 # openvela 大赛仓库统计报告
 
-> 最后更新时间: 2026-11-09T22:53:44.386857
+> 最后更新时间: 2026-11-10T23:19:19.615922
 
 ## 📊 总体统计
 
@@ -9,7 +9,7 @@
 | 总仓库数 | **500** |
 | 有活跃 Issue/PR 的仓库 | **228** |
 | 总 Issue 数（纯 issue，不含 PR） | **46** |
-| 总 PR 数 | **1930** |
+| 总 PR 数 | **1931** |
 | 提交了 AI Log 的仓库 | **176** |
 
 ## 🏆 有活跃 PR/Issue 的仓库明细
@@ -21,8 +21,8 @@
 | 3 | [contest2026_264_VelaSightsuixingAIzhinengyanjing](https://github.com/open-vela/contest2026_264_VelaSightsuixingAIzhinengyanjing) | 0 | 66 | ✅ |
 | 4 | [contest2026_233_daimazenmepaibudui](https://github.com/open-vela/contest2026_233_daimazenmepaibudui) | 0 | 64 | ✅ |
 | 5 | [contest2026_356_TXCNSTUDIO](https://github.com/open-vela/contest2026_356_TXCNSTUDIO) | 0 | 59 | ✅ |
-| 6 | [contest2026_359_dengfengzaojidecuipidaxuesheng](https://github.com/open-vela/contest2026_359_dengfengzaojidecuipidaxuesheng) | 0 | 52 | ✅ |
-| 7 | [contest2026_037_TensorFishSpecialActivityDivison](https://github.com/open-vela/contest2026_037_TensorFishSpecialActivityDivison) | 0 | 51 | ✅ |
+| 6 | [contest2026_037_TensorFishSpecialActivityDivison](https://github.com/open-vela/contest2026_037_TensorFishSpecialActivityDivison) | 0 | 52 | ✅ |
+| 7 | [contest2026_359_dengfengzaojidecuipidaxuesheng](https://github.com/open-vela/contest2026_359_dengfengzaojidecuipidaxuesheng) | 0 | 52 | ✅ |
 | 8 | [contest2026_272_tokenwujixian](https://github.com/open-vela/contest2026_272_tokenwujixian) | 0 | 46 | ✅ |
 | 9 | [contest2026_098_zhanshangxingguang](https://github.com/open-vela/contest2026_098_zhanshangxingguang) | 0 | 42 | ✅ |
 | 10 | [contest2026_087_gaiduimingyizhanyongdui](https://github.com/open-vela/contest2026_087_gaiduimingyizhanyongdui) | 0 | 41 | ✅ |
@@ -259,7 +259,7 @@
 10. [contest2026_029_sudo](https://github.com/open-vela/contest2026_029_sudo) (PR: 6, Issue: 0)
 11. [contest2026_031_niudanxianqianchong](https://github.com/open-vela/contest2026_031_niudanxianqianchong) (PR: 29, Issue: 0)
 12. [contest2026_034_ISoftStoneSmartFashionPI](https://github.com/open-vela/contest2026_034_ISoftStoneSmartFashionPI) (PR: 2, Issue: 0)
-13. [contest2026_037_TensorFishSpecialActivityDivison](https://github.com/open-vela/contest2026_037_TensorFishSpecialActivityDivison) (PR: 51, Issue: 0)
+13. [contest2026_037_TensorFishSpecialActivityDivison](https://github.com/open-vela/contest2026_037_TensorFishSpecialActivityDivison) (PR: 52, Issue: 0)
 14. [contest2026_039_weilaxinghe](https://github.com/open-vela/contest2026_039_weilaxinghe) (PR: 5, Issue: 0)
 15. [contest2026_041_ArcherMindTechnologyWearableSolutionsTeam](https://github.com/open-vela/contest2026_041_ArcherMindTechnologyWearableSolutionsTeam) (PR: 8, Issue: 0)
 16. [contest2026_043_CircuitForge](https://github.com/open-vela/contest2026_043_CircuitForge) (PR: 15, Issue: 0)
@@ -521,10 +521,10 @@
 | 2026-11-07 | 500 | 227 | 46 | 1929 | 176 |
 | 2026-11-08 | 500 | 227 | 46 | 1929 | 176 |
 | 2026-11-09 | 500 | 228 | 46 | 1930 | 176 |
+| 2026-11-10 | 500 | 228 | 46 | 1931 | 176 |
 
 ### 较上次变化
 
-- 活跃仓库: +1
 - PR: +1
 
 ### PR 数量趋势
@@ -572,7 +572,7 @@
 2026-09-17 | ████████████████████████ 1173
 2026-09-18 | █████████████████████████ 1226
 2026-09-19 | ███████████████████████████ 1315
-2026-09-20 | ███████████████████████████████ 1496
+2026-09-20 | ██████████████████████████████ 1496
 2026-09-21 | ████████████████████████████████ 1557
 2026-09-22 | ████████████████████████████████ 1558
 2026-09-23 | ████████████████████████████████ 1558
@@ -605,7 +605,7 @@
 2026-10-20 | █████████████████████████████████ 1625
 2026-10-21 | █████████████████████████████████ 1632
 2026-10-22 | ██████████████████████████ 1270
-2026-10-23 | ██████████████████████████████████ 1641
+2026-10-23 | █████████████████████████████████ 1641
 2026-10-24 | ██████████████████████████████████ 1644
 2026-10-25 | ██████████████████████████████████ 1652
 2026-10-26 | ██████████████████████████████████ 1652
@@ -622,7 +622,8 @@
 2026-11-06 | ███████████████████████████████████████ 1926
 2026-11-07 | ███████████████████████████████████████ 1929
 2026-11-08 | ███████████████████████████████████████ 1929
-2026-11-09 | ████████████████████████████████████████ 1930
+2026-11-09 | ███████████████████████████████████████ 1930
+2026-11-10 | ████████████████████████████████████████ 1931
 ```
 
 ### AI Log 提交仓库趋势
@@ -721,6 +722,7 @@
 2026-11-07 | ████████████████████████████████████████ 176
 2026-11-08 | ████████████████████████████████████████ 176
 2026-11-09 | ████████████████████████████████████████ 176
+2026-11-10 | ████████████████████████████████████████ 176
 ```
 
 ## 🏅 仓库 PR 排行榜
@@ -731,8 +733,8 @@
 264_VelaSightsuixingAIzhinengyanjing     | ████████████ 66 📝
 233_daimazenmepaibudui                   | ████████████ 64 📝
 356_TXCNSTUDIO                           | ███████████ 59 📝
+037_TensorFishSpecialActivityDivison     | █████████ 52 📝
 359_dengfengzaojidecuipidaxuesheng       | █████████ 52 📝
-037_TensorFishSpecialActivityDivison     | █████████ 51 📝
 272_tokenwujixian                        | ████████ 46 📝
 098_zhanshangxingguang                   | ███████ 42 📝
 087_gaiduimingyizhanyongdui              | ███████ 41 📝
