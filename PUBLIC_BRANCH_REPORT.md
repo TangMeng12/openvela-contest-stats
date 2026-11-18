@@ -1,13 +1,13 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-11-17T23:30:36.035185
+> 最后更新时间: 2026-11-18T22:59:31.335146
 
 ## 📊 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总 PR 数 | **79** |
-| 已合入 (Merged) | **4** |
+| 总 PR 数 | **80** |
+| 已合入 (Merged) | **5** |
 | 待合入 (Open) | **37** |
 | 已关闭未合入 | **38** |
 
@@ -17,7 +17,8 @@
 |------|-----------|
 | [docs](https://github.com/open-vela/docs) | 3 |
 | [.claude](https://github.com/open-vela/.claude) | 1 |
-| **合计** | **4** |
+| [vendor_allwinnertech](https://github.com/open-vela/vendor_allwinnertech) | 1 |
+| **合计** | **5** |
 
 ## ⏳ 待合入 PR（需关注）
 
@@ -53,7 +54,7 @@
 | 28 | packages_ai_agent | #47 | Bletestfeat: agent voice pipeline, pet UI and heart-rate int... | Sen70s | 2026-11-03 | [查看](https://github.com/open-vela/packages_ai_agent/pull/47) |
 | 29 | packages_ai_agent | #41 | dev-ai-contest-2026: ai_agent MCP 闭环编码、PC 侧编译 MCP、media 播放、r... | JUSTiceMaMo | 2026-09-17 | [查看](https://github.com/open-vela/packages_ai_agent/pull/41) |
 | 30 | packages_demos | #79 | feat: add MoonCat native recovery UI and remote inspection | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/packages_demos/pull/79) |
-| 31 | vendor_allwinnertech | #23 | r528s3-mibox-x1: 新增 MIBOX-X1 板卡适配 | tyx-crazy | 2026-11-07 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/23) |
+| 31 | vendor_allwinnertech | #24 | fix(r528s3-mibox-x1): serialise the icm20948 enable/disable ... | tyx-crazy | 2026-11-18 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/24) |
 | 32 | vendor_allwinnertech | #22 | feat: enable Gemini S1 MoonCat contest configuration | QinXi-ai | 2026-09-19 | [查看](https://github.com/open-vela/vendor_allwinnertech/pull/22) |
 | 33 | vendor_gigadevice | #7 | boards/gd32f4/gd32f470v_start: FireEye board support (ADC/OL... | liu369369 | 2026-09-16 | [查看](https://github.com/open-vela/vendor_gigadevice/pull/7) |
 | 34 | vendor_sifli | #40 | fix(sf32lb52): stabilize BT H4 transport, flash writes and h... | Sen70s | 2026-11-03 | [查看](https://github.com/open-vela/vendor_sifli/pull/40) |
