@@ -1,15 +1,15 @@
 # openvela 公共仓库 dev-ai-contest-2026 分支 PR 统计
 
-> 最后更新时间: 2026-11-20T22:47:35.631396
+> 最后更新时间: 2026-11-21T23:29:06.139574
 
 ## 📊 总体统计
 
 | 指标 | 数量 |
 |------|------|
-| 总 PR 数 | **80** |
+| 总 PR 数 | **81** |
 | 已合入 (Merged) | **5** |
 | 待合入 (Open) | **37** |
-| 已关闭未合入 | **38** |
+| 已关闭未合入 | **39** |
 
 ## ✅ 已合入 PR 分布（按仓库）
 
@@ -104,6 +104,7 @@
 | 36 | packages_ai_agent | #43 | Contest/agent voice | Oliweitz | 2026-09-19 | [查看](https://github.com/open-vela/packages_ai_agent/pull/43) |
 | 37 | packages_ai_agent | #42 | Contest2026 124 ai agent | zealsoftstudio | 2026-09-18 | [查看](https://github.com/open-vela/packages_ai_agent/pull/42) |
 | 38 | packages_ai_agent | #40 | fix(ai_agent): 大请求体 TLS 写入、工具重复收尾与只读边界加固 | FoLeaf | 2026-09-17 | [查看](https://github.com/open-vela/packages_ai_agent/pull/40) |
+| 39 | vendor_st | #4 | test: probe PR capability | HonestQiao | 2026-11-21 | [查看](https://github.com/open-vela/vendor_st/pull/4) |
 
 ---
 
